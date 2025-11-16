@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "id": 18,
+      "attributes": {
+        "name": "Finalist 1",
+        "year": 2024,
+        "category": "Startup Track",
+        "type": "Finalist",
+        "position": 1,
+        "description": null,
+        "logo": {
+          "id": 541,
+          "attributes": {
+            "name": "e7981d0c0966958cda5cb09d44053f0d.png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_e7981d0c0966958cda5cb09d44053f0d_f849ff8f22.png",
+                "hash": "xsmall_e7981d0c0966958cda5cb09d44053f0d_f849ff8f22",
+                "mime": "image/png",
+                "name": "xsmall_e7981d0c0966958cda5cb09d44053f0d.png",
+                "path": null,
+                "size": 5.46,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_e7981d0c0966958cda5cb09d44053f0d_f849ff8f22.png",
+                "hash": "thumbnail_e7981d0c0966958cda5cb09d44053f0d_f849ff8f22",
+                "mime": "image/png",
+                "name": "thumbnail_e7981d0c0966958cda5cb09d44053f0d.png",
+                "path": null,
+                "size": 26.65,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/e7981d0c0966958cda5cb09d44053f0d_f849ff8f22.png"
+          }
+        }
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "name": "Finalist 2",
+        "year": 2024,
+        "category": "Startup Track",
+        "type": "Finalist",
+        "position": 2,
+        "description": null,
+        "logo": {
+          "id": 531,
+          "attributes": {
+            "name": "c135e679ab8b4be0fd382c3ae560943f.png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_c135e679ab8b4be0fd382c3ae560943f_cfd1e6dc4b.png",
+                "hash": "xsmall_c135e679ab8b4be0fd382c3ae560943f_cfd1e6dc4b",
+                "mime": "image/png",
+                "name": "xsmall_c135e679ab8b4be0fd382c3ae560943f.png",
+                "path": null,
+                "size": 1.44,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_c135e679ab8b4be0fd382c3ae560943f_cfd1e6dc4b.png",
+                "hash": "thumbnail_c135e679ab8b4be0fd382c3ae560943f_cfd1e6dc4b",
+                "mime": "image/png",
+                "name": "thumbnail_c135e679ab8b4be0fd382c3ae560943f.png",
+                "path": null,
+                "size": 4.52,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/c135e679ab8b4be0fd382c3ae560943f_cfd1e6dc4b.png"
+          }
+        }
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "name": "Finalist 3",
+        "year": 2024,
+        "category": "Startup Track",
+        "type": "Finalist",
+        "position": 3,
+        "description": null,
+        "logo": {
+          "id": 530,
+          "attributes": {
+            "name": "397b8aa3b1409da19f6512c20a5e77a0.png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae.png",
+                "hash": "xsmall_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae",
+                "mime": "image/png",
+                "name": "xsmall_397b8aa3b1409da19f6512c20a5e77a0.png",
+                "path": null,
+                "size": 2.3,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae.png",
+                "hash": "thumbnail_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae",
+                "mime": "image/png",
+                "name": "thumbnail_397b8aa3b1409da19f6512c20a5e77a0.png",
+                "path": null,
+                "size": 7.78,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae.png"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

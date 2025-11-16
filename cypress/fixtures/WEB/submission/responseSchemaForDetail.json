@@ -1,0 +1,322 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "teamName": {
+          "type": "string"
+        },
+        "teamLeadName": {
+          "type": "string"
+        },
+        "teamLeadEmail": {
+          "type": "string"
+        },
+        "teamLeadWhatsappNumber": {
+          "type": "string"
+        },
+        "institution": {
+          "type": "string"
+        },
+        "major": {
+          "type": "string"
+        },
+        "gender": {
+          "type": "string"
+        },
+        "summaryOfInnovation": {
+          "type": "string"
+        },
+        "problemStatement": {
+          "type": "string"
+        },
+        "solution": {
+          "type": "string"
+        },
+        "competitiveAnalysis": {
+          "type": "string"
+        },
+        "uniqueValueProposition": {
+          "type": "string"
+        },
+        "haveProductTraction": {
+          "type": ["null", "boolean"]
+        },
+        "haveGetInvestments": {
+          "type": ["null", "boolean"]
+        },
+        "productTractionInformation": {
+          "type": "string"
+        },
+        "investmentInformation": {
+          "type": "string"
+        },
+        "competitionTrack": {
+          "type": "string"
+        },
+        "createdAt": {
+          "type": "string"
+        },
+        "updatedAt": {
+          "type": ["null", "string"]
+        },
+        "year": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        },
+        "userId": {
+          "type": "string"
+        },
+        "innovationCategory": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "title": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "createdAt": {
+              "type": "string"
+            },
+            "updatedAt": {
+              "type": "string"
+            },
+            "locale": {
+              "type": "string"
+            },
+            "detailPageUrl": {
+              "type": "null"
+            }
+          },
+          "required": [
+            "id",
+            "title",
+            "description",
+            "createdAt",
+            "updatedAt",
+            "locale",
+            "detailPageUrl"
+          ]
+        },
+        "referral": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "code": {
+              "type": "string"
+            }
+          },
+          "required": ["id", "code"]
+        },
+        "proposal": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "alternativeText": {
+              "type": "null"
+            },
+            "caption": {
+              "type": "null"
+            },
+            "width": {
+              "type": "null"
+            },
+            "height": {
+              "type": "null"
+            },
+            "formats": {
+              "type": "null"
+            },
+            "hash": {
+              "type": "string"
+            },
+            "ext": {
+              "type": "string"
+            },
+            "mime": {
+              "type": "string"
+            },
+            "size": {
+              "type": "number"
+            },
+            "url": {
+              "type": "string"
+            },
+            "previewUrl": {
+              "type": "null"
+            },
+            "provider": {
+              "type": "string"
+            },
+            "provider_metadata": {
+              "type": "null"
+            },
+            "createdAt": {
+              "type": "string"
+            },
+            "updatedAt": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "name",
+            "alternativeText",
+            "caption",
+            "width",
+            "height",
+            "formats",
+            "hash",
+            "ext",
+            "mime",
+            "size",
+            "url",
+            "previewUrl",
+            "provider",
+            "provider_metadata",
+            "createdAt",
+            "updatedAt"
+          ]
+        },
+        "domicileCity": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "city_id": {
+              "type": "integer"
+            },
+            "province_id": {
+              "type": "integer"
+            },
+            "province": {
+              "type": "string"
+            },
+            "type": {
+              "type": "string"
+            },
+            "city_name": {
+              "type": "string"
+            },
+            "postal_code": {
+              "type": "string"
+            },
+            "createdAt": {
+              "type": "string"
+            },
+            "updatedAt": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "city_id",
+            "province_id",
+            "province",
+            "type",
+            "city_name",
+            "postal_code",
+            "createdAt",
+            "updatedAt"
+          ]
+        },
+        "user": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "username": {
+              "type": "null"
+            },
+            "email": {
+              "type": "string"
+            },
+            "provider": {
+              "type": "string"
+            },
+            "confirmed": {
+              "type": "boolean"
+            },
+            "blocked": {
+              "type": "boolean"
+            },
+            "createdAt": {
+              "type": ["string", "null"]
+            },
+            "updatedAt": {
+              "type": "string"
+            },
+            "azureObjectId": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "username",
+            "email",
+            "provider",
+            "confirmed",
+            "blocked",
+            "createdAt",
+            "updatedAt",
+            "azureObjectId",
+            "name"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "teamName",
+        "teamLeadName",
+        "teamLeadEmail",
+        "teamLeadWhatsappNumber",
+        "institution",
+        "major",
+        "gender",
+        "summaryOfInnovation",
+        "problemStatement",
+        "solution",
+        "competitiveAnalysis",
+        "uniqueValueProposition",
+        "haveProductTraction",
+        "haveGetInvestments",
+        "productTractionInformation",
+        "investmentInformation",
+        "competitionTrack",
+        "createdAt",
+        "updatedAt",
+        "year",
+        "status",
+        "userId",
+        "innovationCategory",
+        "referral",
+        "proposal",
+        "domicileCity",
+        "user"
+      ]
+    }
+  },
+  "required": ["data"]
+}

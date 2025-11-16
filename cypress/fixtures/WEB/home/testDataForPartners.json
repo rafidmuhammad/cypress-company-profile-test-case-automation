@@ -1,0 +1,2910 @@
+{
+  "id": {
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "name": "Diamond Partner",
+          "code": "DA-PARTNER",
+          "position": 1,
+          "createdAt": "2024-03-06T12:16:16.920Z",
+          "updatedAt": "2024-03-06T12:16:16.920Z",
+          "locale": "id",
+          "partners": [
+            {
+              "position": 1,
+              "id": 27,
+              "image": {
+                "id": 177,
+                "name": "MCO.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_MCO_e36124943b.png",
+                    "hash": "small_MCO_e36124943b",
+                    "mime": "image/png",
+                    "name": "small_MCO.png",
+                    "path": null,
+                    "size": 21.54,
+                    "width": 167,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_MCO_e36124943b.png",
+                    "hash": "medium_MCO_e36124943b",
+                    "mime": "image/png",
+                    "name": "medium_MCO.png",
+                    "path": null,
+                    "size": 86.61,
+                    "width": 400,
+                    "height": 480
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_MCO_e36124943b.png",
+                    "hash": "xsmall_MCO_e36124943b",
+                    "mime": "image/png",
+                    "name": "xsmall_MCO.png",
+                    "path": null,
+                    "size": 3.67,
+                    "width": 42,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_MCO_e36124943b.png",
+                    "hash": "thumbnail_MCO_e36124943b",
+                    "mime": "image/png",
+                    "name": "thumbnail_MCO.png",
+                    "path": null,
+                    "size": 14.59,
+                    "width": 130,
+                    "height": 156
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "name": "Gold Partner",
+          "code": "GO-PARTNER",
+          "position": 2,
+          "createdAt": "2024-03-06T12:16:41.992Z",
+          "updatedAt": "2024-03-06T12:16:41.992Z",
+          "locale": "id",
+          "partners": [
+            {
+              "position": 1,
+              "id": 79,
+              "image": {
+                "id": 286,
+                "name": "sample.svg",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": null
+              }
+            },
+            {
+              "position": null,
+              "id": 28,
+              "image": {
+                "id": 178,
+                "name": "AWS.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_AWS_6de8b8eaab.png",
+                    "hash": "large_AWS_6de8b8eaab",
+                    "mime": "image/png",
+                    "name": "large_AWS.png",
+                    "path": null,
+                    "size": 88.31,
+                    "width": 1080,
+                    "height": 646
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_AWS_6de8b8eaab.png",
+                    "hash": "small_AWS_6de8b8eaab",
+                    "mime": "image/png",
+                    "name": "small_AWS.png",
+                    "path": null,
+                    "size": 12.71,
+                    "width": 200,
+                    "height": 120
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_AWS_6de8b8eaab.png",
+                    "hash": "medium_AWS_6de8b8eaab",
+                    "mime": "image/png",
+                    "name": "medium_AWS.png",
+                    "path": null,
+                    "size": 31.43,
+                    "width": 480,
+                    "height": 287
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_AWS_6de8b8eaab.png",
+                    "hash": "xsmall_AWS_6de8b8eaab",
+                    "mime": "image/png",
+                    "name": "xsmall_AWS.png",
+                    "path": null,
+                    "size": 2.59,
+                    "width": 50,
+                    "height": 30
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_AWS_6de8b8eaab.png",
+                    "hash": "thumbnail_AWS_6de8b8eaab",
+                    "mime": "image/png",
+                    "name": "thumbnail_AWS.png",
+                    "path": null,
+                    "size": 15.53,
+                    "width": 245,
+                    "height": 147
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "name": "Silver Partner",
+          "code": "SI-PARTNER",
+          "position": 3,
+          "createdAt": "2024-03-06T12:16:59.364Z",
+          "updatedAt": "2024-03-20T08:54:58.915Z",
+          "locale": "id",
+          "partners": [
+            {
+              "position": null,
+              "id": 29,
+              "image": {
+                "id": 180,
+                "name": "agit.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_agit_860ca1368b.png",
+                    "hash": "large_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "large_agit.png",
+                    "path": null,
+                    "size": 111.77,
+                    "width": 1080,
+                    "height": 893
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_agit_860ca1368b.png",
+                    "hash": "small_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "small_agit.png",
+                    "path": null,
+                    "size": 16.91,
+                    "width": 200,
+                    "height": 165
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_agit_860ca1368b.png",
+                    "hash": "medium_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "medium_agit.png",
+                    "path": null,
+                    "size": 44.18,
+                    "width": 480,
+                    "height": 397
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_agit_860ca1368b.png",
+                    "hash": "xlarge_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "xlarge_agit.png",
+                    "path": null,
+                    "size": 272.26,
+                    "width": 2180,
+                    "height": 1802
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_agit_860ca1368b.png",
+                    "hash": "xsmall_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "xsmall_agit.png",
+                    "path": null,
+                    "size": 3.27,
+                    "width": 50,
+                    "height": 41
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_agit_860ca1368b.png",
+                    "hash": "thumbnail_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "thumbnail_agit.png",
+                    "path": null,
+                    "size": 15.73,
+                    "width": 189,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 30,
+              "image": {
+                "id": 179,
+                "name": "Google Cloud x Datalabs.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "large_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "large_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 176.07,
+                    "width": 1079,
+                    "height": 1080
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "small_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "small_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 19.26,
+                    "width": 200,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "medium_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "medium_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 55.86,
+                    "width": 480,
+                    "height": 480
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "xsmall_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "xsmall_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 2.65,
+                    "width": 50,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "thumbnail_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "thumbnail_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 13.72,
+                    "width": 156,
+                    "height": 156
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "name": "Event & Media Partner",
+          "code": "MD-PARTNER",
+          "position": 4,
+          "createdAt": "2024-03-06T12:17:26.126Z",
+          "updatedAt": "2024-03-06T12:17:26.126Z",
+          "locale": "id",
+          "partners": []
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "name": "Community Partner",
+          "code": "MD-PARTNER",
+          "position": 5,
+          "createdAt": "2024-03-06T12:17:48.208Z",
+          "updatedAt": "2024-03-27T04:27:03.094Z",
+          "locale": "id",
+          "partners": [
+            {
+              "position": 1,
+              "id": 34,
+              "image": {
+                "id": 187,
+                "name": "Angin.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Angin_b4b3119306.png",
+                    "hash": "small_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "small_Angin.png",
+                    "path": null,
+                    "size": 7.54,
+                    "width": 200,
+                    "height": 52
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Angin_b4b3119306.png",
+                    "hash": "medium_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "medium_Angin.png",
+                    "path": null,
+                    "size": 22.09,
+                    "width": 480,
+                    "height": 125
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Angin_b4b3119306.png",
+                    "hash": "xsmall_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "xsmall_Angin.png",
+                    "path": null,
+                    "size": 1.36,
+                    "width": 50,
+                    "height": 13
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Angin_b4b3119306.png",
+                    "hash": "thumbnail_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "thumbnail_Angin.png",
+                    "path": null,
+                    "size": 9.64,
+                    "width": 245,
+                    "height": 64
+                  }
+                }
+              }
+            },
+            {
+              "position": 2,
+              "id": 35,
+              "image": {
+                "id": 196,
+                "name": "TechCorp Startup Community.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "large_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "large_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 129.77,
+                    "width": 1080,
+                    "height": 433
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "small_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "small_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 15.89,
+                    "width": 200,
+                    "height": 80
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "medium_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "medium_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 46.75,
+                    "width": 480,
+                    "height": 192
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "xlarge_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "xlarge_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 423.87,
+                    "width": 2180,
+                    "height": 873
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "xsmall_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "xsmall_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 2.4,
+                    "width": 50,
+                    "height": 20
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "thumbnail_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "thumbnail_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 20.68,
+                    "width": 245,
+                    "height": 98
+                  }
+                }
+              }
+            },
+            {
+              "position": 3,
+              "id": 36,
+              "image": {
+                "id": 188,
+                "name": "BLOCK71_Indonesia_Logo_1.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "small_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "small_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 11.15,
+                    "width": 200,
+                    "height": 164
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "medium_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "medium_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 31.6,
+                    "width": 480,
+                    "height": 393
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "xsmall_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "xsmall_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 1.99,
+                    "width": 50,
+                    "height": 41
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "thumbnail_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "thumbnail_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 10.47,
+                    "width": 191,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": 4,
+              "id": 37,
+              "image": {
+                "id": 186,
+                "name": "Logo_black.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Logo_black_9b62ad00d1.png",
+                    "hash": "large_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "large_Logo_black.png",
+                    "path": null,
+                    "size": 26.82,
+                    "width": 1080,
+                    "height": 147
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_black_9b62ad00d1.png",
+                    "hash": "small_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "small_Logo_black.png",
+                    "path": null,
+                    "size": 4,
+                    "width": 200,
+                    "height": 27
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_black_9b62ad00d1.png",
+                    "hash": "medium_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "medium_Logo_black.png",
+                    "path": null,
+                    "size": 10.23,
+                    "width": 480,
+                    "height": 65
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_black_9b62ad00d1.png",
+                    "hash": "xsmall_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo_black.png",
+                    "path": null,
+                    "size": 0.77,
+                    "width": 50,
+                    "height": 7
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_black_9b62ad00d1.png",
+                    "hash": "thumbnail_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo_black.png",
+                    "path": null,
+                    "size": 5.14,
+                    "width": 245,
+                    "height": 33
+                  }
+                }
+              }
+            },
+            {
+              "position": 5,
+              "id": 38,
+              "image": {
+                "id": 195,
+                "name": "Gerakan Nasional 1000 Startup.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "large_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "large_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 69.58,
+                    "width": 1080,
+                    "height": 1080
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "small_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "small_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 9.84,
+                    "width": 200,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "medium_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "medium_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 26.29,
+                    "width": 480,
+                    "height": 480
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "xlarge_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "xlarge_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 170.66,
+                    "width": 2180,
+                    "height": 2180
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "xsmall_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "xsmall_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 2.32,
+                    "width": 50,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "thumbnail_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "thumbnail_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 7.39,
+                    "width": 156,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": 6,
+              "id": 39,
+              "image": {
+                "id": 191,
+                "name": "Google for Startups.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Google_for_Startups_4db87f2c72.png",
+                    "hash": "large_Google_for_Startups_4db87f2c72",
+                    "mime": "image/png",
+                    "name": "large_Google for Startups.png",
+                    "path": null,
+                    "size": 39.44,
+                    "width": 1080,
+                    "height": 131
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Google_for_Startups_4db87f2c72.png",
+                    "hash": "small_Google_for_Startups_4db87f2c72",
+                    "mime": "image/png",
+                    "name": "small_Google for Startups.png",
+                    "path": null,
+                    "size": 5.32,
+                    "width": 200,
+                    "height": 24
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Google_for_Startups_4db87f2c72.png",
+                    "hash": "medium_Google_for_Startups_4db87f2c72",
+                    "mime": "image/png",
+                    "name": "medium_Google for Startups.png",
+                    "path": null,
+                    "size": 16.46,
+                    "width": 480,
+                    "height": 58
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Google_for_Startups_4db87f2c72.png",
+                    "hash": "xlarge_Google_for_Startups_4db87f2c72",
+                    "mime": "image/png",
+                    "name": "xlarge_Google for Startups.png",
+                    "path": null,
+                    "size": 92.85,
+                    "width": 2180,
+                    "height": 265
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Google_for_Startups_4db87f2c72.png",
+                    "hash": "xsmall_Google_for_Startups_4db87f2c72",
+                    "mime": "image/png",
+                    "name": "xsmall_Google for Startups.png",
+                    "path": null,
+                    "size": 0.74,
+                    "width": 50,
+                    "height": 6
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Google_for_Startups_4db87f2c72.png",
+                    "hash": "thumbnail_Google_for_Startups_4db87f2c72",
+                    "mime": "image/png",
+                    "name": "thumbnail_Google for Startups.png",
+                    "path": null,
+                    "size": 6.91,
+                    "width": 245,
+                    "height": 30
+                  }
+                }
+              }
+            },
+            {
+              "position": 8,
+              "id": 41,
+              "image": {
+                "id": 190,
+                "name": "Impact Hub.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Impact_Hub_520fb1ae33.png",
+                    "hash": "small_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "small_Impact Hub.png",
+                    "path": null,
+                    "size": 8.18,
+                    "width": 200,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Impact_Hub_520fb1ae33.png",
+                    "hash": "medium_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "medium_Impact Hub.png",
+                    "path": null,
+                    "size": 20.54,
+                    "width": 479,
+                    "height": 480
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Impact_Hub_520fb1ae33.png",
+                    "hash": "xsmall_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "xsmall_Impact Hub.png",
+                    "path": null,
+                    "size": 2.3,
+                    "width": 50,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Impact_Hub_520fb1ae33.png",
+                    "hash": "thumbnail_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "thumbnail_Impact Hub.png",
+                    "path": null,
+                    "size": 6.41,
+                    "width": 156,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": 9,
+              "id": 42,
+              "image": {
+                "id": 189,
+                "name": "Logo_KUMPUL v.1.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "large_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "large_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 31,
+                    "width": 1080,
+                    "height": 216
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "small_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "small_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 5.43,
+                    "width": 200,
+                    "height": 40
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "medium_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "medium_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 12.02,
+                    "width": 480,
+                    "height": 96
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "xsmall_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 1.21,
+                    "width": 50,
+                    "height": 10
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "thumbnail_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 6.53,
+                    "width": 245,
+                    "height": 49
+                  }
+                }
+              }
+            },
+            {
+              "position": 10,
+              "id": 43,
+              "image": {
+                "id": 197,
+                "name": "Logo Lestari_Black.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "large_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "large_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 43.34,
+                    "width": 1080,
+                    "height": 254
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "small_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "small_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 5.92,
+                    "width": 200,
+                    "height": 47
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "medium_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "medium_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 16.05,
+                    "width": 480,
+                    "height": 113
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "xlarge_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "xlarge_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 119.48,
+                    "width": 2180,
+                    "height": 513
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "xsmall_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 0.92,
+                    "width": 50,
+                    "height": 12
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "thumbnail_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 7.39,
+                    "width": 245,
+                    "height": 58
+                  }
+                }
+              }
+            },
+            {
+              "position": 11,
+              "id": 44,
+              "image": {
+                "id": 194,
+                "name": "Plug and Play.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Plug_and_Play_6f7266836a.png",
+                    "hash": "large_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "large_Plug and Play.png",
+                    "path": null,
+                    "size": 36.97,
+                    "width": 1080,
+                    "height": 204
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Plug_and_Play_6f7266836a.png",
+                    "hash": "small_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "small_Plug and Play.png",
+                    "path": null,
+                    "size": 6.47,
+                    "width": 200,
+                    "height": 38
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Plug_and_Play_6f7266836a.png",
+                    "hash": "medium_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "medium_Plug and Play.png",
+                    "path": null,
+                    "size": 15.18,
+                    "width": 480,
+                    "height": 91
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Plug_and_Play_6f7266836a.png",
+                    "hash": "xlarge_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "xlarge_Plug and Play.png",
+                    "path": null,
+                    "size": 92.36,
+                    "width": 2180,
+                    "height": 412
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Plug_and_Play_6f7266836a.png",
+                    "hash": "xsmall_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "xsmall_Plug and Play.png",
+                    "path": null,
+                    "size": 1.27,
+                    "width": 50,
+                    "height": 9
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Plug_and_Play_6f7266836a.png",
+                    "hash": "thumbnail_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "thumbnail_Plug and Play.png",
+                    "path": null,
+                    "size": 7.86,
+                    "width": 245,
+                    "height": 46
+                  }
+                }
+              }
+            },
+            {
+              "position": 13,
+              "id": 60,
+              "image": {
+                "id": 214,
+                "name": "Logo Color Full  Version.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "small_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "small_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 4.51,
+                    "width": 200,
+                    "height": 106
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "medium_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "medium_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 11.87,
+                    "width": 480,
+                    "height": 254
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "xsmall_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 0.93,
+                    "width": 50,
+                    "height": 26
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "thumbnail_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 5.48,
+                    "width": 245,
+                    "height": 130
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 45,
+              "image": {
+                "id": 184,
+                "name": "SISTEM.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_SISTEM_ddfd0ad65f.png",
+                    "hash": "xsmall_SISTEM_ddfd0ad65f",
+                    "mime": "image/png",
+                    "name": "xsmall_SISTEM.png",
+                    "path": null,
+                    "size": 1.16,
+                    "width": 50,
+                    "height": 20
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "name": "Venture Capital Partner",
+          "code": "MD-PARTNER",
+          "position": 6,
+          "createdAt": "2024-03-06T12:18:08.860Z",
+          "updatedAt": "2024-03-27T04:55:37.639Z",
+          "locale": "id",
+          "partners": [
+            {
+              "position": null,
+              "id": 48,
+              "image": {
+                "id": 210,
+                "name": "AC Ventures Logo.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_AC_Ventures_Logo_a962d6a40d.png",
+                    "hash": "large_AC_Ventures_Logo_a962d6a40d",
+                    "mime": "image/png",
+                    "name": "large_AC Ventures Logo.png",
+                    "path": null,
+                    "size": 57.58,
+                    "width": 1080,
+                    "height": 128
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_AC_Ventures_Logo_a962d6a40d.png",
+                    "hash": "small_AC_Ventures_Logo_a962d6a40d",
+                    "mime": "image/png",
+                    "name": "small_AC Ventures Logo.png",
+                    "path": null,
+                    "size": 7.93,
+                    "width": 200,
+                    "height": 24
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_AC_Ventures_Logo_a962d6a40d.png",
+                    "hash": "medium_AC_Ventures_Logo_a962d6a40d",
+                    "mime": "image/png",
+                    "name": "medium_AC Ventures Logo.png",
+                    "path": null,
+                    "size": 22.2,
+                    "width": 480,
+                    "height": 57
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_AC_Ventures_Logo_a962d6a40d.png",
+                    "hash": "xlarge_AC_Ventures_Logo_a962d6a40d",
+                    "mime": "image/png",
+                    "name": "xlarge_AC Ventures Logo.png",
+                    "path": null,
+                    "size": 172.32,
+                    "width": 2180,
+                    "height": 259
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_AC_Ventures_Logo_a962d6a40d.png",
+                    "hash": "xsmall_AC_Ventures_Logo_a962d6a40d",
+                    "mime": "image/png",
+                    "name": "xsmall_AC Ventures Logo.png",
+                    "path": null,
+                    "size": 1.01,
+                    "width": 50,
+                    "height": 6
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_AC_Ventures_Logo_a962d6a40d.png",
+                    "hash": "thumbnail_AC_Ventures_Logo_a962d6a40d",
+                    "mime": "image/png",
+                    "name": "thumbnail_AC Ventures Logo.png",
+                    "path": null,
+                    "size": 10.22,
+                    "width": 245,
+                    "height": 29
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 49,
+              "image": {
+                "id": 209,
+                "name": "aksara.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_aksara_11705d98bf.png",
+                    "hash": "large_aksara_11705d98bf",
+                    "mime": "image/png",
+                    "name": "large_aksara.png",
+                    "path": null,
+                    "size": 232.03,
+                    "width": 1080,
+                    "height": 587
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_aksara_11705d98bf.png",
+                    "hash": "small_aksara_11705d98bf",
+                    "mime": "image/png",
+                    "name": "small_aksara.png",
+                    "path": null,
+                    "size": 14.9,
+                    "width": 200,
+                    "height": 109
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_aksara_11705d98bf.png",
+                    "hash": "medium_aksara_11705d98bf",
+                    "mime": "image/png",
+                    "name": "medium_aksara.png",
+                    "path": null,
+                    "size": 44.44,
+                    "width": 480,
+                    "height": 261
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_aksara_11705d98bf.png",
+                    "hash": "xsmall_aksara_11705d98bf",
+                    "mime": "image/png",
+                    "name": "xsmall_aksara.png",
+                    "path": null,
+                    "size": 2.44,
+                    "width": 50,
+                    "height": 27
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_aksara_11705d98bf.png",
+                    "hash": "thumbnail_aksara_11705d98bf",
+                    "mime": "image/png",
+                    "name": "thumbnail_aksara.png",
+                    "path": null,
+                    "size": 20.34,
+                    "width": 245,
+                    "height": 133
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 50,
+              "image": {
+                "id": 208,
+                "name": "llv-living-lab-vebtures-blue-1-1024x244.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9.png",
+                    "hash": "small_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9",
+                    "mime": "image/png",
+                    "name": "small_llv-living-lab-vebtures-blue-1-1024x244.png",
+                    "path": null,
+                    "size": 8.94,
+                    "width": 200,
+                    "height": 48
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9.png",
+                    "hash": "medium_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9",
+                    "mime": "image/png",
+                    "name": "medium_llv-living-lab-vebtures-blue-1-1024x244.png",
+                    "path": null,
+                    "size": 25.76,
+                    "width": 480,
+                    "height": 114
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9.png",
+                    "hash": "xsmall_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9",
+                    "mime": "image/png",
+                    "name": "xsmall_llv-living-lab-vebtures-blue-1-1024x244.png",
+                    "path": null,
+                    "size": 1.5,
+                    "width": 50,
+                    "height": 12
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9.png",
+                    "hash": "thumbnail_llv_living_lab_vebtures_blue_1_1024x244_f18c3edba9",
+                    "mime": "image/png",
+                    "name": "thumbnail_llv-living-lab-vebtures-blue-1-1024x244.png",
+                    "path": null,
+                    "size": 11.94,
+                    "width": 245,
+                    "height": 58
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 51,
+              "image": {
+                "id": 207,
+                "name": "OCBC Ventura Logo.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_OCBC_Ventura_Logo_0f6a3e57d8.png",
+                    "hash": "large_OCBC_Ventura_Logo_0f6a3e57d8",
+                    "mime": "image/png",
+                    "name": "large_OCBC Ventura Logo.png",
+                    "path": null,
+                    "size": 31.99,
+                    "width": 1080,
+                    "height": 255
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_OCBC_Ventura_Logo_0f6a3e57d8.png",
+                    "hash": "small_OCBC_Ventura_Logo_0f6a3e57d8",
+                    "mime": "image/png",
+                    "name": "small_OCBC Ventura Logo.png",
+                    "path": null,
+                    "size": 5.8,
+                    "width": 200,
+                    "height": 47
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_OCBC_Ventura_Logo_0f6a3e57d8.png",
+                    "hash": "medium_OCBC_Ventura_Logo_0f6a3e57d8",
+                    "mime": "image/png",
+                    "name": "medium_OCBC Ventura Logo.png",
+                    "path": null,
+                    "size": 12.94,
+                    "width": 480,
+                    "height": 113
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_OCBC_Ventura_Logo_0f6a3e57d8.png",
+                    "hash": "xsmall_OCBC_Ventura_Logo_0f6a3e57d8",
+                    "mime": "image/png",
+                    "name": "xsmall_OCBC Ventura Logo.png",
+                    "path": null,
+                    "size": 1.07,
+                    "width": 50,
+                    "height": 12
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_OCBC_Ventura_Logo_0f6a3e57d8.png",
+                    "hash": "thumbnail_OCBC_Ventura_Logo_0f6a3e57d8",
+                    "mime": "image/png",
+                    "name": "thumbnail_OCBC Ventura Logo.png",
+                    "path": null,
+                    "size": 7.14,
+                    "width": 245,
+                    "height": 58
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 53,
+              "image": {
+                "id": 211,
+                "name": "SV logotype A.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_SV_logotype_A_2dd6c7bf62.png",
+                    "hash": "large_SV_logotype_A_2dd6c7bf62",
+                    "mime": "image/png",
+                    "name": "large_SV logotype A.png",
+                    "path": null,
+                    "size": 53.96,
+                    "width": 1080,
+                    "height": 243
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_SV_logotype_A_2dd6c7bf62.png",
+                    "hash": "small_SV_logotype_A_2dd6c7bf62",
+                    "mime": "image/png",
+                    "name": "small_SV logotype A.png",
+                    "path": null,
+                    "size": 4.69,
+                    "width": 200,
+                    "height": 45
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_SV_logotype_A_2dd6c7bf62.png",
+                    "hash": "medium_SV_logotype_A_2dd6c7bf62",
+                    "mime": "image/png",
+                    "name": "medium_SV logotype A.png",
+                    "path": null,
+                    "size": 14.51,
+                    "width": 480,
+                    "height": 108
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_SV_logotype_A_2dd6c7bf62.png",
+                    "hash": "xlarge_SV_logotype_A_2dd6c7bf62",
+                    "mime": "image/png",
+                    "name": "xlarge_SV logotype A.png",
+                    "path": null,
+                    "size": 186.15,
+                    "width": 2180,
+                    "height": 491
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_SV_logotype_A_2dd6c7bf62.png",
+                    "hash": "xsmall_SV_logotype_A_2dd6c7bf62",
+                    "mime": "image/png",
+                    "name": "xsmall_SV logotype A.png",
+                    "path": null,
+                    "size": 0.8,
+                    "width": 50,
+                    "height": 11
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_SV_logotype_A_2dd6c7bf62.png",
+                    "hash": "thumbnail_SV_logotype_A_2dd6c7bf62",
+                    "mime": "image/png",
+                    "name": "thumbnail_SV logotype A.png",
+                    "path": null,
+                    "size": 6.03,
+                    "width": 245,
+                    "height": 55
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 54,
+              "image": {
+                "id": 192,
+                "name": "Telkomsel Ventures.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Telkomsel_Ventures_20d409ec9e.png",
+                    "hash": "large_Telkomsel_Ventures_20d409ec9e",
+                    "mime": "image/png",
+                    "name": "large_Telkomsel Ventures.png",
+                    "path": null,
+                    "size": 188.2,
+                    "width": 1080,
+                    "height": 403
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Telkomsel_Ventures_20d409ec9e.png",
+                    "hash": "small_Telkomsel_Ventures_20d409ec9e",
+                    "mime": "image/png",
+                    "name": "small_Telkomsel Ventures.png",
+                    "path": null,
+                    "size": 20.46,
+                    "width": 200,
+                    "height": 75
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Telkomsel_Ventures_20d409ec9e.png",
+                    "hash": "medium_Telkomsel_Ventures_20d409ec9e",
+                    "mime": "image/png",
+                    "name": "medium_Telkomsel Ventures.png",
+                    "path": null,
+                    "size": 57.66,
+                    "width": 480,
+                    "height": 179
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Telkomsel_Ventures_20d409ec9e.png",
+                    "hash": "xsmall_Telkomsel_Ventures_20d409ec9e",
+                    "mime": "image/png",
+                    "name": "xsmall_Telkomsel Ventures.png",
+                    "path": null,
+                    "size": 2.72,
+                    "width": 50,
+                    "height": 19
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Telkomsel_Ventures_20d409ec9e.png",
+                    "hash": "thumbnail_Telkomsel_Ventures_20d409ec9e",
+                    "mime": "image/png",
+                    "name": "thumbnail_Telkomsel Ventures.png",
+                    "path": null,
+                    "size": 25.86,
+                    "width": 245,
+                    "height": 91
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 55,
+              "image": {
+                "id": 206,
+                "name": "trihill.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_trihill_1c939ce4bb.png",
+                    "hash": "small_trihill_1c939ce4bb",
+                    "mime": "image/png",
+                    "name": "small_trihill.png",
+                    "path": null,
+                    "size": 10.62,
+                    "width": 200,
+                    "height": 121
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_trihill_1c939ce4bb.png",
+                    "hash": "xsmall_trihill_1c939ce4bb",
+                    "mime": "image/png",
+                    "name": "xsmall_trihill.png",
+                    "path": null,
+                    "size": 2.4,
+                    "width": 50,
+                    "height": 30
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_trihill_1c939ce4bb.png",
+                    "hash": "thumbnail_trihill_1c939ce4bb",
+                    "mime": "image/png",
+                    "name": "thumbnail_trihill.png",
+                    "path": null,
+                    "size": 13.63,
+                    "width": 245,
+                    "height": 148
+                  }
+                }
+              }
+            },
+            {
+              "position": null,
+              "id": 56,
+              "image": {
+                "id": 205,
+                "name": "venturra.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_venturra_2780d7b336.png",
+                    "hash": "small_venturra_2780d7b336",
+                    "mime": "image/png",
+                    "name": "small_venturra.png",
+                    "path": null,
+                    "size": 6.12,
+                    "width": 200,
+                    "height": 90
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_venturra_2780d7b336.png",
+                    "hash": "xsmall_venturra_2780d7b336",
+                    "mime": "image/png",
+                    "name": "xsmall_venturra.png",
+                    "path": null,
+                    "size": 1.64,
+                    "width": 50,
+                    "height": 23
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_venturra_2780d7b336.png",
+                    "hash": "thumbnail_venturra_2780d7b336",
+                    "mime": "image/png",
+                    "name": "thumbnail_venturra.png",
+                    "path": null,
+                    "size": 7.61,
+                    "width": 245,
+                    "height": 111
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "name": "Sustainability Partner",
+          "code": "ST-PARTNER",
+          "position": 7,
+          "createdAt": "2024-03-06T12:18:27.734Z",
+          "updatedAt": "2024-03-06T12:18:27.734Z",
+          "locale": "id",
+          "partners": [
+            {
+              "position": null,
+              "id": 57,
+              "image": {
+                "id": 31,
+                "name": "Rekosistem Logo 2.0-05 Vertical.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "large_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "large_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 41.57,
+                    "width": 1000,
+                    "height": 813
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "small_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "small_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 20.2,
+                    "width": 500,
+                    "height": 406
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "medium_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "medium_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 31.88,
+                    "width": 750,
+                    "height": 609
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "xlarge_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "xlarge_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 94.24,
+                    "width": 1920,
+                    "height": 1560
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "xsmall_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "xsmall_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 1.84,
+                    "width": 64,
+                    "height": 52
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "thumbnail_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "thumbnail_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 6.69,
+                    "width": 192,
+                    "height": 156
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 7
+      }
+    }
+  },
+  "en": {
+    "data": [
+      {
+        "id": 10,
+        "attributes": {
+          "name": "Diamond Partner",
+          "code": "DA-PARTNER",
+          "position": 1,
+          "createdAt": "2024-04-05T08:45:33.207Z",
+          "updatedAt": "2024-04-05T08:45:33.207Z",
+          "locale": "en",
+          "partners": [
+            {
+              "position": 1,
+              "id": 61,
+              "image": {
+                "id": 148,
+                "name": "MCO.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_MCO_dacbb7c5b5.png",
+                    "hash": "small_MCO_dacbb7c5b5",
+                    "mime": "image/png",
+                    "name": "small_MCO.png",
+                    "path": null,
+                    "size": 21.54,
+                    "width": 167,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_MCO_dacbb7c5b5.png",
+                    "hash": "medium_MCO_dacbb7c5b5",
+                    "mime": "image/png",
+                    "name": "medium_MCO.png",
+                    "path": null,
+                    "size": 86.61,
+                    "width": 400,
+                    "height": 480
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_MCO_dacbb7c5b5.png",
+                    "hash": "xsmall_MCO_dacbb7c5b5",
+                    "mime": "image/png",
+                    "name": "xsmall_MCO.png",
+                    "path": null,
+                    "size": 3.67,
+                    "width": 42,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_MCO_dacbb7c5b5.png",
+                    "hash": "thumbnail_MCO_dacbb7c5b5",
+                    "mime": "image/png",
+                    "name": "thumbnail_MCO.png",
+                    "path": null,
+                    "size": 14.59,
+                    "width": 130,
+                    "height": 156
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "name": "Gold Partner",
+          "code": "GO-PARTNER",
+          "position": 2,
+          "createdAt": "2024-04-05T08:45:56.886Z",
+          "updatedAt": "2024-04-05T08:45:56.886Z",
+          "locale": "en",
+          "partners": [
+            {
+              "position": 1,
+              "id": 62,
+              "image": {
+                "id": 144,
+                "name": "AWS.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_AWS_6215bb52bf.png",
+                    "hash": "large_AWS_6215bb52bf",
+                    "mime": "image/png",
+                    "name": "large_AWS.png",
+                    "path": null,
+                    "size": 88.31,
+                    "width": 1080,
+                    "height": 646
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_AWS_6215bb52bf.png",
+                    "hash": "small_AWS_6215bb52bf",
+                    "mime": "image/png",
+                    "name": "small_AWS.png",
+                    "path": null,
+                    "size": 12.71,
+                    "width": 200,
+                    "height": 120
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_AWS_6215bb52bf.png",
+                    "hash": "medium_AWS_6215bb52bf",
+                    "mime": "image/png",
+                    "name": "medium_AWS.png",
+                    "path": null,
+                    "size": 31.43,
+                    "width": 480,
+                    "height": 287
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_AWS_6215bb52bf.png",
+                    "hash": "xsmall_AWS_6215bb52bf",
+                    "mime": "image/png",
+                    "name": "xsmall_AWS.png",
+                    "path": null,
+                    "size": 2.59,
+                    "width": 50,
+                    "height": 30
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_AWS_6215bb52bf.png",
+                    "hash": "thumbnail_AWS_6215bb52bf",
+                    "mime": "image/png",
+                    "name": "thumbnail_AWS.png",
+                    "path": null,
+                    "size": 15.53,
+                    "width": 245,
+                    "height": 147
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 12,
+        "attributes": {
+          "name": "Silver Partner",
+          "code": "SI-PARTNER",
+          "position": 3,
+          "createdAt": "2024-04-05T10:06:07.266Z",
+          "updatedAt": "2024-04-05T10:06:56.673Z",
+          "locale": "en",
+          "partners": [
+            {
+              "position": 1,
+              "id": 63,
+              "image": {
+                "id": 180,
+                "name": "agit.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_agit_860ca1368b.png",
+                    "hash": "large_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "large_agit.png",
+                    "path": null,
+                    "size": 111.77,
+                    "width": 1080,
+                    "height": 893
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_agit_860ca1368b.png",
+                    "hash": "small_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "small_agit.png",
+                    "path": null,
+                    "size": 16.91,
+                    "width": 200,
+                    "height": 165
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_agit_860ca1368b.png",
+                    "hash": "medium_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "medium_agit.png",
+                    "path": null,
+                    "size": 44.18,
+                    "width": 480,
+                    "height": 397
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_agit_860ca1368b.png",
+                    "hash": "xlarge_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "xlarge_agit.png",
+                    "path": null,
+                    "size": 272.26,
+                    "width": 2180,
+                    "height": 1802
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_agit_860ca1368b.png",
+                    "hash": "xsmall_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "xsmall_agit.png",
+                    "path": null,
+                    "size": 3.27,
+                    "width": 50,
+                    "height": 41
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_agit_860ca1368b.png",
+                    "hash": "thumbnail_agit_860ca1368b",
+                    "mime": "image/png",
+                    "name": "thumbnail_agit.png",
+                    "path": null,
+                    "size": 15.73,
+                    "width": 189,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": 2,
+              "id": 64,
+              "image": {
+                "id": 179,
+                "name": "Google Cloud x Datalabs.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "large_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "large_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 176.07,
+                    "width": 1079,
+                    "height": 1080
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "small_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "small_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 19.26,
+                    "width": 200,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "medium_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "medium_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 55.86,
+                    "width": 480,
+                    "height": 480
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "xsmall_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "xsmall_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 2.65,
+                    "width": 50,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Google_Cloud_x_Datalabs_c32c18234a.png",
+                    "hash": "thumbnail_Google_Cloud_x_Datalabs_c32c18234a",
+                    "mime": "image/png",
+                    "name": "thumbnail_Google Cloud x Datalabs.png",
+                    "path": null,
+                    "size": 13.72,
+                    "width": 156,
+                    "height": 156
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 13,
+        "attributes": {
+          "name": "Event & Media Partner",
+          "code": "MD-PARTNER",
+          "position": 4,
+          "createdAt": "2024-04-05T10:08:10.070Z",
+          "updatedAt": "2024-04-05T10:11:33.354Z",
+          "locale": "en",
+          "partners": []
+        }
+      },
+      {
+        "id": 14,
+        "attributes": {
+          "name": "Community Partner",
+          "code": "MD-PARTNER",
+          "position": 5,
+          "createdAt": "2024-04-05T10:08:31.046Z",
+          "updatedAt": "2024-04-05T10:11:26.958Z",
+          "locale": "en",
+          "partners": [
+            {
+              "position": 1,
+              "id": 66,
+              "image": {
+                "id": 187,
+                "name": "Angin.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Angin_b4b3119306.png",
+                    "hash": "small_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "small_Angin.png",
+                    "path": null,
+                    "size": 7.54,
+                    "width": 200,
+                    "height": 52
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Angin_b4b3119306.png",
+                    "hash": "medium_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "medium_Angin.png",
+                    "path": null,
+                    "size": 22.09,
+                    "width": 480,
+                    "height": 125
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Angin_b4b3119306.png",
+                    "hash": "xsmall_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "xsmall_Angin.png",
+                    "path": null,
+                    "size": 1.36,
+                    "width": 50,
+                    "height": 13
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Angin_b4b3119306.png",
+                    "hash": "thumbnail_Angin_b4b3119306",
+                    "mime": "image/png",
+                    "name": "thumbnail_Angin.png",
+                    "path": null,
+                    "size": 9.64,
+                    "width": 245,
+                    "height": 64
+                  }
+                }
+              }
+            },
+            {
+              "position": 2,
+              "id": 67,
+              "image": {
+                "id": 196,
+                "name": "TechCorp Startup Community.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "large_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "large_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 129.77,
+                    "width": 1080,
+                    "height": 433
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "small_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "small_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 15.89,
+                    "width": 200,
+                    "height": 80
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "medium_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "medium_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 46.75,
+                    "width": 480,
+                    "height": 192
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "xlarge_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "xlarge_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 423.87,
+                    "width": 2180,
+                    "height": 873
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "xsmall_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "xsmall_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 2.4,
+                    "width": 50,
+                    "height": 20
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_TechCorp_Startup_Community_38a71c7577.png",
+                    "hash": "thumbnail_TechCorp_Startup_Community_38a71c7577",
+                    "mime": "image/png",
+                    "name": "thumbnail_TechCorp Startup Community.png",
+                    "path": null,
+                    "size": 20.68,
+                    "width": 245,
+                    "height": 98
+                  }
+                }
+              }
+            },
+            {
+              "position": 3,
+              "id": 68,
+              "image": {
+                "id": 188,
+                "name": "BLOCK71_Indonesia_Logo_1.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "small_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "small_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 11.15,
+                    "width": 200,
+                    "height": 164
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "medium_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "medium_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 31.6,
+                    "width": 480,
+                    "height": 393
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "xsmall_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "xsmall_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 1.99,
+                    "width": 50,
+                    "height": 41
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_BLOCK_71_Indonesia_Logo_1_afbd01b81e.png",
+                    "hash": "thumbnail_BLOCK_71_Indonesia_Logo_1_afbd01b81e",
+                    "mime": "image/png",
+                    "name": "thumbnail_BLOCK71_Indonesia_Logo_1.png",
+                    "path": null,
+                    "size": 10.47,
+                    "width": 191,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": 4,
+              "id": 69,
+              "image": {
+                "id": 186,
+                "name": "Logo_black.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Logo_black_9b62ad00d1.png",
+                    "hash": "large_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "large_Logo_black.png",
+                    "path": null,
+                    "size": 26.82,
+                    "width": 1080,
+                    "height": 147
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_black_9b62ad00d1.png",
+                    "hash": "small_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "small_Logo_black.png",
+                    "path": null,
+                    "size": 4,
+                    "width": 200,
+                    "height": 27
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_black_9b62ad00d1.png",
+                    "hash": "medium_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "medium_Logo_black.png",
+                    "path": null,
+                    "size": 10.23,
+                    "width": 480,
+                    "height": 65
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_black_9b62ad00d1.png",
+                    "hash": "xsmall_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo_black.png",
+                    "path": null,
+                    "size": 0.77,
+                    "width": 50,
+                    "height": 7
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_black_9b62ad00d1.png",
+                    "hash": "thumbnail_Logo_black_9b62ad00d1",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo_black.png",
+                    "path": null,
+                    "size": 5.14,
+                    "width": 245,
+                    "height": 33
+                  }
+                }
+              }
+            },
+            {
+              "position": 5,
+              "id": 70,
+              "image": {
+                "id": 195,
+                "name": "Gerakan Nasional 1000 Startup.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "large_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "large_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 69.58,
+                    "width": 1080,
+                    "height": 1080
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "small_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "small_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 9.84,
+                    "width": 200,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "medium_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "medium_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 26.29,
+                    "width": 480,
+                    "height": 480
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "xlarge_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "xlarge_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 170.66,
+                    "width": 2180,
+                    "height": 2180
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "xsmall_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "xsmall_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 2.32,
+                    "width": 50,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Gerakan_Nasional_1000_Startup_7d7add34d1.png",
+                    "hash": "thumbnail_Gerakan_Nasional_1000_Startup_7d7add34d1",
+                    "mime": "image/png",
+                    "name": "thumbnail_Gerakan Nasional 1000 Startup.png",
+                    "path": null,
+                    "size": 7.39,
+                    "width": 156,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": 6,
+              "id": 71,
+              "image": {
+                "id": 23,
+                "name": "Google for Startups.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Google_for_Startups_3dd00a4c0a.png",
+                    "hash": "large_Google_for_Startups_3dd00a4c0a",
+                    "mime": "image/png",
+                    "name": "large_Google for Startups.png",
+                    "path": null,
+                    "size": 36.06,
+                    "width": 1000,
+                    "height": 121
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Google_for_Startups_3dd00a4c0a.png",
+                    "hash": "small_Google_for_Startups_3dd00a4c0a",
+                    "mime": "image/png",
+                    "name": "small_Google for Startups.png",
+                    "path": null,
+                    "size": 17.16,
+                    "width": 500,
+                    "height": 61
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Google_for_Startups_3dd00a4c0a.png",
+                    "hash": "medium_Google_for_Startups_3dd00a4c0a",
+                    "mime": "image/png",
+                    "name": "medium_Google for Startups.png",
+                    "path": null,
+                    "size": 25.53,
+                    "width": 750,
+                    "height": 91
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Google_for_Startups_3dd00a4c0a.png",
+                    "hash": "xlarge_Google_for_Startups_3dd00a4c0a",
+                    "mime": "image/png",
+                    "name": "xlarge_Google for Startups.png",
+                    "path": null,
+                    "size": 73.57,
+                    "width": 1920,
+                    "height": 233
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Google_for_Startups_3dd00a4c0a.png",
+                    "hash": "xsmall_Google_for_Startups_3dd00a4c0a",
+                    "mime": "image/png",
+                    "name": "xsmall_Google for Startups.png",
+                    "path": null,
+                    "size": 1.1,
+                    "width": 64,
+                    "height": 8
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Google_for_Startups_3dd00a4c0a.png",
+                    "hash": "thumbnail_Google_for_Startups_3dd00a4c0a",
+                    "mime": "image/png",
+                    "name": "thumbnail_Google for Startups.png",
+                    "path": null,
+                    "size": 6.91,
+                    "width": 245,
+                    "height": 30
+                  }
+                }
+              }
+            },
+            {
+              "position": 8,
+              "id": 72,
+              "image": {
+                "id": 190,
+                "name": "Impact Hub.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Impact_Hub_520fb1ae33.png",
+                    "hash": "small_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "small_Impact Hub.png",
+                    "path": null,
+                    "size": 8.18,
+                    "width": 200,
+                    "height": 200
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Impact_Hub_520fb1ae33.png",
+                    "hash": "medium_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "medium_Impact Hub.png",
+                    "path": null,
+                    "size": 20.54,
+                    "width": 479,
+                    "height": 480
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Impact_Hub_520fb1ae33.png",
+                    "hash": "xsmall_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "xsmall_Impact Hub.png",
+                    "path": null,
+                    "size": 2.3,
+                    "width": 50,
+                    "height": 50
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Impact_Hub_520fb1ae33.png",
+                    "hash": "thumbnail_Impact_Hub_520fb1ae33",
+                    "mime": "image/png",
+                    "name": "thumbnail_Impact Hub.png",
+                    "path": null,
+                    "size": 6.41,
+                    "width": 156,
+                    "height": 156
+                  }
+                }
+              }
+            },
+            {
+              "position": 9,
+              "id": 73,
+              "image": {
+                "id": 189,
+                "name": "Logo_KUMPUL v.1.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "large_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "large_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 31,
+                    "width": 1080,
+                    "height": 216
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "small_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "small_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 5.43,
+                    "width": 200,
+                    "height": 40
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "medium_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "medium_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 12.02,
+                    "width": 480,
+                    "height": 96
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "xsmall_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 1.21,
+                    "width": 50,
+                    "height": 10
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_KUMPUL_v_1_5985ff651c.png",
+                    "hash": "thumbnail_Logo_KUMPUL_v_1_5985ff651c",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo_KUMPUL v.1.png",
+                    "path": null,
+                    "size": 6.53,
+                    "width": 245,
+                    "height": 49
+                  }
+                }
+              }
+            },
+            {
+              "position": 10,
+              "id": 74,
+              "image": {
+                "id": 197,
+                "name": "Logo Lestari_Black.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "large_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "large_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 43.34,
+                    "width": 1080,
+                    "height": 254
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "small_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "small_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 5.92,
+                    "width": 200,
+                    "height": 47
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "medium_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "medium_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 16.05,
+                    "width": 480,
+                    "height": 113
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "xlarge_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "xlarge_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 119.48,
+                    "width": 2180,
+                    "height": 513
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "xsmall_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 0.92,
+                    "width": 50,
+                    "height": 12
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_Lestari_Black_306e1ac4b8.png",
+                    "hash": "thumbnail_Logo_Lestari_Black_306e1ac4b8",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo Lestari_Black.png",
+                    "path": null,
+                    "size": 7.39,
+                    "width": 245,
+                    "height": 58
+                  }
+                }
+              }
+            },
+            {
+              "position": 11,
+              "id": 75,
+              "image": {
+                "id": 194,
+                "name": "Plug and Play.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Plug_and_Play_6f7266836a.png",
+                    "hash": "large_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "large_Plug and Play.png",
+                    "path": null,
+                    "size": 36.97,
+                    "width": 1080,
+                    "height": 204
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Plug_and_Play_6f7266836a.png",
+                    "hash": "small_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "small_Plug and Play.png",
+                    "path": null,
+                    "size": 6.47,
+                    "width": 200,
+                    "height": 38
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Plug_and_Play_6f7266836a.png",
+                    "hash": "medium_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "medium_Plug and Play.png",
+                    "path": null,
+                    "size": 15.18,
+                    "width": 480,
+                    "height": 91
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Plug_and_Play_6f7266836a.png",
+                    "hash": "xlarge_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "xlarge_Plug and Play.png",
+                    "path": null,
+                    "size": 92.36,
+                    "width": 2180,
+                    "height": 412
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Plug_and_Play_6f7266836a.png",
+                    "hash": "xsmall_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "xsmall_Plug and Play.png",
+                    "path": null,
+                    "size": 1.27,
+                    "width": 50,
+                    "height": 9
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Plug_and_Play_6f7266836a.png",
+                    "hash": "thumbnail_Plug_and_Play_6f7266836a",
+                    "mime": "image/png",
+                    "name": "thumbnail_Plug and Play.png",
+                    "path": null,
+                    "size": 7.86,
+                    "width": 245,
+                    "height": 46
+                  }
+                }
+              }
+            },
+            {
+              "position": 13,
+              "id": 78,
+              "image": {
+                "id": 214,
+                "name": "Logo Color Full  Version.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "small_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "small_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 4.51,
+                    "width": 200,
+                    "height": 106
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "medium_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "medium_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 11.87,
+                    "width": 480,
+                    "height": 254
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "xsmall_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "xsmall_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 0.93,
+                    "width": 50,
+                    "height": 26
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Logo_Color_Full_Version_a19980e877.png",
+                    "hash": "thumbnail_Logo_Color_Full_Version_a19980e877",
+                    "mime": "image/png",
+                    "name": "thumbnail_Logo Color Full  Version.png",
+                    "path": null,
+                    "size": 5.48,
+                    "width": 245,
+                    "height": 130
+                  }
+                }
+              }
+            },
+            {
+              "position": 14,
+              "id": 77,
+              "image": {
+                "id": 185,
+                "name": "HI Incubator.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_HI_Incubator_e80c93957f.png",
+                    "hash": "xsmall_HI_Incubator_e80c93957f",
+                    "mime": "image/png",
+                    "name": "xsmall_HI Incubator.png",
+                    "path": null,
+                    "size": 2.5,
+                    "width": 50,
+                    "height": 38
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 15,
+        "attributes": {
+          "name": "Venture Capital Partner",
+          "code": "MD-PARTNER",
+          "position": 6,
+          "createdAt": "2024-04-05T10:09:16.199Z",
+          "updatedAt": "2024-04-05T10:16:05.634Z",
+          "locale": "en",
+          "partners": []
+        }
+      },
+      {
+        "id": 16,
+        "attributes": {
+          "name": "Sustainability Partner",
+          "code": "ST-PARTNER",
+          "position": 7,
+          "createdAt": "2024-04-05T10:12:00.406Z",
+          "updatedAt": "2024-04-05T10:12:00.406Z",
+          "locale": "en",
+          "partners": [
+            {
+              "position": 1,
+              "id": 65,
+              "image": {
+                "id": 31,
+                "name": "Rekosistem Logo 2.0-05 Vertical.png",
+                "provider": "strapi-upload-azure-storage-extended",
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/large_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "large_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "large_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 41.57,
+                    "width": 1000,
+                    "height": 813
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "small_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "small_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 20.2,
+                    "width": 500,
+                    "height": 406
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "medium_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "medium_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 31.88,
+                    "width": 750,
+                    "height": 609
+                  },
+                  "xlarge": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xlarge_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "xlarge_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "xlarge_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 94.24,
+                    "width": 1920,
+                    "height": 1560
+                  },
+                  "xsmall": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "xsmall_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "xsmall_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 1.84,
+                    "width": 64,
+                    "height": 52
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Rekosistem_Logo_2_0_05_Vertical_bdaef41337.png",
+                    "hash": "thumbnail_Rekosistem_Logo_2_0_05_Vertical_bdaef41337",
+                    "mime": "image/png",
+                    "name": "thumbnail_Rekosistem Logo 2.0-05 Vertical.png",
+                    "path": null,
+                    "size": 6.69,
+                    "width": 192,
+                    "height": 156
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 7
+      }
+    }
+  }
+}

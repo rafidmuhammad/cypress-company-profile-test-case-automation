@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "statusCode": 401,
+      "note": "Expired token",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTgsImlhdCI6MTcwOTYxMTAwOSwiZXhwIjoxNzA5NjEyODA5fQ.Mnnfqv53lzJtQTi9BXzBGcMUvwIjeSGvaiF-TdmRT7k",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "null"
+          },
+          "error": {
+            "type": "object",
+            "properties": {
+              "status": {
+                "type": "integer"
+              },
+              "name": {
+                "type": "string"
+              },
+              "message": {
+                "type": "string"
+              },
+              "details": {
+                "type": "object"
+              }
+            },
+            "required": ["status", "name", "message", "details"]
+          }
+        },
+        "required": ["data", "error"]
+      }
+    },
+    {
+      "statusCode": 401,
+      "note": "Null token",
+      "token": null,
+      "schema": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "null"
+          },
+          "error": {
+            "type": "object",
+            "properties": {
+              "status": {
+                "type": "integer"
+              },
+              "name": {
+                "type": "string"
+              },
+              "message": {
+                "type": "string"
+              },
+              "details": {
+                "type": "object"
+              }
+            },
+            "required": ["status", "name", "message", "details"]
+          }
+        },
+        "required": ["data", "error"]
+      }
+    },
+    {
+      "statusCode": 500,
+      "note": "empty token",
+      "token": "",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "null"
+          },
+          "error": {
+            "type": "object",
+            "properties": {
+              "status": {
+                "type": "integer"
+              },
+              "name": {
+                "type": "string"
+              },
+              "message": {
+                "type": "string"
+              }
+            },
+            "required": ["status", "name", "message"]
+          }
+        },
+        "required": ["data", "error"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "attributes": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "year": {
+                "type": "integer"
+              },
+              "category": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string"
+              },
+              "position": {
+                "type": ["integer", "null"]
+              },
+              "description": {
+                "type": "string"
+              },
+              "logo": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "integer"
+                  },
+                  "attributes": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "provider": {
+                        "type": "string"
+                      },
+                      "formats": {
+                        "type": "object",
+                        "properties": {
+                          "xsmall": {
+                            "type": "object",
+                            "properties": {
+                              "ext": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "hash": {
+                                "type": "string"
+                              },
+                              "mime": {
+                                "type": "string"
+                              },
+                              "name": {
+                                "type": "string"
+                              },
+                              "path": {
+                                "type": "null"
+                              },
+                              "size": {
+                                "type": "number"
+                              },
+                              "width": {
+                                "type": "integer"
+                              },
+                              "height": {
+                                "type": "integer"
+                              }
+                            },
+                            "required": [
+                              "ext",
+                              "url",
+                              "hash",
+                              "mime",
+                              "name",
+                              "path",
+                              "size",
+                              "width",
+                              "height"
+                            ]
+                          },
+                          "thumbnail": {
+                            "type": "object",
+                            "properties": {
+                              "ext": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "hash": {
+                                "type": "string"
+                              },
+                              "mime": {
+                                "type": "string"
+                              },
+                              "name": {
+                                "type": "string"
+                              },
+                              "path": {
+                                "type": "null"
+                              },
+                              "size": {
+                                "type": "number"
+                              },
+                              "width": {
+                                "type": "integer"
+                              },
+                              "height": {
+                                "type": "integer"
+                              }
+                            },
+                            "required": [
+                              "ext",
+                              "url",
+                              "hash",
+                              "mime",
+                              "name",
+                              "path",
+                              "size",
+                              "width",
+                              "height"
+                            ]
+                          }
+                        },
+                        "required": ["xsmall", "thumbnail"]
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name", "provider", "formats", "url"]
+                  }
+                },
+                "required": ["id", "attributes"]
+              }
+            },
+            "required": [
+              "name",
+              "year",
+              "category",
+              "type",
+              "position",
+              "description",
+              "logo"
+            ]
+          }
+        },
+        "required": ["id", "attributes"]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "pagination": {
+          "type": "object",
+          "properties": {
+            "page": {
+              "type": "integer"
+            },
+            "pageSize": {
+              "type": "integer"
+            },
+            "pageCount": {
+              "type": "integer"
+            },
+            "total": {
+              "type": "integer"
+            }
+          },
+          "required": ["page", "pageSize", "pageCount", "total"]
+        }
+      },
+      "required": ["pagination"]
+    }
+  },
+  "required": ["data", "meta"]
+}

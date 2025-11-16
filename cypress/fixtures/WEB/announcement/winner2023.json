@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 48,
+      "attributes": {
+        "name": "Bid Fish I",
+        "year": 2023,
+        "category": "Startup Track",
+        "type": "Winner",
+        "position": 1,
+        "description": "Ini adalah pemenang pertama 2023",
+        "logo": {
+          "id": 530,
+          "attributes": {
+            "name": "397b8aa3b1409da19f6512c20a5e77a0.png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae.png",
+                "hash": "xsmall_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae",
+                "mime": "image/png",
+                "name": "xsmall_397b8aa3b1409da19f6512c20a5e77a0.png",
+                "path": null,
+                "size": 2.3,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae.png",
+                "hash": "thumbnail_397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae",
+                "mime": "image/png",
+                "name": "thumbnail_397b8aa3b1409da19f6512c20a5e77a0.png",
+                "path": null,
+                "size": 7.78,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/397b8aa3b1409da19f6512c20a5e77a0_634a2c8dae.png"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 3,
+      "total": 1
+    }
+  }
+}

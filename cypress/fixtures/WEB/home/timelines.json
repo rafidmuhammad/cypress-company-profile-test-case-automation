@@ -1,0 +1,196 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "number"
+          },
+          "attributes": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "startDate": {
+                "type": "string"
+              },
+              "endDate": {
+                "type": "string"
+              },
+              "locale": {
+                "type": "string"
+              },
+              "estimatedTime": {
+                "type": ["string","null"]
+              },
+              "icon": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "number"
+                  },
+                  "attributes": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "provider": {
+                        "type": "string"
+                      },
+                      "formats": {
+                        "type": "object",
+                        "properties": {
+                          "xsmall": {
+                            "type": "object",
+                            "properties": {
+                              "ext": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "hash": {
+                                "type": "string"
+                              },
+                              "mime": {
+                                "type": "string"
+                              },
+                              "name": {
+                                "type": "string"
+                              },
+                              "path": {},
+                              "size": {
+                                "type": "number"
+                              },
+                              "width": {
+                                "type": "number"
+                              },
+                              "height": {
+                                "type": "number"
+                              }
+                            },
+                            "required": [
+                              "ext",
+                              "url",
+                              "hash",
+                              "mime",
+                              "name",
+                              "path",
+                              "size",
+                              "width",
+                              "height"
+                            ]
+                          },
+                          "thumbnail": {
+                            "type": "object",
+                            "properties": {
+                              "ext": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "hash": {
+                                "type": "string"
+                              },
+                              "mime": {
+                                "type": "string"
+                              },
+                              "name": {
+                                "type": "string"
+                              },
+                              "path": {},
+                              "size": {
+                                "type": "number"
+                              },
+                              "width": {
+                                "type": "number"
+                              },
+                              "height": {
+                                "type": "number"
+                              }
+                            }
+                            
+                          }
+                        },
+                        "required": [
+                          "xsmall",
+                          "thumbnail"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "provider",
+                      "formats"
+                    ]
+                  }
+                },
+                "required": [
+                  "id",
+                  "attributes"
+                ]
+              }
+            },
+            "required": [
+              "title",
+              "description",
+              "startDate",
+              "endDate",
+              "locale",
+              "estimatedTime",
+              "icon"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "attributes"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "pagination": {
+          "type": "object",
+          "properties": {
+            "page": {
+              "type": "number"
+            },
+            "pageSize": {
+              "type": "number"
+            },
+            "pageCount": {
+              "type": "number"
+            },
+            "total": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "page",
+            "pageSize",
+            "pageCount",
+            "total"
+          ]
+        }
+      },
+      "required": [
+        "pagination"
+      ]
+    }
+  },
+  "required": [
+    "data",
+    "meta"
+  ]
+}

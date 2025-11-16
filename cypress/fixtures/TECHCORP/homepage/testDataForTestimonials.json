@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "title": "TechCorp International Inc - Auto Sales Operation",
+        "userFullname": "Rio Tjahjoadi",
+        "userPosition": "Dept. Head of Sales Planning & Logistic",
+        "description": " \tNatacara by TechCorp Digital were extremely helpful with their customer registration system and YouTube content creations.. Hopefully, this collaboration can continue.",
+        "image": {
+          "id": 571,
+          "attributes": {
+            "name": "images (6).png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_images_6_1264a07a84.png",
+                "hash": "xsmall_images_6_1264a07a84",
+                "mime": "image/png",
+                "name": "xsmall_images (6).png",
+                "path": null,
+                "size": 4.37,
+                "width": 60,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_images_6_1264a07a84.png",
+                "hash": "thumbnail_images_6_1264a07a84",
+                "mime": "image/png",
+                "name": "thumbnail_images (6).png",
+                "path": null,
+                "size": 16.47,
+                "width": 146,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/images_6_1264a07a84.png"
+          }
+        }
+      }
+    },
+    {
+      "id": 1,
+      "attributes": {
+        "title": "RetailCo",
+        "userFullname": "Crystal Chan",
+        "userPosition": "IT Director for RetailCo & Group Digital Dairy Farm Group on Paceters",
+        "description": "RetailCo started controlled experimentation with TechCorp to understand customers traffic in offline store. TechCorp Data Intelligence team helps by discussing customer journey until testing insight on real business. The ",
+        "image": {
+          "id": 577,
+          "attributes": {
+            "name": "download (15).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_15_ecb38db7dd.jpg",
+                "hash": "xsmall_download_15_ecb38db7dd",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (15).jpg",
+                "path": null,
+                "size": 0.83,
+                "width": 64,
+                "height": 38
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_15_ecb38db7dd.jpg",
+                "hash": "thumbnail_download_15_ecb38db7dd",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (15).jpg",
+                "path": null,
+                "size": 5.06,
+                "width": 245,
+                "height": 145
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_15_ecb38db7dd.jpg"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}

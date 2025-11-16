@@ -1,0 +1,17 @@
+# node modules
+node_modules/
+
+#results and reports
+cypress/screenshots
+cypress/results
+mochawesome-report
+mochawesome.json
+
+# shell scripts
+*.sh
+
+# sanitization files
+SANITIZATION_SUMMARY.md
+
+# environment files
+cypress.env.json

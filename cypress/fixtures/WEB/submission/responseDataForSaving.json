@@ -1,0 +1,23 @@
+{
+  "data": {
+    "teamName": "Tim Salman",
+    "teamLeadName": "M Salman A",
+    "teamLeadEmail": "salman@example.com",
+    "teamLeadWhatsappNumber": "081234567890",
+    "institution": "Universitas Jayajaya",
+    "major": "Teknik Informatika",
+    "gender": "laki - laki",
+    "summaryOfInnovation": "Lorem, vel imperdiet mi congue nec.",
+    "problemStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare quam dolor",
+    "solution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare quam dolor",
+    "competitiveAnalysis": "Lorem ipsum dolor sit amet",
+    "uniqueValueProposition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare quam dolor.",
+    "haveProductTraction": true,
+    "haveGetInvestments": true,
+    "productTractionInformation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare quam dolor",
+    "investmentInformation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare quam dolor",
+    "competitionTrack": "Student",
+    "year": "2024",
+    "status": "draft"
+  }
+}

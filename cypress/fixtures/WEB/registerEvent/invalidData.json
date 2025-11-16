@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "file": "InvalidFileFormat.json",
+      "fileExt": "json",
+      "fileType": "application/json"
+    },
+    {
+      "file": "testDataDocx.docx",
+      "fileExt": "docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "file": "testDataExcel.xlsx",
+      "fileExt": "xlsx",
+      "fileType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "file": "testDataPptx.pptx",
+      "fileExt": "pptx",
+      "fileType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    }
+  ]
+}

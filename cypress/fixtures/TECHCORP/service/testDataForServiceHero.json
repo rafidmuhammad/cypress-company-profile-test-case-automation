@@ -1,0 +1,22 @@
+{
+  "id": {
+    "data": {
+      "id": 1,
+      "attributes": {
+        "title": "Memberikan solusi digital end-to-end",
+        "description": "Kami siap berdiskusi dan mendukung Anda mewujudkan ide-ide bisnis yang inovatif. Dengan pengalaman dan sumber daya kami, TechCorp Digital siap menjadi mitra yang dapat diandalkan dalam mengembangkan bisnis Anda di era digital.",
+        "banner": {
+          "id": 648,
+          "attributes": {
+            "name": "-e5d3-496a-a4bf-199733f8e7cb.mp4",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": null,
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/videos/e5d3_496a_a4bf_199733f8e7cb_c55e9f1dd0.mp4"
+          }
+        }
+      }
+    },
+    "meta": {}
+  },
+  "en": {}
+}

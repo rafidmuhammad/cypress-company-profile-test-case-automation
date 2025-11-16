@@ -1,0 +1,105 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "teamName": {
+          "type": "string"
+        },
+        "teamLeadName": {
+          "type": "string"
+        },
+        "teamLeadEmail": {
+          "type": "string"
+        },
+        "teamLeadWhatsappNumber": {
+          "type": "string"
+        },
+        "institution": {
+          "type": "string"
+        },
+        "major": {
+          "type": "string"
+        },
+        "gender": {
+          "type": "string"
+        },
+        "summaryOfInnovation": {
+          "type": "string"
+        },
+        "problemStatement": {
+          "type": "string"
+        },
+        "solution": {
+          "type": "string"
+        },
+        "competitiveAnalysis": {
+          "type": "string"
+        },
+        "uniqueValueProposition": {
+          "type": "string"
+        },
+        "haveProductTraction": {
+          "type": ["boolean", "null"]
+        },
+        "haveGetInvestments": {
+          "type": ["boolean", "null"]
+        },
+        "productTractionInformation": {
+          "type": "string"
+        },
+        "investmentInformation": {
+          "type": "string"
+        },
+        "competitionTrack": {
+          "type": "string"
+        },
+        "createdAt": {
+          "type": "string"
+        },
+        "updatedAt": {
+          "type": ["string", "null"]
+        },
+        "year": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        },
+        "userId": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "teamName",
+        "teamLeadName",
+        "teamLeadEmail",
+        "teamLeadWhatsappNumber",
+        "institution",
+        "major",
+        "gender",
+        "summaryOfInnovation",
+        "problemStatement",
+        "solution",
+        "competitiveAnalysis",
+        "uniqueValueProposition",
+        "haveProductTraction",
+        "haveGetInvestments",
+        "productTractionInformation",
+        "investmentInformation",
+        "competitionTrack",
+        "createdAt",
+        "updatedAt",
+        "year",
+        "status",
+        "userId"
+      ]
+    }
+  },
+  "required": ["data"]
+}

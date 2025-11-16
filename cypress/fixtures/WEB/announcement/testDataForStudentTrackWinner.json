@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": 72,
+      "attributes": {
+        "name": "Winner Student 1",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Winner",
+        "position": 1,
+        "description": "Winner 1",
+        "logo": {
+          "id": 571,
+          "attributes": {
+            "name": "images (6).png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_images_6_1264a07a84.png",
+                "hash": "xsmall_images_6_1264a07a84",
+                "mime": "image/png",
+                "name": "xsmall_images (6).png",
+                "path": null,
+                "size": 4.37,
+                "width": 60,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_images_6_1264a07a84.png",
+                "hash": "thumbnail_images_6_1264a07a84",
+                "mime": "image/png",
+                "name": "thumbnail_images (6).png",
+                "path": null,
+                "size": 16.47,
+                "width": 146,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/images_6_1264a07a84.png"
+          }
+        }
+      }
+    },
+    {
+      "id": 77,
+      "attributes": {
+        "name": "Student Winner 2",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Winner",
+        "position": 2,
+        "description": "Winner 2",
+        "logo": {
+          "id": 570,
+          "attributes": {
+            "name": "images (5).png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_images_5_4aa65d1a72.png",
+                "hash": "xsmall_images_5_4aa65d1a72",
+                "mime": "image/png",
+                "name": "xsmall_images (5).png",
+                "path": null,
+                "size": 3.84,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_images_5_4aa65d1a72.png",
+                "hash": "thumbnail_images_5_4aa65d1a72",
+                "mime": "image/png",
+                "name": "thumbnail_images (5).png",
+                "path": null,
+                "size": 15.27,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/images_5_4aa65d1a72.png"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 3,
+      "total": 2
+    }
+  }
+}

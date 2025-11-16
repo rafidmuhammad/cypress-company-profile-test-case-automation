@@ -1,0 +1,368 @@
+{
+  "id": {
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "name": "Competition Track",
+          "code": "JK",
+          "createdAt": "2024-03-06T12:07:39.481Z",
+          "updatedAt": "2024-04-05T08:02:30.525Z",
+          "locale": "id",
+          "position": 1,
+          "participationInfos": [
+            {
+              "id": 11,
+              "title": "Innovation Competition",
+              "description": "Digital and technology innovation competition for startups and students to provide solutions for the country",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 12,
+              "title": "Business Challenge",
+              "description": "Innovation challenge for startups and students to solve real-world business problems.",
+              "detailPageUrl": "https://qa-techspaces.techcorp.id/business-challenge",
+              "icon": null
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "name": "Participant Track",
+          "code": "JP",
+          "createdAt": "2024-03-06T12:07:53.628Z",
+          "updatedAt": "2024-04-05T08:03:15.829Z",
+          "locale": "id",
+          "position": 2,
+          "participationInfos": [
+            {
+              "id": 9,
+              "title": "Students",
+              "description": "Registered as an active student in D3, D4, S1, or S2 programs at local or international universities. Can register as an individual or team. Allowed to submit only in the form of an idea proposal during registration, but must develop a blueprint or prototype during the mentorship period.\nif selected as a finalist for Demo Day",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 10,
+              "title": "Startup",
+              "description": "Memiliki product traction dan boleh pernah mendapat pendanaan dari angel investor atau VC",
+              "detailPageUrl": null,
+              "icon": null
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "name": "Innovation Category",
+          "code": "KI",
+          "createdAt": "2024-03-06T12:08:07.808Z",
+          "updatedAt": "2024-04-05T08:03:37.582Z",
+          "locale": "id",
+          "position": 3,
+          "participationInfos": [
+            {
+              "id": 1,
+              "title": "Smart Agriculture",
+              "description": "Use of technology to optimize crop yields, promote sustainable practices, and simplify operations in the agricultural sector.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 2,
+              "title": "Smart Financial Services",
+              "description": "Use of technology to simplify processes, personalize solutions, and offer secure and user-friendly financial experiences.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 3,
+              "title": "Smart Healthcare",
+              "description": "Use of technology to prevent, diagnose, monitor, and treat diseases, as well as to improve the current healthcare service ecosystem.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 4,
+              "title": "Smart Infrastructure & Property",
+              "description": "Use of technology to revolutionize infrastructure and property development, improve efficiency, sustainability, and quality of urban and rural life.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 5,
+              "title": "Smart Automotive & Manufacturing",
+              "description": "Use of technology to optimize production, improve quality, and ensure smooth supply chain.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 6,
+              "title": "Smart Mobility & Logistics",
+              "description": "Use of technology to optimize transportation networks, streamline supply chains, enhance customer experience, and promote sustainable practices.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 7,
+              "title": "Smart Mining & Energy",
+              "description": "Use of technology to optimize resources, improve safety, promote environmental sustainability, and manage energy for a sustainable future.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 8,
+              "title": "Smart Technology",
+              "description": "Use of technology, including Artificial Intelligence (AI), Blockchain, Web 3, Extended Reality (XR), and interconnected devices, to optimize processes and create smoother user experiences.",
+              "detailPageUrl": null,
+              "icon": null
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "name": "Alasan untuk Bergabung",
+          "code": "AB",
+          "createdAt": "2024-03-06T12:08:20.789Z",
+          "updatedAt": "2024-04-05T08:03:52.481Z",
+          "locale": "id",
+          "position": 4,
+          "participationInfos": [
+            {
+              "id": 13,
+              "title": "Kolaborasi Fast Track dengan" TechCorp",
+              "description": "Get the opportunity to collaborate with 200+ business units",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 15,
+              "title": "Program Inkubasi",
+              "description": "Dapat mengikuti program akselerator TechCorp InnovLab",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 16,
+              "title": "Peluang Pitching",
+              "description": "Get the opportunity to present your ideas to the investment team and VC partners",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 17,
+              "title": "Digital Startup Community",
+              "description": "Akses semua Keuntungan Komunitas Startup Digital" TechCorp",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 18,
+              "title": "Peluang Magang",
+              "description": "Kesempatan Magang di salah satu Grup TechCorp (khusus pelajar)",
+              "detailPageUrl": null,
+              "icon": null
+            }
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 4
+      }
+    }
+  },
+  "en": {
+    "data": [
+      {
+        "id": 5,
+        "attributes": {
+          "name": "Competition Track",
+          "code": "JK",
+          "createdAt": "2024-04-05T08:02:30.454Z",
+          "updatedAt": "2024-04-05T08:02:30.454Z",
+          "locale": "en",
+          "position": 1,
+          "participationInfos": [
+            {
+              "id": 19,
+              "title": "Business Challenge",
+              "description": "Innovation challenges for startups and students to solve TechCorp business problems in the real world.",
+              "detailPageUrl": "https://qa-techspaces.techcorp.id/business-challenge",
+              "icon": null
+            },
+            {
+              "id": 21,
+              "title": "Innovation Competition",
+              "description": "Digital and technology innovation competition for startups and students to present solutions for Indonesia",
+              "detailPageUrl": null,
+              "icon": null
+            }
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "name": "Participant Track",
+          "code": "JP",
+          "createdAt": "2024-04-05T08:03:15.766Z",
+          "updatedAt": "2024-04-05T08:03:15.766Z",
+          "locale": "en",
+          "position": 2,
+          "participationInfos": [
+            {
+              "id": 23,
+              "title": "Student",
+              "description": "Registered as an active student in a D3, D4, S1 or Masters program at a local or international university. Can register as an individual or a team. It is permissible to send only an idea proposal during registration, but it is mandatory to develop a blueprint or prototype during the mentorship period.\nif selected as a Demo Day finalist",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 35,
+              "title": "Startup",
+              "description": "Have product traction and may have received funding from angel investors or VC",
+              "detailPageUrl": null,
+              "icon": null
+            }
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "name": "Innovation Category",
+          "code": "KI",
+          "createdAt": "2024-04-05T08:03:37.460Z",
+          "updatedAt": "2024-04-05T08:03:37.460Z",
+          "locale": "en",
+          "position": 3,
+          "participationInfos": [
+            {
+              "id": 27,
+              "title": "Smart Agriculture",
+              "description": "Use of technology to optimize crop yields, encourage sustainable practices, and simplify operations in the agricultural sector.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 28,
+              "title": "Smart Automotive & Manufacturing",
+              "description": "Use of technology to optimize production, improve quality, and ensure a smooth supply chain.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 29,
+              "title": "Smart Financial Services",
+              "description": "Use of technology to simplify processes, personalize solutions, and offer a secure, user-friendly financial experience.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 30,
+              "title": "Smart Healthcare",
+              "description": "The use of technology to prevent, diagnose, monitor and treat disease, and to improve the current healthcare ecosystem.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 31,
+              "title": "Smart Infrastructure & Property",
+              "description": "The use of technology to revolutionize infrastructure and property development, improving efficiency, sustainability and the quality of urban and rural life.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 32,
+              "title": "Smart Mining & Energy",
+              "description": "Use of technology to optimize resources, improve safety, promote environmental sustainability, and manage energy for a sustainable future.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 33,
+              "title": "Smart Mobility & Logistics",
+              "description": "Use of technology to optimize transportation networks, streamline supply chains, improve customer experience and promote sustainable practices.",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 34,
+              "title": "Smart Technology",
+              "description": "Use of technology, including Artificial Intelligence (AI), Blockchain, Web 3, Extended Reality (XR), and connected devices, to optimize processes and create a smoother user experience.",
+              "detailPageUrl": null,
+              "icon": null
+            }
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "name": "Reason to Join",
+          "code": "AB",
+          "createdAt": "2024-04-05T08:03:52.423Z",
+          "updatedAt": "2024-04-05T08:03:52.423Z",
+          "locale": "en",
+          "position": 4,
+          "participationInfos": [
+            {
+              "id": 20,
+              "title": "Fast Track collaboration with" TechCorp",
+              "description": "Get the opportunity to work with 200+ TechCorp business units",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 22,
+              "title": "TechCorp Digital Startup Community",
+              "description": "Access all the Benefits of the TechCorp Digital Startup Community",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 24,
+              "title": "Internship Opportunities",
+              "description": "Internship Opportunities in one of the TechCorp Groups (students only)",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 25,
+              "title": "Pitching Opportunities",
+              "description": "Get the opportunity to pitch your idea to the investment team and VC partners",
+              "detailPageUrl": null,
+              "icon": null
+            },
+            {
+              "id": 26,
+              "title": "Incubation Program",
+              "description": "Can take part in the TechCorp InnovLab accelerator program",
+              "detailPageUrl": null,
+              "icon": null
+            }
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 4
+      }
+    }
+  }
+}

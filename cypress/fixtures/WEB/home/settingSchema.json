@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "attributes": {
+          "type": "object",
+          "properties": {
+            "openRegistration": {
+              "type": "string"
+            },
+            "closeRegistration": {
+              "type": "string"
+            },
+            "openProposal": {
+              "type": "string"
+            },
+            "closeProposal": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "openRegistration",
+            "closeRegistration",
+            "openProposal",
+            "closeProposal"
+          ]
+        }
+      },
+      "required": ["id", "attributes"]
+    },
+    "meta": {
+      "type": "object"
+    }
+  },
+  "required": ["data", "meta"]
+}

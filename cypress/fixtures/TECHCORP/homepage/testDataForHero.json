@@ -1,0 +1,17 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "hero": {
+        "id": 738,
+        "attributes": {
+          "name": "TechCorp Digital.mp4",
+          "provider": "strapi-upload-azure-storage-extended",
+          "formats": null,
+          "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/videos/TechCorp_Digital_d26589b6c4.mp4"
+        }
+      }
+    }
+  },
+  "meta": {}
+}

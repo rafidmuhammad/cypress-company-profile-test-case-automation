@@ -1,0 +1,419 @@
+{
+  "data": [
+    {
+      "id": 109,
+      "attributes": {
+        "name": "Mike",
+        "position": "1",
+        "type": "Speaker",
+        "createdAt": "2024-03-20T08:14:31.073Z",
+        "updatedAt": "2024-03-21T10:04:00.929Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 50,
+          "attributes": {
+            "name": "0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "small": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91.webp",
+                "hash": "small_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91",
+                "mime": "image/webp",
+                "name": "small_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+                "path": null,
+                "size": 14.62,
+                "width": 500,
+                "height": 500
+              },
+              "xsmall": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91.webp",
+                "hash": "xsmall_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91",
+                "mime": "image/webp",
+                "name": "xsmall_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+                "path": null,
+                "size": 0.75,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91.webp",
+                "hash": "thumbnail_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91",
+                "mime": "image/webp",
+                "name": "thumbnail_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+                "path": null,
+                "size": 2.53,
+                "width": 156,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 112,
+      "attributes": {
+        "name": "Bruno",
+        "position": "4",
+        "type": "Speaker",
+        "createdAt": "2024-03-21T02:09:57.632Z",
+        "updatedAt": "2024-03-21T02:09:57.632Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 50,
+          "attributes": {
+            "name": "0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "small": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91.webp",
+                "hash": "small_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91",
+                "mime": "image/webp",
+                "name": "small_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+                "path": null,
+                "size": 14.62,
+                "width": 500,
+                "height": 500
+              },
+              "xsmall": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91.webp",
+                "hash": "xsmall_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91",
+                "mime": "image/webp",
+                "name": "xsmall_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+                "path": null,
+                "size": 0.75,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91.webp",
+                "hash": "thumbnail_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000_6072282e91",
+                "mime": "image/webp",
+                "name": "thumbnail_0a6eb6d21abd5bec165c1ccbcee6778f26a83d0f_2000x2000.webp",
+                "path": null,
+                "size": 2.53,
+                "width": 156,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 113,
+      "attributes": {
+        "name": "Speaker 5",
+        "position": "5",
+        "type": "Speaker",
+        "createdAt": "2024-03-21T02:10:46.935Z",
+        "updatedAt": "2024-03-21T02:10:46.935Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 49,
+          "attributes": {
+            "name": "796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000.webp",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "small": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000_e3b879c0b9.webp",
+                "hash": "small_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000_e3b879c0b9",
+                "mime": "image/webp",
+                "name": "small_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000.webp",
+                "path": null,
+                "size": 11.54,
+                "width": 500,
+                "height": 500
+              },
+              "xsmall": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000_e3b879c0b9.webp",
+                "hash": "xsmall_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000_e3b879c0b9",
+                "mime": "image/webp",
+                "name": "xsmall_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000.webp",
+                "path": null,
+                "size": 0.75,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000_e3b879c0b9.webp",
+                "hash": "thumbnail_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000_e3b879c0b9",
+                "mime": "image/webp",
+                "name": "thumbnail_796c034f2649d8513eb9fbab4739a7c086473d1a_2000x2000.webp",
+                "path": null,
+                "size": 2.07,
+                "width": 156,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 111,
+      "attributes": {
+        "name": "Smith",
+        "position": "3",
+        "type": "Speaker",
+        "createdAt": "2024-03-21T02:09:34.085Z",
+        "updatedAt": "2024-03-25T05:21:15.132Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 577,
+          "attributes": {
+            "name": "download (15).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_15_ecb38db7dd.jpg",
+                "hash": "xsmall_download_15_ecb38db7dd",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (15).jpg",
+                "path": null,
+                "size": 0.83,
+                "width": 64,
+                "height": 38
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_15_ecb38db7dd.jpg",
+                "hash": "thumbnail_download_15_ecb38db7dd",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (15).jpg",
+                "path": null,
+                "size": 5.06,
+                "width": 245,
+                "height": 145
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 122,
+      "attributes": {
+        "name": "Speaker 3 2024",
+        "position": "11",
+        "type": "Speaker",
+        "createdAt": "2024-03-22T04:41:39.091Z",
+        "updatedAt": "2024-03-26T02:48:38.885Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 539,
+          "attributes": {
+            "name": "download (1).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_1_cb5cca44d6.jpg",
+                "hash": "xsmall_download_1_cb5cca44d6",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (1).jpg",
+                "path": null,
+                "size": 1.23,
+                "width": 47,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_1_cb5cca44d6.jpg",
+                "hash": "thumbnail_download_1_cb5cca44d6",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (1).jpg",
+                "path": null,
+                "size": 4.07,
+                "width": 115,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 110,
+      "attributes": {
+        "name": "Speaker 2",
+        "position": "2",
+        "type": "Speaker",
+        "createdAt": "2024-03-20T08:14:55.326Z",
+        "updatedAt": "2024-03-21T10:04:18.136Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 46,
+          "attributes": {
+            "name": "2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "small": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                "hash": "small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                "mime": "image/webp",
+                "name": "small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                "path": null,
+                "size": 8.67,
+                "width": 500,
+                "height": 500
+              },
+              "xsmall": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                "hash": "xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                "mime": "image/webp",
+                "name": "xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                "path": null,
+                "size": 0.67,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                "hash": "thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                "mime": "image/webp",
+                "name": "thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                "path": null,
+                "size": 1.82,
+                "width": 156,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 116,
+      "attributes": {
+        "name": "Speaker 8",
+        "position": "6",
+        "type": "Speaker",
+        "createdAt": "2024-03-21T02:12:05.705Z",
+        "updatedAt": "2024-03-25T05:21:57.097Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 539,
+          "attributes": {
+            "name": "download (1).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_1_cb5cca44d6.jpg",
+                "hash": "xsmall_download_1_cb5cca44d6",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (1).jpg",
+                "path": null,
+                "size": 1.23,
+                "width": 47,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_1_cb5cca44d6.jpg",
+                "hash": "thumbnail_download_1_cb5cca44d6",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (1).jpg",
+                "path": null,
+                "size": 4.07,
+                "width": 115,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 117,
+      "attributes": {
+        "name": "Speaker 9",
+        "position": "7",
+        "type": "Speaker",
+        "createdAt": "2024-03-21T02:12:35.051Z",
+        "updatedAt": "2024-03-25T05:22:08.394Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2024,
+        "image": {
+          "id": 45,
+          "attributes": {
+            "name": "2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "small": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                "hash": "small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                "mime": "image/webp",
+                "name": "small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                "path": null,
+                "size": 12.62,
+                "width": 500,
+                "height": 500
+              },
+              "xsmall": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                "hash": "xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                "mime": "image/webp",
+                "name": "xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                "path": null,
+                "size": 0.95,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                "hash": "thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                "mime": "image/webp",
+                "name": "thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                "path": null,
+                "size": 2.75,
+                "width": 156,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 50,
+      "pageCount": 1,
+      "total": 12
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "expiresIn": {
+      "type": "integer"
+    },
+    "token": {
+      "type": "string"
+    }
+  },
+  "required": ["expiresIn", "token"]
+}

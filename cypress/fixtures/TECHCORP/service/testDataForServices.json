@@ -1,0 +1,1153 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "attributes": {
+        "heroYoutubeLink": "https://www.youtube.com/watch?v=nTp2-pmjjkA",
+        "name_id": "Data Intelligence",
+        "description_id": "Transformasi bisnis ke dunia digital telah membawa bisnis lebih dekat dengan orang-orang yang mereka layani dan menjadi lebih berpusat pada pelanggan. Pengalaman dan interaksi setiap pelanggan menjadi lebih bermakna. Untuk mengidentifikasi peluang baru, memaksimalkan potensi, dan penggunaan data untuk menghasilkan keputusan yang lebih cerdas - lebih mudah dipahami dan berdampak besar - bisnis membutuhkan kemampuan untuk menghasilkan, menginterpretasikan, menindaklanjuti wawasan pelanggan dan bisnis dalam skala besar dan secara real-time untuk memungkinkan transformasi strategi bisnis dan mendorong dampak bisnis yang nyata.",
+        "name_en": "Data Intelligence",
+        "description_en": "The transformation of business into digital world has taken businesses closer to people they serve and becomes more customer centric. Every customer’s experience and interaction become even more meaningful. To identify new opportunities, maximize potential and data usage to deliver smarter—more relatable and impactful—decisions, businesses need the ability to generate, interpret, act on customers and business insight at scale and in real-time to enable business strategies transformation and driving real business impacts.",
+        "slug": "data-intelligence",
+        "image": {
+          "id": 646,
+          "attributes": {
+            "name": "e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "large_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "large_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 75.04,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "small_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "small_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 6.7,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "medium_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "medium_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 24.61,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "xlarge_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "xlarge_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 194.11,
+                "width": 2180,
+                "height": 1454
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "xsmall_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "xsmall_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 0.99,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "thumbnail_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "thumbnail_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 8.51,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg"
+          }
+        },
+        "heroThumbnail": {
+          "id": 646,
+          "attributes": {
+            "name": "e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "large_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "large_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 75.04,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "small_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "small_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 6.7,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "medium_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "medium_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 24.61,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "xlarge_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "xlarge_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 194.11,
+                "width": 2180,
+                "height": 1454
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "xsmall_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "xsmall_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 0.99,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg",
+                "hash": "thumbnail_e3c87949ea1b1481d8b8b7da968c7edd_090eebc099",
+                "mime": "image/jpeg",
+                "name": "thumbnail_e3c87949ea1b1481d8b8b7da968c7edd.jpg",
+                "path": null,
+                "size": 8.51,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/e3c87949ea1b1481d8b8b7da968c7edd_090eebc099.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "heroYoutubeLink": "https://www.youtube.com/watch?v=nTp2-pmjjkA",
+        "name_id": "Academy & Technology",
+        "description_id": "Untuk mengimbangi kebutuhan akan talenta digital yang terus meningkat, TechCorp merasa perlu untuk membekali tenaga kerjanya dengan kemampuan digital yang sangat dibutuhkan untuk mempertahankan relevansinya dengan pelanggan dan karyawan.",
+        "name_en": "Academy & Technology",
+        "description_en": "To keep up with the growing need for digital talent, TechCorp finds a need to equip its workforce with the much-needed digital capabilities to maintain its relevancy towards both its customers and employees.",
+        "slug": "academy-and-technology",
+        "image": {
+          "id": 645,
+          "attributes": {
+            "name": "de35cc8c6d12e6510fcb5b95c294541d.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "large_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "large_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 64.88,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "small_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "small_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 6.39,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "medium_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "medium_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 20.67,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "xlarge_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "xlarge_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 179.99,
+                "width": 2180,
+                "height": 1453
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "xsmall_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "xsmall_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 1.06,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "thumbnail_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "thumbnail_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 7.92,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg"
+          }
+        },
+        "heroThumbnail": {
+          "id": 645,
+          "attributes": {
+            "name": "de35cc8c6d12e6510fcb5b95c294541d.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "large_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "large_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 64.88,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "small_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "small_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 6.39,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "medium_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "medium_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 20.67,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "xlarge_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "xlarge_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 179.99,
+                "width": 2180,
+                "height": 1453
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "xsmall_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "xsmall_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 1.06,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "thumbnail_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "thumbnail_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 7.92,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 1,
+      "attributes": {
+        "heroYoutubeLink": "https://www.youtube.com/watch?v=nTp2-pmjjkA",
+        "name_id": "Digital Ventures",
+        "description_id": "Kami mengeksplorasi dan menggabungkan kefasihan teknologi dengan keahlian industri untuk menciptakan solusi yang menguasai pasar yang kompetitif.",
+        "name_en": "Digital Ventures",
+        "description_en": "We thrive by exploring and combining technology fluency with industry expertise to create solutions that master competitive markets.",
+        "slug": "digital-ventures",
+        "image": {
+          "id": 643,
+          "attributes": {
+            "name": "35afa3fd276398e68d6acf4067e6e394.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "large_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "large_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 78.09,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "small_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "small_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 5.69,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "medium_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "medium_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 21.65,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "xlarge_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "xlarge_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 235,
+                "width": 2180,
+                "height": 1454
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "xsmall_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "xsmall_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 0.92,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "thumbnail_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "thumbnail_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 7.15,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg"
+          }
+        },
+        "heroThumbnail": {
+          "id": 643,
+          "attributes": {
+            "name": "35afa3fd276398e68d6acf4067e6e394.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "large_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "large_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 78.09,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "small_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "small_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 5.69,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "medium_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "medium_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 21.65,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "xlarge_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "xlarge_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 235,
+                "width": 2180,
+                "height": 1454
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "xsmall_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "xsmall_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 0.92,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg",
+                "hash": "thumbnail_35afa3fd276398e68d6acf4067e6e394_cc335cac88",
+                "mime": "image/jpeg",
+                "name": "thumbnail_35afa3fd276398e68d6acf4067e6e394.jpg",
+                "path": null,
+                "size": 7.15,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/35afa3fd276398e68d6acf4067e6e394_cc335cac88.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "heroYoutubeLink": "gaCR3WX-J60",
+        "name_id": "Venture Building",
+        "description_id": "Pengembangan usaha rintisan telah menjadi strategi penting bagi perusahaan, tidak hanya untuk mempertahankan pertumbuhan jangka panjang tetapi juga untuk tetap relevan dengan pelanggan dan pemangku kepentingan lainnya. Dalam beberapa tahun terakhir, TechCorp telah menginkubasi dan meluncurkan beberapa usaha dan produk digital baru sebagai respons terhadap perubahan perkembangan teknologi dan permintaan serta preferensi pelanggan.",
+        "name_en": "Venture Building",
+        "description_en": "Pengembangan usaha rintisan telah menjadi strategi penting bagi perusahaan, tidak hanya untuk mempertahankan pertumbuhan jangka panjang tetapi juga untuk tetap relevan dengan pelanggan dan pemangku kepentingan lainnya. Dalam beberapa tahun terakhir, TechCorp telah menginkubasi dan meluncurkan beberapa usaha dan produk digital baru sebagai respons terhadap perubahan perkembangan teknologi dan permintaan serta preferensi pelanggan.",
+        "slug": "venture-building",
+        "image": {
+          "id": 644,
+          "attributes": {
+            "name": "e99ad0864846da1672494857e8b50ffd.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "large_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "large_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 180.66,
+                "width": 1080,
+                "height": 1080
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "small_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "small_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 11.27,
+                "width": 200,
+                "height": 200
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "medium_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "medium_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 46.65,
+                "width": 480,
+                "height": 480
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "xlarge_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "xlarge_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 529.64,
+                "width": 2180,
+                "height": 2180
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "xsmall_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "xsmall_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 1.4,
+                "width": 50,
+                "height": 50
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "thumbnail_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "thumbnail_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 7.73,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/e99ad0864846da1672494857e8b50ffd_65a289df70.jpg"
+          }
+        },
+        "heroThumbnail": {
+          "id": 644,
+          "attributes": {
+            "name": "e99ad0864846da1672494857e8b50ffd.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "large_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "large_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 180.66,
+                "width": 1080,
+                "height": 1080
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "small_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "small_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 11.27,
+                "width": 200,
+                "height": 200
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "medium_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "medium_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 46.65,
+                "width": 480,
+                "height": 480
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "xlarge_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "xlarge_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 529.64,
+                "width": 2180,
+                "height": 2180
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "xsmall_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "xsmall_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 1.4,
+                "width": 50,
+                "height": 50
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_e99ad0864846da1672494857e8b50ffd_65a289df70.jpg",
+                "hash": "thumbnail_e99ad0864846da1672494857e8b50ffd_65a289df70",
+                "mime": "image/jpeg",
+                "name": "thumbnail_e99ad0864846da1672494857e8b50ffd.jpg",
+                "path": null,
+                "size": 7.73,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/e99ad0864846da1672494857e8b50ffd_65a289df70.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "heroYoutubeLink": "https://www.youtube.com/watch?v=nTp2-pmjjkA",
+        "name_id": "Strategy & Consulting",
+        "description_id": "Dengan meningkatnya digitalisasi di semua aspek kehidupan, penting bagi perusahaan untuk mengintegrasikan teknologi ke dalam model bisnis yang sudah ada agar dapat melayani pelanggan dengan lebih baik dan meningkatkan efisiensi organisasi secara keseluruhan.",
+        "name_en": "Strategy & Consulting",
+        "description_en": "With the increasing digitalization of all aspects in life, it has become essential for companies to integrate technologies into their existing business model to better serve customers and increase overall organizational efficiency.",
+        "slug": "strategy-and-consulting",
+        "image": {
+          "id": 642,
+          "attributes": {
+            "name": "fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "large_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "large_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 103.83,
+                "width": 1080,
+                "height": 820
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "small_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "small_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 7.73,
+                "width": 200,
+                "height": 152
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "medium_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "medium_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 29.21,
+                "width": 480,
+                "height": 364
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "xlarge_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "xlarge_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 317.62,
+                "width": 2180,
+                "height": 1656
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "xsmall_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "xsmall_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 1.14,
+                "width": 50,
+                "height": 38
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 8.15,
+                "width": 206,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg"
+          }
+        },
+        "heroThumbnail": {
+          "id": 642,
+          "attributes": {
+            "name": "fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "large_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "large_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 103.83,
+                "width": 1080,
+                "height": 820
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "small_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "small_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 7.73,
+                "width": 200,
+                "height": 152
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "medium_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "medium_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 29.21,
+                "width": 480,
+                "height": 364
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "xlarge_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "xlarge_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 317.62,
+                "width": 2180,
+                "height": 1656
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "xsmall_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "xsmall_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 1.14,
+                "width": 50,
+                "height": 38
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 8.15,
+                "width": 206,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "heroYoutubeLink": "https://www.youtube.com/watch?v=nTp2-pmjjkA",
+        "name_id": "Digital Marketing",
+        "description_id": "Pertumbuhan adopsi digital yang stabil telah menjadi lahan subur bagi lanskap pemasaran digital yang berkembang pesat di Indonesia, yang menciptakan kebutuhan akan konsultasi strategis inovasi digital secara menyeluruh, dan implementasi pemasaran.",
+        "name_en": "Digital Marketing",
+        "description_en": "The steady growth of digital adoption has become a fertile ground for the digital marketing landscape thriving in Indonesia, which creates the need for end-to-end digital innovation strategic consultancy, and marketing implementations.",
+        "slug": "digital-marketing",
+        "image": {
+          "id": 647,
+          "attributes": {
+            "name": "93ab87c6c4bb0f764ebdc6e094431453.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "large_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "large_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 94.16,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "small_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "small_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 7.91,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "medium_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "medium_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 29.17,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "xlarge_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "xlarge_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 256.9,
+                "width": 2180,
+                "height": 1454
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "xsmall_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "xsmall_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 1.1,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "thumbnail_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "thumbnail_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 10.05,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg"
+          }
+        },
+        "heroThumbnail": {
+          "id": 647,
+          "attributes": {
+            "name": "93ab87c6c4bb0f764ebdc6e094431453.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "large_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "large_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 94.16,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "small_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "small_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 7.91,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "medium_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "medium_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 29.17,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "xlarge_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "xlarge_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 256.9,
+                "width": 2180,
+                "height": 1454
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "xsmall_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "xsmall_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 1.1,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg",
+                "hash": "thumbnail_93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4",
+                "mime": "image/jpeg",
+                "name": "thumbnail_93ab87c6c4bb0f764ebdc6e094431453.jpg",
+                "path": null,
+                "size": 10.05,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/93ab87c6c4bb0f764ebdc6e094431453_50727ea5d4.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "heroYoutubeLink": "https://www.youtube.com/watch?v=nTp2-pmjjkA",
+        "name_id": "TESTING",
+        "description_id": "Deskripsi Indo",
+        "name_en": "TESTING",
+        "description_en": "English Description",
+        "slug": "testing",
+        "image": {
+          "id": 642,
+          "attributes": {
+            "name": "fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "large_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "large_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 103.83,
+                "width": 1080,
+                "height": 820
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "small_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "small_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 7.73,
+                "width": 200,
+                "height": 152
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "medium_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "medium_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 29.21,
+                "width": 480,
+                "height": 364
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "xlarge_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "xlarge_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 317.62,
+                "width": 2180,
+                "height": 1656
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "xsmall_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "xsmall_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 1.14,
+                "width": 50,
+                "height": 38
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg",
+                "hash": "thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e",
+                "mime": "image/jpeg",
+                "name": "thumbnail_fc570f0cd350a5fddf88da8ea8e39ed3.jpg",
+                "path": null,
+                "size": 8.15,
+                "width": 206,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/fc570f0cd350a5fddf88da8ea8e39ed3_6d08efb98e.jpg"
+          }
+        },
+        "heroThumbnail": {
+          "id": 645,
+          "attributes": {
+            "name": "de35cc8c6d12e6510fcb5b95c294541d.jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "large_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "large_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 64.88,
+                "width": 1080,
+                "height": 720
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "small_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "small_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 6.39,
+                "width": 200,
+                "height": 133
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "medium_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "medium_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 20.67,
+                "width": 480,
+                "height": 320
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "xlarge_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "xlarge_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 179.99,
+                "width": 2180,
+                "height": 1453
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "xsmall_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "xsmall_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 1.06,
+                "width": 50,
+                "height": 33
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg",
+                "hash": "thumbnail_de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1",
+                "mime": "image/jpeg",
+                "name": "thumbnail_de35cc8c6d12e6510fcb5b95c294541d.jpg",
+                "path": null,
+                "size": 7.92,
+                "width": 234,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/de35cc8c6d12e6510fcb5b95c294541d_a58125c3e1.jpg"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 7
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": {
+    "data": [
+      {
+        "id": 7,
+        "attributes": {
+          "title": "Ceramah & Diskusi Panel",
+          "description": "Deskripsi Ceramah & Diskusi Panel",
+          "locale": "id",
+          "type": "Conference",
+          "icon": {
+            "id": 5,
+            "attributes": {
+              "name": "Property 1=class.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_class_2dc0b18d44.png",
+                  "hash": "xsmall_Property_1_class_2dc0b18d44",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=class.png",
+                  "path": null,
+                  "size": 8.43,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_class_2dc0b18d44.png",
+                  "hash": "thumbnail_Property_1_class_2dc0b18d44",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=class.png",
+                  "path": null,
+                  "size": 36.98,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "title": "Diskusi Kelompok",
+          "description": "Deskripsi diskusi kelompok",
+          "locale": "id",
+          "type": "Conference",
+          "icon": {
+            "id": 6,
+            "attributes": {
+              "name": "Property 1=Innovation.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_Innovation_0f2db38528.png",
+                  "hash": "xsmall_Property_1_Innovation_0f2db38528",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=Innovation.png",
+                  "path": null,
+                  "size": 5.78,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_Innovation_0f2db38528.png",
+                  "hash": "thumbnail_Property_1_Innovation_0f2db38528",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=Innovation.png",
+                  "path": null,
+                  "size": 25.01,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 2
+      }
+    }
+  },
+  "en": {
+    "data": [
+      {
+        "id": 11,
+        "attributes": {
+          "title": "Keynotes & Panel Discussions",
+          "description": "Description for keynotes & panel discussions",
+          "locale": "en",
+          "type": "Conference",
+          "icon": {
+            "id": 5,
+            "attributes": {
+              "name": "Property 1=class.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_class_2dc0b18d44.png",
+                  "hash": "xsmall_Property_1_class_2dc0b18d44",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=class.png",
+                  "path": null,
+                  "size": 8.43,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_class_2dc0b18d44.png",
+                  "hash": "thumbnail_Property_1_class_2dc0b18d44",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=class.png",
+                  "path": null,
+                  "size": 36.98,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "title": "Speech & Panel Discussion",
+          "description": "Description speech & panel discussion",
+          "locale": "en",
+          "type": "Conference",
+          "icon": {
+            "id": 6,
+            "attributes": {
+              "name": "Property 1=Innovation.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_Innovation_0f2db38528.png",
+                  "hash": "xsmall_Property_1_Innovation_0f2db38528",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=Innovation.png",
+                  "path": null,
+                  "size": 5.78,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_Innovation_0f2db38528.png",
+                  "hash": "thumbnail_Property_1_Innovation_0f2db38528",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=Innovation.png",
+                  "path": null,
+                  "size": 25.01,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 2
+      }
+    }
+  }
+}

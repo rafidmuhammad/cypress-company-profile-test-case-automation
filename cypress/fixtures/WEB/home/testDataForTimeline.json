@@ -1,0 +1,530 @@
+{
+  "id": {
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "title": "Pendaftaran",
+          "description": "Pendaftaran tim dan penyerahan proposal",
+          "startDate": "2024-03-14",
+          "endDate": "2024-04-28",
+          "estimatedTime": "7 Minggu",
+          "locale": "id",
+          "icon": {
+            "id": 12,
+            "attributes": {
+              "name": "Property 1=registration.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_registration_9b2ae04bb0.png",
+                  "hash": "xsmall_Property_1_registration_9b2ae04bb0",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=registration.png",
+                  "path": null,
+                  "size": 6.26,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_registration_9b2ae04bb0.png",
+                  "hash": "thumbnail_Property_1_registration_9b2ae04bb0",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=registration.png",
+                  "path": null,
+                  "size": 25.66,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "title": "Babak Penyisihan",
+          "description": "Babak seleksi dalam menentukan peserta untuk maju ke Mentorship",
+          "startDate": "2024-04-29",
+          "endDate": "2024-05-19",
+          "estimatedTime": "3 Minggu",
+          "locale": "id",
+          "icon": {
+            "id": 10,
+            "attributes": {
+              "name": "Property 1=selection.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_selection_a52e01806d.png",
+                  "hash": "xsmall_Property_1_selection_a52e01806d",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=selection.png",
+                  "path": null,
+                  "size": 7.37,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_selection_a52e01806d.png",
+                  "hash": "thumbnail_Property_1_selection_a52e01806d",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=selection.png",
+                  "path": null,
+                  "size": 30.74,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "title": "Pengumuman Finalis",
+          "description": "Pengumuman finalis dari tiap track, beserta mentor dan jadwal mentoring tiap finalis",
+          "startDate": "2024-05-19",
+          "endDate": "2024-05-19",
+          "estimatedTime": null,
+          "locale": "id",
+          "icon": {
+            "id": 8,
+            "attributes": {
+              "name": "Property 1=announcement.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_announcement_57108aa39a.png",
+                  "hash": "xsmall_Property_1_announcement_57108aa39a",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=announcement.png",
+                  "path": null,
+                  "size": 5.68,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_announcement_57108aa39a.png",
+                  "hash": "thumbnail_Property_1_announcement_57108aa39a",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=announcement.png",
+                  "path": null,
+                  "size": 22.86,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "title": "Pendampingan",
+          "description": "Pendampingan oleh mitra ahli TechSpace, yang terdiri dari para pemimpin startup dan teknologi terkemuka di Asia Tenggara",
+          "startDate": "2024-05-20",
+          "endDate": "2024-06-02",
+          "estimatedTime": "2 Minggu",
+          "locale": "id",
+          "icon": {
+            "id": 18,
+            "attributes": {
+              "name": "Property 1=mentor.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_mentor_f4f196df8c.png",
+                  "hash": "xsmall_Property_1_mentor_f4f196df8c",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=mentor.png",
+                  "path": null,
+                  "size": 6.76,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_mentor_f4f196df8c.png",
+                  "hash": "thumbnail_Property_1_mentor_f4f196df8c",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=mentor.png",
+                  "path": null,
+                  "size": 30.76,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "title": "Konferensi",
+          "description": "Diskusi satu hari dan sesi panel dengan para pemimpin dan pakar industri",
+          "startDate": "2024-06-06",
+          "endDate": "2024-06-06",
+          "estimatedTime": null,
+          "locale": "id",
+          "icon": {
+            "id": 20,
+            "attributes": {
+              "name": "Property 1=class.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_class_8d30d788ae.png",
+                  "hash": "xsmall_Property_1_class_8d30d788ae",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=class.png",
+                  "path": null,
+                  "size": 8.43,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_class_8d30d788ae.png",
+                  "hash": "thumbnail_Property_1_class_8d30d788ae",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=class.png",
+                  "path": null,
+                  "size": 36.98,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "title": "Hari Demo",
+          "description": "Presentasi final finalis TechSpace dan Sesi Pemberian Penghargaan",
+          "startDate": "2024-06-07",
+          "endDate": "2024-06-07",
+          "estimatedTime": null,
+          "locale": "id",
+          "icon": {
+            "id": 9,
+            "attributes": {
+              "name": "Property 1=demo-day.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_demo_day_8580bc4c8e.png",
+                  "hash": "xsmall_Property_1_demo_day_8580bc4c8e",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=demo-day.png",
+                  "path": null,
+                  "size": 7.81,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_demo_day_8580bc4c8e.png",
+                  "hash": "thumbnail_Property_1_demo_day_8580bc4c8e",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=demo-day.png",
+                  "path": null,
+                  "size": 34.18,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 6
+      }
+    }
+  },
+  "en": {
+    "data": [
+      {
+        "id": 10,
+        "attributes": {
+          "title": "Registration",
+          "description": "Team registration and proposal submission",
+          "startDate": "2024-03-14",
+          "endDate": "2024-04-28",
+          "estimatedTime": "7 Weeks",
+          "locale": "en",
+          "icon": {
+            "id": 12,
+            "attributes": {
+              "name": "Property 1=registration.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_registration_9b2ae04bb0.png",
+                  "hash": "xsmall_Property_1_registration_9b2ae04bb0",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=registration.png",
+                  "path": null,
+                  "size": 6.26,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_registration_9b2ae04bb0.png",
+                  "hash": "thumbnail_Property_1_registration_9b2ae04bb0",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=registration.png",
+                  "path": null,
+                  "size": 25.66,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "title": "Elimination round",
+          "description": "Selection round in determining participants to advance to Mentorship",
+          "startDate": "2024-04-29",
+          "endDate": "2024-05-19",
+          "estimatedTime": "3 Weeks",
+          "locale": "en",
+          "icon": {
+            "id": 10,
+            "attributes": {
+              "name": "Property 1=selection.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_selection_a52e01806d.png",
+                  "hash": "xsmall_Property_1_selection_a52e01806d",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=selection.png",
+                  "path": null,
+                  "size": 7.37,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_selection_a52e01806d.png",
+                  "hash": "thumbnail_Property_1_selection_a52e01806d",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=selection.png",
+                  "path": null,
+                  "size": 30.74,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 12,
+        "attributes": {
+          "title": "Finalist Announcement",
+          "description": "Announcement of finalists from each track, along with mentors and mentoring schedule for each finalist",
+          "startDate": "2024-05-19",
+          "endDate": "2024-05-19",
+          "estimatedTime": null,
+          "locale": "en",
+          "icon": {
+            "id": 8,
+            "attributes": {
+              "name": "Property 1=announcement.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_announcement_57108aa39a.png",
+                  "hash": "xsmall_Property_1_announcement_57108aa39a",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=announcement.png",
+                  "path": null,
+                  "size": 5.68,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_announcement_57108aa39a.png",
+                  "hash": "thumbnail_Property_1_announcement_57108aa39a",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=announcement.png",
+                  "path": null,
+                  "size": 22.86,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "title": "Accompaniment",
+          "description": "Mentoring by TechSpace expert partners, consisting of leading startup and technology leaders in Southeast Asia",
+          "startDate": "2024-05-20",
+          "endDate": "2024-06-02",
+          "estimatedTime": "2 Weeks",
+          "locale": "en",
+          "icon": {
+            "id": 18,
+            "attributes": {
+              "name": "Property 1=mentor.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_mentor_f4f196df8c.png",
+                  "hash": "xsmall_Property_1_mentor_f4f196df8c",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=mentor.png",
+                  "path": null,
+                  "size": 6.76,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_mentor_f4f196df8c.png",
+                  "hash": "thumbnail_Property_1_mentor_f4f196df8c",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=mentor.png",
+                  "path": null,
+                  "size": 30.76,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 9,
+        "attributes": {
+          "title": "Conference",
+          "description": "A day of discussions and panel sessions with industry leaders and experts",
+          "startDate": "2024-06-06",
+          "endDate": "2024-06-06",
+          "estimatedTime": null,
+          "locale": "en",
+          "icon": {
+            "id": 20,
+            "attributes": {
+              "name": "Property 1=class.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_class_8d30d788ae.png",
+                  "hash": "xsmall_Property_1_class_8d30d788ae",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=class.png",
+                  "path": null,
+                  "size": 8.43,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_class_8d30d788ae.png",
+                  "hash": "thumbnail_Property_1_class_8d30d788ae",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=class.png",
+                  "path": null,
+                  "size": 36.98,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "title": "Demo Day",
+          "description": "Final presentation of TechSpace finalists and Awarding Session",
+          "startDate": "2024-06-07",
+          "endDate": "2024-06-07",
+          "estimatedTime": null,
+          "locale": "en",
+          "icon": {
+            "id": 9,
+            "attributes": {
+              "name": "Property 1=demo-day.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_demo_day_8580bc4c8e.png",
+                  "hash": "xsmall_Property_1_demo_day_8580bc4c8e",
+                  "mime": "image/png",
+                  "name": "xsmall_Property 1=demo-day.png",
+                  "path": null,
+                  "size": 7.81,
+                  "width": 64,
+                  "height": 64
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_demo_day_8580bc4c8e.png",
+                  "hash": "thumbnail_Property_1_demo_day_8580bc4c8e",
+                  "mime": "image/png",
+                  "name": "thumbnail_Property 1=demo-day.png",
+                  "path": null,
+                  "size": 34.18,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 6
+      }
+    }
+  }
+}

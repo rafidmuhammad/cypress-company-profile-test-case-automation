@@ -1,0 +1,45 @@
+{
+  "used_email": {
+    "type": "object",
+    "properties": {
+      "data": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string"
+          }
+        },
+        "required": ["message"]
+      }
+    },
+    "required": ["data"]
+  },
+
+  "invalid_email": {
+    "type": "object",
+    "properties": {
+      "data": {
+        "type": "null"
+      },
+      "error": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "message": {
+            "type": "string"
+          },
+          "details": {
+            "type": "object"
+          }
+        },
+        "required": ["status", "name", "message", "details"]
+      }
+    },
+    "required": ["data", "error"]
+  }
+}

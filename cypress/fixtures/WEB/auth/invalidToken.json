@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "statusCode": 401,
+      "note": "Expired token",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTgsImlhdCI6MTcwOTYxMTAwOSwiZXhwIjoxNzA5NjEyODA5fQ.Mnnfqv53lzJtQTi9BXzBGcMUvwIjeSGvaiF-TdmRT7k",
+      "response": {
+        "data": null,
+        "error": {
+          "status": 401,
+          "name": "UnauthorizedError",
+          "message": "Missing or invalid credentials",
+          "details": {}
+        }
+      }
+    },
+    {
+      "statusCode": 401,
+      "note": "Null token",
+      "token": null,
+      "response": {
+        "data": null,
+        "error": {
+          "status": 401,
+          "name": "UnauthorizedError",
+          "message": "Missing or invalid credentials",
+          "details": {}
+        }
+      }
+    },
+    {
+      "statusCode": 403,
+      "note": "empty token",
+      "token": "",
+      "response": {
+        "data": null,
+        "error": {
+          "status": 403,
+          "name": "ForbiddenError",
+          "message": "Forbidden access",
+          "details": {}
+        }
+      }
+    }
+  ]
+}

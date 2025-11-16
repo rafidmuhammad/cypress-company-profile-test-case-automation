@@ -1,0 +1,9 @@
+{
+  "data": null,
+  "error": {
+    "status": 404,
+    "name": "NotFoundError",
+    "message": "Mohon maaf, data user tidak dapat kami temukan",
+    "details": {}
+  }
+}

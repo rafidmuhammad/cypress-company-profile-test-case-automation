@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 50,
+      "attributes": {
+        "name": "Finalis 2023",
+        "year": 2023,
+        "category": "Startup Track",
+        "type": "Finalist",
+        "position": 1,
+        "description": "Finalis 2023",
+        "logo": {
+          "id": 542,
+          "attributes": {
+            "name": "Group.png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_Group_8a79432f7f.png",
+                "hash": "xsmall_Group_8a79432f7f",
+                "mime": "image/png",
+                "name": "xsmall_Group.png",
+                "path": null,
+                "size": 7.57,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_Group_8a79432f7f.png",
+                "hash": "thumbnail_Group_8a79432f7f",
+                "mime": "image/png",
+                "name": "thumbnail_Group.png",
+                "path": null,
+                "size": 35.2,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/Group_8a79432f7f.png"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}

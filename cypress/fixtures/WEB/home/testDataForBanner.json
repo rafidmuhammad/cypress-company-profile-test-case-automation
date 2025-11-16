@@ -1,0 +1,50 @@
+{
+  "id": {
+    "data": {
+      "id": 4,
+      "attributes": {
+        "homepageDescription": "TechSpace adalah kompetisi inovasi digital dan konferensi teknologi berskala besar tahunan di Indonesia, yang bertujuan untuk memecahkan permasalahan besar di Indonesia dengan solusi digital yang berdampak, mempromosikan dan memberdayakan inovasi bagi calon wirausaha digital, serta meningkatkan inovasi, transformasi, dan kolaborasi digital.",
+        "youtubeLink": "http://0.0.0.0",
+        "year": "2024",
+        "homepageTitle": "Selamat Datang di TechSpace",
+        "createdAt": "2024-03-05T09:09:23.078Z",
+        "updatedAt": "2024-03-27T02:02:30.391Z",
+        "locale": "id",
+        "bannerMedia": {
+          "id": 35,
+          "attributes": {
+            "name": "web 1920x810.webm",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": null,
+            "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/videos/web_1920x810_8bcc6150ea.webm"
+          }
+        }
+      }
+    },
+    "meta": {}
+  },
+  "en": {
+    "data": {
+      "id": 5,
+      "attributes": {
+        "homepageDescription": "TechSpace is an annual large-scale digital innovation competition and technology conference in Indonesia, which aims to solve big problems in Indonesia with impactful digital solutions, promote and empower innovation for aspiring digital entrepreneurs, and increase digital innovation, transformation and collaboration.",
+        "youtubeLink": null,
+        "year": null,
+        "homepageTitle": "Welcome to TechSpace",
+        "createdAt": "2024-04-05T08:08:10.224Z",
+        "updatedAt": "2024-04-05T08:08:34.629Z",
+        "locale": "en",
+        "bannerMedia": {
+          "id": 35,
+          "attributes": {
+            "name": "web 1920x810.webm",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": null,
+            "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/videos/web_1920x810_8bcc6150ea.webm"
+          }
+        }
+      }
+    },
+    "meta": {}
+  }
+}

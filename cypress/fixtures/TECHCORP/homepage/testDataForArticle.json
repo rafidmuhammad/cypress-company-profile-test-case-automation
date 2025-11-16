@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "id": 17,
+      "attributes": {
+        "title": "TechCorp Digital Artikel",
+        "slug": "techcorp-article",
+        "content": "<p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px 0px 15px;orphans:2;padding:0px;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Phasellus ligula mauris, venenatis ac iaculis sed, egestas ac ante. Pellentesque nec turpis sed lacus sodales scelerisque. Donec consequat tempus dictum. Nullam vitae neque interdum, dignissim nulla sed, porttitor mauris. Sed sit amet nibh a mi scelerisque mattis. Cras aliquam neque in odio sagittis, et consequat ex vulputate. Praesent tincidunt risus ac porttitor tristique. Integer at lobortis nulla. Pellentesque semper mollis dolor. Aliquam bibendum metus neque, in consequat risus aliquet eget. Nullam volutpat, diam at malesuada sollicitudin, justo lacus porttitor ipsum, sed tempus risus dolor interdum nisi. Fusce vestibulum faucibus lectus at faucibus. Aliquam eros elit, scelerisque nec orci non, condimentum sollicitudin eros. Suspendisse fringilla ex vitae consequat rhoncus. Nunc ullamcorper velit non urna rutrum, sit amet tincidunt dolor ornare.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px 0px 15px;orphans:2;padding:0px;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Cras rhoncus leo quis faucibus gravida. Quisque ligula leo, tristique ac accumsan eget, luctus vitae est. Sed at volutpat felis. Suspendisse dictum lobortis turpis ut pharetra. Aenean laoreet in sapien at congue. Mauris nec laoreet eros, et bibendum ante. Vivamus tincidunt arcu at eros porta, sit amet molestie sem scelerisque. Aenean euismod, felis at sagittis aliquet, ex libero tincidunt nulla, eu dictum neque tellus quis neque. Etiam in porta nulla, quis sollicitudin urna. Suspendisse vitae velit enim. Nulla ac hendrerit enim, sed tincidunt tortor. Morbi et magna tellus. Vivamus a est lacus. Phasellus ex quam, condimentum at pellentesque quis, feugiat non nisl. Sed bibendum ante felis, quis dapibus felis scelerisque eget. Ut sagittis facilisis leo, in finibus risus placerat eu.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px 0px 15px;orphans:2;padding:0px;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Aliquam erat volutpat. Nunc eleifend odio dictum mi lobortis bibendum. Nullam sodales magna orci, a porta metus dapibus et. Nullam arcu nisi, hendrerit non dolor a, sodales laoreet arcu. Sed pharetra diam vel augue ultrices, ultricies tempus lacus lobortis. Nunc malesuada augue vitae felis interdum molestie. Sed vel magna vitae augue gravida gravida. Ut auctor sem justo, ac pellentesque orci aliquam eu. Aenean pharetra nulla at mattis rutrum. Fusce vitae sapien dui. Sed pellentesque nulla urna, sed dignissim lorem vulputate vel.</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px 0px 15px;orphans:2;padding:0px;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Integer egestas massa at placerat convallis. Donec id metus mauris. Mauris ullamcorper ex tortor, at venenatis eros eleifend eget. Vivamus enim metus, malesuada ut tempus sit amet, viverra id massa. Sed volutpat placerat cursus. Quisque imperdiet quis elit ut iaculis. Praesent posuere volutpat magna, vel suscipit quam faucibus eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam sodales, metus id dignissim rhoncus, velit velit condimentum dolor, sed varius purus turpis sed nisl. Nulla non diam felis</p>",
+        "shortDescription": "Lorem",
+        "publishedAt": "2024-05-21T04:48:09.325Z",
+        "category": {
+          "id": 10,
+          "attributes": {
+            "name_id": "Berita",
+            "name_en": "News"
+          }
+        },
+        "thumbnail": {
+          "id": 618,
+          "attributes": {
+            "name": "f42c99cd84cca3a820f9ec34a93f4d2e.png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "large_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "large_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 52.92,
+                "width": 1080,
+                "height": 216
+              },
+              "small": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "small_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "small_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 8.3,
+                "width": 200,
+                "height": 40
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "medium_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "medium_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 22.01,
+                "width": 480,
+                "height": 96
+              },
+              "xlarge": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "xlarge_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "xlarge_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 124.31,
+                "width": 2180,
+                "height": 436
+              },
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "xsmall_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "xsmall_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 1.42,
+                "width": 50,
+                "height": 10
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "thumbnail_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "thumbnail_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 10.32,
+                "width": 245,
+                "height": 49
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png"
+          }
+        }
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "title": "Contoh dari Artikel TechCorp Digital",
+        "slug": "cek-new",
+        "content": "<p>Ini hanya cek saja</p>",
+        "shortDescription": "Hanya cek saja ini",
+        "publishedAt": "2024-05-21T04:48:02.661Z",
+        "category": {
+          "id": 1,
+          "attributes": {
+            "name_id": "Digitalisasi",
+            "name_en": "Digitalization"
+          }
+        },
+        "thumbnail": {
+          "id": 573,
+          "attributes": {
+            "name": "download (14).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_14_da0845151b.jpg",
+                "hash": "xsmall_download_14_da0845151b",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (14).jpg",
+                "path": null,
+                "size": 1.29,
+                "width": 64,
+                "height": 35
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_14_da0845151b.jpg",
+                "hash": "thumbnail_download_14_da0845151b",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (14).jpg",
+                "path": null,
+                "size": 8.69,
+                "width": 245,
+                "height": 134
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_14_da0845151b.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "Contoh Artikel dari TechCorp Digital",
+        "slug": "lorem-ipsum-dolor-sit-amet",
+        "content": "<div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;orphans:2;padding:0px;text-align:justify;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" id=\"lipsum\"><p style=\"margin:0px 0px 15px;padding:0px;text-align:justify;\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin accumsan augue, at fringilla dolor viverra id. Maecenas in mattis odio. Ut sit amet est quis enim tincidunt consectetur et accumsan elit. Sed in ex lectus. Aenean eros elit, tempus non magna eu, vestibulum congue magna. Proin nec nisl vel magna convallis gravida non vitae nisi. Duis eu congue nisl. Aenean at nunc nisi. Vestibulum dapibus non sem sit amet volutpat. Nulla porttitor sagittis dui, vitae fringilla odio. &lt;script&gt;alert('check sanitasi')&lt;/script&gt;</p><p style=\"margin:0px 0px 15px;padding:0px;text-align:justify;\">Donec vel dictum sem, nec sollicitudin metus. Morbi viverra at nisi nec ultrices. Nullam tincidunt eget ligula sed mattis. Ut at nibh pellentesque, venenatis dui quis, volutpat sem. Donec eget magna ut risus lacinia ornare ut a eros. Nulla quis vehicula risus. Vestibulum congue quam eget diam ultricies, at volutpat enim egestas. Proin sem elit, ultricies in purus sit amet, dictum pretium ante. Integer mollis blandit risus sit amet dignissim. Donec id tortor diam. Donec mi libero, sollicitudin id ligula consequat, porta pharetra sapien. Nunc luctus imperdiet suscipit. Suspendisse egestas tellus mauris, eget semper augue consequat a. Integer turpis quam, lobortis in vestibulum nec, lacinia vel magna.</p><p style=\"margin:0px 0px 15px;padding:0px;text-align:justify;\">Sed a ipsum eget tellus hendrerit tempus in sed augue. Nulla rutrum in lacus a sagittis. Proin vel ante ut neque porta aliquam. Sed convallis ut ipsum ac tincidunt. Nulla tempus enim at odio hendrerit, nec venenatis tortor interdum. Proin vel euismod mi, et condimentum purus. Maecenas elementum, libero semper sodales ultrices, tellus felis pharetra nisi, eget blandit ligula quam at dolor.</p><p style=\"margin:0px 0px 15px;padding:0px;text-align:justify;\">Curabitur ante nunc, facilisis eget venenatis tincidunt, ultricies sit amet odio. Nam porta risus elit, in placerat risus volutpat id. Maecenas magna ante, molestie in erat sed, vulputate efficitur tortor. Suspendisse facilisis augue rutrum fermentum gravida. In hac habitasse platea dictumst. Vestibulum ut elementum diam. Pellentesque imperdiet pharetra ex et ultricies. Vivamus risus lectus, ultrices ac lorem non, accumsan imperdiet nunc. Praesent tempus massa nec diam accumsan, quis iaculis nulla condimentum. Phasellus commodo vel eros at malesuada. Sed volutpat diam arcu, et condimentum magna congue et. Praesent vehicula massa odio, ut vehicula sem lobortis vel. Etiam scelerisque risus eget risus consectetur lacinia. Nam consequat nulla porta dolor venenatis placerat. Praesent fermentum tincidunt luctus.</p><p style=\"margin:0px 0px 15px;padding:0px;text-align:justify;\">Morbi sollicitudin nisi massa, quis rutrum mi elementum sit amet. Quisque justo felis, venenatis eget varius nec, malesuada ultricies neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet erat metus. Nullam varius arcu nibh, eu sagittis enim semper vitae. Sed varius in nulla id consequat. Donec ac ultricies enim. Aenean vel dapibus sem, ut ornare ligula. Nulla vel pretium dolor, eu ultrices purus. Donec consectetur velit a magna viverra, ac pulvinar nisi porttitor. Nulla eleifend, magna nec mattis tristique, nibh tortor euismod metus, nec sagittis tellus nisi vel nisi. Nam feugiat dapibus quam, vitae condimentum felis blandit mollis. In eleifend nisi felis, ut consectetur orci lobortis ut. Vestibulum placerat urna eget nisl dictum, a tincidunt ante rutrum.</p></div><div style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);color:rgb(0, 0, 0);font-family:&quot;Open Sans&quot;, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;letter-spacing:normal;margin:0px;orphans:2;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\" id=\"generated\"><strong>Generated 5 paragraphs, 480 words, 3196 bytes of </strong><a style=\"color:rgb(0, 0, 0);margin:0px;padding:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.lipsum.com/\" title=\"Lorem Ipsum\"><strong>Lorem Ipsum</strong></a></div>",
+        "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam fringilla, diam a iaculis facilisis, sem nunc luctus ligula, nec tempor nisi mi non lacus. Nullam sed purus et arcu laoreet semper. Praesent sit amet ornare dolor. Fusce purus quam, laoreet ac venenatis semper, dignissim sed massa. Sed rutrum vulputate nunc.",
+        "publishedAt": "2024-05-13T06:49:35.293Z",
+        "category": {
+          "id": 10,
+          "attributes": {
+            "name_id": "Berita",
+            "name_en": "News"
+          }
+        },
+        "thumbnail": {
+          "id": 653,
+          "attributes": {
+            "name": "IJC8uAVzflMhrCFEqWg2w6abwaB5IH3qAY0qTHCO.png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace.png",
+                "hash": "large_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace",
+                "mime": "image/png",
+                "name": "large_IJC8uAVzflMhrCFEqWg2w6abwaB5IH3qAY0qTHCO.png",
+                "path": null,
+                "size": 54,
+                "width": 1080,
+                "height": 396
+              },
+              "small": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace.png",
+                "hash": "small_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace",
+                "mime": "image/png",
+                "name": "small_IJC8uAVzflMhrCFEqWg2w6abwaB5IH3qAY0qTHCO.png",
+                "path": null,
+                "size": 9.17,
+                "width": 200,
+                "height": 73
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace.png",
+                "hash": "medium_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace",
+                "mime": "image/png",
+                "name": "medium_IJC8uAVzflMhrCFEqWg2w6abwaB5IH3qAY0qTHCO.png",
+                "path": null,
+                "size": 23.25,
+                "width": 480,
+                "height": 176
+              },
+              "xlarge": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace.png",
+                "hash": "xlarge_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace",
+                "mime": "image/png",
+                "name": "xlarge_IJC8uAVzflMhrCFEqWg2w6abwaB5IH3qAY0qTHCO.png",
+                "path": null,
+                "size": 120.38,
+                "width": 2180,
+                "height": 800
+              },
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace.png",
+                "hash": "xsmall_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace",
+                "mime": "image/png",
+                "name": "xsmall_IJC8uAVzflMhrCFEqWg2w6abwaB5IH3qAY0qTHCO.png",
+                "path": null,
+                "size": 1.62,
+                "width": 50,
+                "height": 18
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace.png",
+                "hash": "thumbnail_IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace",
+                "mime": "image/png",
+                "name": "thumbnail_IJC8uAVzflMhrCFEqWg2w6abwaB5IH3qAY0qTHCO.png",
+                "path": null,
+                "size": 11.52,
+                "width": 245,
+                "height": 90
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/IJC_8u_A_Vzfl_Mhr_CF_Eq_Wg2w6abwa_B5_IH_3q_AY_0q_THCO_00a9da5ace.png"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 5,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

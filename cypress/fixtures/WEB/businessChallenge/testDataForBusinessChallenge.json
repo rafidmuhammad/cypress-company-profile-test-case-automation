@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": "MiningCo",
+        "slug": "miningco",
+        "businessChallenge": [
+          {
+            "id": 1,
+            "__component": "blocks.business-challenge",
+            "companyBackground": {
+              "id": 1,
+              "description_id": "MiningCo Corporation (MCO) is a leading mining and construction contractor company. Founded in 1974 as a division of United Equipment Corp, MCO later became an independent company in 1993. MCO offers various services such as coal and gold mining, mine excavation, construction, and transportation.",
+              "description_en": "MiningCo Corporation (MCO) is a leading mining and construction contractor company in Indonesia. Founded in 1974 as a division of United Equipment Corp, MCO later became an independent company in 1993. MCO offers various services such as coal and gold mining, mine excavation, construction and transportation.",
+              "coverImage": {
+                "id": 235,
+                "attributes": {
+                  "name": "MCO.png",
+                  "provider": "strapi-upload-azure-storage-extended",
+                  "formats": {
+                    "small": {
+                      "ext": ".png",
+                      "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_MCO_244d3aa8a4.png",
+                      "hash": "small_MCO_244d3aa8a4",
+                      "mime": "image/png",
+                      "name": "small_MCO.png",
+                      "path": null,
+                      "size": 51,
+                      "width": 200,
+                      "height": 151
+                    },
+                    "xsmall": {
+                      "ext": ".png",
+                      "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_MCO_244d3aa8a4.png",
+                      "hash": "xsmall_MCO_244d3aa8a4",
+                      "mime": "image/png",
+                      "name": "xsmall_MCO.png",
+                      "path": null,
+                      "size": 4.95,
+                      "width": 50,
+                      "height": 38
+                    }
+                  }
+                }
+              }
+            },
+            "companyTargetMarket": [],
+            "companyCurrentBusinessChallenge": [
+              {
+                "id": 2,
+                "title_id": "Inefficient Road Management",
+                "description_id": "The current system for tracking mining equipment, measuring road width, distributing truck workflows, and ensuring driving safety is still done manually and not in real-time. This causes potential safety risks and inaccuracies, congestion, and accidents that impact productivity and overall operational inefficiency.",
+                "title_en": "Inefficient Road Management",
+                "description_en": "The current system for tracking mining equipment, measuring road width, distributing truck workflows, and ensuring driving safety is still done manually and not in real-time. This causes potential safety risks and inaccuracies, bottlenecks and accidents that impact productivity and overall operational inefficiency."
+              },
+              {
+                "id": 1,
+                "title_id": "Fragmented Data",
+                "description_id": "Data relating to operations, equipment, and resources (not limited to, but including remote power plant monitoring) is spread across multiple systems or recorded manually. This causes potential data discrepancies, lack of real-time insights (especially in risk mitigation), and reporting delays.",
+                "title_en": "Fragmented Data",
+                "description_en": "Data relating to operations, equipment, and resources (not limited to, but including remote power plant monitoring) is spread across multiple systems or recorded manually. This causes potential data discrepancies, lack of real-time insights (especially in risk mitigation), and reporting delays."
+              },
+              {
+                "id": 3,
+                "title_id": "Commissioning Process Monitoring",
+                "description_id": "Incomplete or non-standardized commissioning process documentation hinders progress tracking. The lack of a special monitoring system for the commissioning stage causes billing delays.",
+                "title_en": "Commissioning Process Monitoring",
+                "description_en": "Incomplete or non-standardized commissioning process documentation hinders progress tracking. The lack of a special monitoring system for the commissioning stage causes billing delays."
+              }
+            ],
+            "companyExpectedSolution": [
+              {
+                "id": 2,
+                "title_id": "Solution Design",
+                "description_id": "The solutions presented by startups should leverage the potential of their domain expertise, offering specific and innovative components that meet the needs of the mining industry. Solutions designed by students must prioritize strong market research, sound fundamental principles, and clearly demonstrate a comprehensive understanding of customer needs.",
+                "title_en": "Solution Design",
+                "description_en": "The solutions presented by startups should leverage the potential of their domain expertise, offering specific and innovative components that meet the needs of the mining industry. Solutions designed by students must prioritize strong market research, sound fundamental principles, and clearly demonstrate a comprehensive understanding of customer needs."
+              },
+              {
+                "id": 1,
+                "title_id": "Products/Services",
+                "description_id": "Solutions must demonstrate a clear understanding of the unique challenges posed by the mining environment, offering robustness, reliability and ease of integration. Prioritizing user-friendly user-interface design will increase adoption and minimize the need for extensive training, ultimately increasing efficiency and acceptance of new technologies.",
+                "title_en": "Products/Services",
+                "description_en": "Solutions must demonstrate a clear understanding of the unique challenges posed by the mining environment, offering robustness, reliability and ease of integration. Prioritizing user-friendly user-interface design will increase adoption and minimize the need for extensive training, ultimately increasing efficiency and acceptance of new technologies."
+              },
+              {
+                "id": 3,
+                "title_id": "Operational",
+                "description_id": "Solutions should prioritize secure data management (perhaps via blockchain) for accurate resource tracking, especially in the case of coal tracking. There is a great need for solutions related to data collection and analysis, enabling data-driven decision making at all operational levels.",
+                "title_en": "Operational",
+                "description_en": "Solutions should prioritize secure data management (perhaps via blockchain) for accurate resource tracking, especially in the case of coal tracking. There is a great need for solutions related to data collection and analysis, enabling data-driven decision making at all operational levels."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "TCIT",
+        "slug": "TechCorpIT",
+        "businessChallenge": [
+          {
+            "id": 2,
+            "__component": "blocks.business-challenge",
+            "companyBackground": {
+              "id": 2,
+              "description_id": "TechCorp IT Services (TCIT) is a company providing digital services, from providing ICT infrastructure and application-related services (both on-premise and cloud), to digital strategies and platforms, to help the company digital transformation process.",
+              "description_en": "TechCorp IT Services (TCIT) is a company providing digital services, starting from providing ICT infrastructure and application-related services (both on-premise and cloud), to digital strategies and platforms, to help the company's digital transformation process.",
+              "coverImage": {
+                "id": 238,
+                "attributes": {
+                  "name": "TCIT.png",
+                  "provider": "strapi-upload-azure-storage-extended",
+                  "formats": {
+                    "small": {
+                      "ext": ".png",
+                      "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_TCIT_2ea4686e8a.png",
+                      "hash": "small_TCIT_2ea4686e8a",
+                      "mime": "image/png",
+                      "name": "small_TCIT.png",
+                      "path": null,
+                      "size": 60.41,
+                      "width": 200,
+                      "height": 151
+                    },
+                    "medium": {
+                      "ext": ".png",
+                      "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_TCIT_2ea4686e8a.png",
+                      "hash": "medium_TCIT_2ea4686e8a",
+                      "mime": "image/png",
+                      "name": "medium_TCIT.png",
+                      "path": null,
+                      "size": 285.77,
+                      "width": 480,
+                      "height": 362
+                    },
+                    "xsmall": {
+                      "ext": ".png",
+                      "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_TCIT_2ea4686e8a.png",
+                      "hash": "xsmall_TCIT_2ea4686e8a",
+                      "mime": "image/png",
+                      "name": "xsmall_TCIT.png",
+                      "path": null,
+                      "size": 4.94,
+                      "width": 50,
+                      "height": 38
+                    },
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_TCIT_2ea4686e8a.png",
+                      "hash": "thumbnail_TCIT_2ea4686e8a",
+                      "mime": "image/png",
+                      "name": "thumbnail_TCIT.png",
+                      "path": null,
+                      "size": 63.87,
+                      "width": 207,
+                      "height": 156
+                    }
+                  }
+                }
+              }
+            },
+            "companyTargetMarket": [
+              {
+                "id": 1,
+                "title_id": "Perusahaan",
+                "description_id": "Perusahaan pertambangan, logistik, dan manufaktur",
+                "title_en": "Company",
+                "description_en": "Mining, Logistic, Manufacture company",
+                "icon": {
+                  "id": 14,
+                  "attributes": {
+                    "name": "Property 1=Lampu.png",
+                    "provider": "strapi-upload-azure-storage-extended",
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_Property_1_Lampu_a37600218f.png",
+                        "hash": "xsmall_Property_1_Lampu_a37600218f",
+                        "mime": "image/png",
+                        "name": "xsmall_Property 1=Lampu.png",
+                        "path": null,
+                        "size": 4.37,
+                        "width": 64,
+                        "height": 64
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_Property_1_Lampu_a37600218f.png",
+                        "hash": "thumbnail_Property_1_Lampu_a37600218f",
+                        "mime": "image/png",
+                        "name": "thumbnail_Property 1=Lampu.png",
+                        "path": null,
+                        "size": 17.69,
+                        "width": 156,
+                        "height": 156
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "companyCurrentBusinessChallenge": [
+              {
+                "id": 4,
+                "title_id": "Myveego",
+                "description_id": "Myveego is a PT TCIT product that offers all-in-one IoT services, from providing IoT hardware, hub/API, dashboard, to data analytics. Since its launch in 2017, Myveego has not provided the expected contribution to the company.",
+                "title_en": "Myveego",
+                "description_en": "Myveego, a product of PT TCIT, offers all-in-one IoT services including IoT hardware, hub/API, dashboard, and analytics. Despite its launch in 2017, Myveego has not yet achieved its expected contribution to the company's revenue."
+              }
+            ],
+            "companyExpectedSolution": [
+              {
+                "id": 8,
+                "title_id": "Competition Analysis",
+                "description_id": "The solution provided needs to identify the right target market for Myveego. Focus should be placed on industries or use cases where a complete IoT solution provides the most compelling value proposition. A thorough competitor analysis will highlight Myveego strengths, weaknesses, and most importantly, its unique selling value compared to similar offerings in the market. Clearly state what truly differentiates Myveego from competitors.",
+                "title_en": "Competitive Analysis",
+                "description_en": "Solution provided needs to identify the right target market for Myveego. Focus should be placed on industries or use cases where the all-in-one IoT solution provides the most compelling value proposition. A thorough competitor analysis will highlight Myveego's strengths, weaknesses, and most importantly, its unique selling points compared to similar offerings in the market. Clearly articulate what truly differentiates Myveego from the competition."
+              },
+              {
+                "id": 7,
+                "title_id": "Analisis Produk",
+                "description_id": "The solution provided needs to define existing product features, and what participants think is good for future product development (product roadmap, including new features that address audience feedback), to ensure Myveego remains competitive in the ever-evolving IoT solution landscape.",
+                "title_en": "Product Analysis",
+                "description_en": "Solution provided needs to define the existing product features, and what participants think are good for future product development (a product roadmap, including new features that address market feedback), to ensure Myveego remains competitive within the ever-evolving landscape of IoT solutions."
+              },
+              {
+                "id": 6,
+                "title_id": "Analisis Keuangan",
+                "description_id": "The solution provided should analyze Myveego pricing model and see if it fits its audience. Exploring options other than subscription-based pricing may be necessary. Participants should also recommend how Myveego can generate cost savings, increase efficiency, or open up new revenue opportunities.",
+                "title_en": "Financial Analysis",
+                "description_en": "Solution provided should analyse Myveego's pricing model and see if it fits its audience. Exploring options other than subscription-based pricing may be necessary. Participants should also recommend how Myveego can generate cost savings, improve efficiency, or open new revenue opportunities. "
+              },
+              {
+                "id": 9,
+                "title_id": "Analisis Pemasaran",
+                "description_id": "The solution provided should also assess current sales and marketing efforts, to ensure they are aligned with market potential. The solution offered also needs to provide programs for customer satisfaction, or other strategic partnerships needed to expand Myveego reach and credibility in the market.",
+                "title_en": "Marketing Analysis",
+                "description_en": "Solution provided should also assess the current sales and marketing effort to ensure it aligns with the market potential and that the most effective channels are being used to reach the target audience. The solution also need to provide customer success programs or other strategic partnerships that are needed to expand Myveego's reach and credibility in the market."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}

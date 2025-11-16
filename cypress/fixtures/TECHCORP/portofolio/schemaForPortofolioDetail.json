@@ -1,0 +1,569 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "websiteUrl": {
+          "type": "string"
+        },
+        "short_description_id": {
+          "type": ["null", "string"]
+        },
+        "short_description_en": {
+          "type": ["null", "string"]
+        },
+        "about_id": {
+          "type": "string"
+        },
+        "about_en": {
+          "type": "string"
+        },
+        "year": {
+          "type": "integer"
+        },
+        "techcorpService": {
+          "type": "object",
+          "properties": {
+            "name_id": {
+              "type": "string"
+            },
+            "name_en": {
+              "type": "string"
+            },
+            "description_id": {
+              "type": "string"
+            },
+            "description_en": {
+              "type": "string"
+            },
+            "heroYoutubeLink": {
+              "type": "string"
+            },
+            "slug": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "name_id",
+            "name_en",
+            "description_id",
+            "description_en",
+            "heroYoutubeLink",
+            "slug"
+          ]
+        },
+        "gallery": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "integer"
+              },
+              "photo": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "integer"
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "provider": {
+                    "type": "string"
+                  },
+                  "formats": {
+                    "type": "object",
+                    "properties": {
+                      "small": {
+                        "type": "object",
+                        "properties": {
+                          "ext": {
+                            "type": "string"
+                          },
+                          "url": {
+                            "type": "string"
+                          },
+                          "hash": {
+                            "type": "string"
+                          },
+                          "mime": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "path": {
+                            "type": "null"
+                          },
+                          "size": {
+                            "type": "number"
+                          },
+                          "width": {
+                            "type": "integer"
+                          },
+                          "height": {
+                            "type": "integer"
+                          }
+                        },
+                        "required": [
+                          "ext",
+                          "url",
+                          "hash",
+                          "mime",
+                          "name",
+                          "path",
+                          "size",
+                          "width",
+                          "height"
+                        ]
+                      },
+                      "medium": {
+                        "type": "object",
+                        "properties": {
+                          "ext": {
+                            "type": "string"
+                          },
+                          "url": {
+                            "type": "string"
+                          },
+                          "hash": {
+                            "type": "string"
+                          },
+                          "mime": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "path": {
+                            "type": "null"
+                          },
+                          "size": {
+                            "type": "number"
+                          },
+                          "width": {
+                            "type": "integer"
+                          },
+                          "height": {
+                            "type": "integer"
+                          }
+                        },
+                        "required": [
+                          "ext",
+                          "url",
+                          "hash",
+                          "mime",
+                          "name",
+                          "path",
+                          "size",
+                          "width",
+                          "height"
+                        ]
+                      },
+                      "xsmall": {
+                        "type": "object",
+                        "properties": {
+                          "ext": {
+                            "type": "string"
+                          },
+                          "url": {
+                            "type": "string"
+                          },
+                          "hash": {
+                            "type": "string"
+                          },
+                          "mime": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "path": {
+                            "type": "null"
+                          },
+                          "size": {
+                            "type": "number"
+                          },
+                          "width": {
+                            "type": "integer"
+                          },
+                          "height": {
+                            "type": "integer"
+                          }
+                        },
+                        "required": [
+                          "ext",
+                          "url",
+                          "hash",
+                          "mime",
+                          "name",
+                          "path",
+                          "size",
+                          "width",
+                          "height"
+                        ]
+                      },
+                      "thumbnail": {
+                        "type": "object",
+                        "properties": {
+                          "ext": {
+                            "type": "string"
+                          },
+                          "url": {
+                            "type": "string"
+                          },
+                          "hash": {
+                            "type": "string"
+                          },
+                          "mime": {
+                            "type": "string"
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "path": {
+                            "type": "null"
+                          },
+                          "size": {
+                            "type": "number"
+                          },
+                          "width": {
+                            "type": "integer"
+                          },
+                          "height": {
+                            "type": "integer"
+                          }
+                        },
+                        "required": [
+                          "ext",
+                          "url",
+                          "hash",
+                          "mime",
+                          "name",
+                          "path",
+                          "size",
+                          "width",
+                          "height"
+                        ]
+                      }
+                    }
+                  },
+                  "url": {
+                    "type": "string"
+                  }
+                },
+                "required": ["id", "name", "provider", "formats", "url"]
+              }
+            },
+            "required": ["id", "photo"]
+          }
+        },
+        "logo": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string"
+            },
+            "provider": {
+              "type": "string"
+            },
+            "formats": {
+              "type": "object",
+              "properties": {
+                "large": {
+                  "type": "object",
+                  "properties": {
+                    "ext": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "hash": {
+                      "type": "string"
+                    },
+                    "mime": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "path": {
+                      "type": "null"
+                    },
+                    "size": {
+                      "type": "integer"
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "ext",
+                    "url",
+                    "hash",
+                    "mime",
+                    "name",
+                    "path",
+                    "size",
+                    "width",
+                    "height"
+                  ]
+                },
+                "small": {
+                  "type": "object",
+                  "properties": {
+                    "ext": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "hash": {
+                      "type": "string"
+                    },
+                    "mime": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "path": {
+                      "type": "null"
+                    },
+                    "size": {
+                      "type": "number"
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "ext",
+                    "url",
+                    "hash",
+                    "mime",
+                    "name",
+                    "path",
+                    "size",
+                    "width",
+                    "height"
+                  ]
+                },
+                "medium": {
+                  "type": "object",
+                  "properties": {
+                    "ext": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "hash": {
+                      "type": "string"
+                    },
+                    "mime": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "path": {
+                      "type": "null"
+                    },
+                    "size": {
+                      "type": "number"
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "ext",
+                    "url",
+                    "hash",
+                    "mime",
+                    "name",
+                    "path",
+                    "size",
+                    "width",
+                    "height"
+                  ]
+                },
+                "xlarge": {
+                  "type": "object",
+                  "properties": {
+                    "ext": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "hash": {
+                      "type": "string"
+                    },
+                    "mime": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "path": {
+                      "type": "null"
+                    },
+                    "size": {
+                      "type": "number"
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "ext",
+                    "url",
+                    "hash",
+                    "mime",
+                    "name",
+                    "path",
+                    "size",
+                    "width",
+                    "height"
+                  ]
+                },
+                "xsmall": {
+                  "type": "object",
+                  "properties": {
+                    "ext": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "hash": {
+                      "type": "string"
+                    },
+                    "mime": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "path": {
+                      "type": "null"
+                    },
+                    "size": {
+                      "type": "number"
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "ext",
+                    "url",
+                    "hash",
+                    "mime",
+                    "name",
+                    "path",
+                    "size",
+                    "width",
+                    "height"
+                  ]
+                },
+                "thumbnail": {
+                  "type": "object",
+                  "properties": {
+                    "ext": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string"
+                    },
+                    "hash": {
+                      "type": "string"
+                    },
+                    "mime": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "path": {
+                      "type": "null"
+                    },
+                    "size": {
+                      "type": "number"
+                    },
+                    "width": {
+                      "type": "integer"
+                    },
+                    "height": {
+                      "type": "integer"
+                    }
+                  },
+                  "required": [
+                    "ext",
+                    "url",
+                    "hash",
+                    "mime",
+                    "name",
+                    "path",
+                    "size",
+                    "width",
+                    "height"
+                  ]
+                }
+              }
+            }
+          },
+          "required": ["id", "name", "provider", "formats"]
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "slug",
+        "websiteUrl",
+        "short_description_id",
+        "short_description_en",
+        "about_id",
+        "about_en",
+        "year",
+        "techcorpService",
+        "gallery",
+        "logo"
+      ]
+    }
+  },
+  "required": ["data"]
+}

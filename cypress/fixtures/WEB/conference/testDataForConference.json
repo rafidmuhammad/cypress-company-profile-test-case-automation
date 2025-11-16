@@ -1,0 +1,44 @@
+{
+  "en": {
+    "data": {
+      "id": 2,
+      "attributes": {
+        "homepageTitle": "This is for QA Test",
+        "homepageDescription": "Lorem ipsum dolor sit amet. This is For QA Test",
+        "year": "2024",
+        "locale": "en",
+        "bannerMedia": {
+          "id": 35,
+          "attributes": {
+            "name": "web 1920x810.webm",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": null,
+            "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/videos/web_1920x810_8bcc6150ea.webm"
+          }
+        }
+      }
+    },
+    "meta": {}
+  },
+  "id": {
+    "data": {
+      "id": 2,
+      "attributes": {
+        "homepageTitle": "Ini untuk QA Test",
+        "homepageDescription": "Lorem ipsum dolor sit amet. Ini untuk QA Test",
+        "year": "2024",
+        "locale": "en",
+        "bannerMedia": {
+          "id": 35,
+          "attributes": {
+            "name": "web 1920x810.webm",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": null,
+            "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/videos/web_1920x810_8bcc6150ea.webm"
+          }
+        }
+      }
+    },
+    "meta": {}
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 68,
+      "attributes": {
+        "name": "Startup 4",
+        "year": 2024,
+        "category": "Startup Track",
+        "type": "Finalist",
+        "position": 4,
+        "description": "Finalis 4",
+        "logo": {
+          "id": 553,
+          "attributes": {
+            "name": "download (5).png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_5_83e4e5fe61.png",
+                "hash": "xsmall_download_5_83e4e5fe61",
+                "mime": "image/png",
+                "name": "xsmall_download (5).png",
+                "path": null,
+                "size": 4.21,
+                "width": 63,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_5_83e4e5fe61.png",
+                "hash": "thumbnail_download_5_83e4e5fe61",
+                "mime": "image/png",
+                "name": "thumbnail_download (5).png",
+                "path": null,
+                "size": 12.34,
+                "width": 153,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_5_83e4e5fe61.png"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 838,
+    "teamName": "Tim Palugada 1",
+    "teamLeadName": "Darussalam",
+    "teamLeadEmail": "darussalam@example.com",
+    "teamLeadWhatsappNumber": "081234567890",
+    "institution": "Universitas Jayajaya",
+    "major": "Teknik Informatika",
+    "gender": "laki - laki",
+    "summaryOfInnovation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "problemStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "solution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "competitiveAnalysis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "uniqueValueProposition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "haveProductTraction": true,
+    "haveGetInvestments": true,
+    "productTractionInformation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "investmentInformation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "competitionTrack": "Student",
+    "createdAt": "2024-03-08T07:45:52.028Z",
+    "updatedAt": null,
+    "year": "2024",
+    "status": "registered",
+    "userId": "18"
+  }
+}

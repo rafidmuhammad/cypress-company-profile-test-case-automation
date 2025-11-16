@@ -1,0 +1,445 @@
+{
+  "id": {
+    "data": [
+      {
+        "id": 8,
+        "attributes": {
+          "date": "2023-03-21",
+          "agendaDetails": [
+            {
+              "startTime": "08:00:00",
+              "id": 22,
+              "title": "Opening 25",
+              "endTime": "09:00:00",
+              "estimatedTime": "60 Min",
+              "type": "Event",
+              "speakers": []
+            },
+            {
+              "startTime": "08:00:00",
+              "id": 11,
+              "title": "Participant Registration",
+              "endTime": "09:00:00",
+              "estimatedTime": "60 Min",
+              "type": "Event",
+              "speakers": []
+            },
+            {
+              "startTime": "09:45:00",
+              "id": 19,
+              "title": "Additional Agenda",
+              "endTime": "10:00:00",
+              "estimatedTime": "15 Min",
+              "type": "Event",
+              "speakers": [
+                {
+                  "id": 110,
+                  "name": "Speaker 2",
+                  "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+                  "type": "Speaker",
+                  "company": null,
+                  "image": {
+                    "id": 46,
+                    "name": "2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                    "provider": "strapi-provider-upload-azure-storage",
+                    "formats": {
+                      "small": {
+                        "ext": ".webp",
+                        "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                        "hash": "small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                        "mime": "image/webp",
+                        "name": "small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                        "path": null,
+                        "size": 8.67,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "xsmall": {
+                        "ext": ".webp",
+                        "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                        "hash": "xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                        "mime": "image/webp",
+                        "name": "xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                        "path": null,
+                        "size": 0.67,
+                        "width": 64,
+                        "height": 64
+                      },
+                      "thumbnail": {
+                        "ext": ".webp",
+                        "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                        "hash": "thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                        "mime": "image/webp",
+                        "name": "thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                        "path": null,
+                        "size": 1.82,
+                        "width": 156,
+                        "height": 156
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "startTime": "10:00:00",
+              "id": 15,
+              "title": "Innovation in Digital Era Learning",
+              "endTime": "12:00:00",
+              "estimatedTime": "120 Min",
+              "type": "Event",
+              "speakers": [
+                {
+                  "id": 117,
+                  "name": "Speaker 9",
+                  "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+                  "type": "Speaker",
+                  "company": null,
+                  "image": {
+                    "id": 45,
+                    "name": "2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                    "provider": "strapi-provider-upload-azure-storage",
+                    "formats": {
+                      "small": {
+                        "ext": ".webp",
+                        "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                        "hash": "small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                        "mime": "image/webp",
+                        "name": "small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                        "path": null,
+                        "size": 12.62,
+                        "width": 500,
+                        "height": 500
+                      },
+                      "xsmall": {
+                        "ext": ".webp",
+                        "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                        "hash": "xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                        "mime": "image/webp",
+                        "name": "xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                        "path": null,
+                        "size": 0.95,
+                        "width": 64,
+                        "height": 64
+                      },
+                      "thumbnail": {
+                        "ext": ".webp",
+                        "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                        "hash": "thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                        "mime": "image/webp",
+                        "name": "thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                        "path": null,
+                        "size": 2.75,
+                        "width": 156,
+                        "height": 156
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "startTime": "16:00:00",
+              "id": 18,
+              "title": "Event Closing",
+              "endTime": "16:15:00",
+              "estimatedTime": "15 Min",
+              "type": "Break",
+              "speakers": []
+            }
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 1
+      }
+    }
+  },
+  "en": {
+    "data": [
+      {
+        "id": 8,
+        "attributes": {
+          "date": "2023-04-05",
+          "agendaDetails": [
+            {
+              "startTime": "00:00:00",
+              "id": 10,
+              "title": "Agenda 4",
+              "endTime": "01:00:00",
+              "estimatedTime": "1 Hr",
+              "type": "Event",
+              "speakers": [
+                {
+                  "id": 13,
+                  "name": "Speaker 9",
+                  "linkedInProfileUrl": null,
+                  "type": "Speaker",
+                  "company": "TechCorp Digital",
+                  "image": {
+                    "id": 212,
+                    "name": "paul soegianto.jpg",
+                    "provider": "strapi-upload-azure-storage-extended",
+                    "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "small_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "small_paul soegianto.jpg",
+                        "path": null,
+                        "size": 7.04,
+                        "width": 200,
+                        "height": 200
+                      },
+                      "medium": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "medium_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "medium_paul soegianto.jpg",
+                        "path": null,
+                        "size": 32.46,
+                        "width": 480,
+                        "height": 480
+                      },
+                      "xsmall": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "xsmall_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "xsmall_paul soegianto.jpg",
+                        "path": null,
+                        "size": 1.19,
+                        "width": 50,
+                        "height": 50
+                      },
+                      "thumbnail": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "thumbnail_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_paul soegianto.jpg",
+                        "path": null,
+                        "size": 4.94,
+                        "width": 156,
+                        "height": 156
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "startTime": "07:00:00",
+              "id": 5,
+              "title": "First Agenda",
+              "endTime": "09:00:00",
+              "estimatedTime": "2 Hrs",
+              "type": "Event",
+              "speakers": [
+                {
+                  "id": 4,
+                  "name": "Speaker 1",
+                  "linkedInProfileUrl": "https://www.linkedin.com/",
+                  "type": "Speaker",
+                  "company": "TechCorp Digital",
+                  "image": {
+                    "id": 212,
+                    "name": "paul soegianto.jpg",
+                    "provider": "strapi-upload-azure-storage-extended",
+                    "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "small_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "small_paul soegianto.jpg",
+                        "path": null,
+                        "size": 7.04,
+                        "width": 200,
+                        "height": 200
+                      },
+                      "medium": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "medium_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "medium_paul soegianto.jpg",
+                        "path": null,
+                        "size": 32.46,
+                        "width": 480,
+                        "height": 480
+                      },
+                      "xsmall": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "xsmall_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "xsmall_paul soegianto.jpg",
+                        "path": null,
+                        "size": 1.19,
+                        "width": 50,
+                        "height": 50
+                      },
+                      "thumbnail": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "thumbnail_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_paul soegianto.jpg",
+                        "path": null,
+                        "size": 4.94,
+                        "width": 156,
+                        "height": 156
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "startTime": "07:00:00",
+              "id": 8,
+              "title": "Agenda 2",
+              "endTime": "09:00:00",
+              "estimatedTime": "2 Hrs",
+              "type": "Event",
+              "speakers": [
+                {
+                  "id": 8,
+                  "name": "Speaker 4",
+                  "linkedInProfileUrl": null,
+                  "type": "Speaker",
+                  "company": "TechCorp Digital",
+                  "image": {
+                    "id": 213,
+                    "name": "jvMW5X227Tfewx821OhWo3WsPv5idNkIeQ2WnPwo.jpg",
+                    "provider": "strapi-upload-azure-storage-extended",
+                    "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8.jpg",
+                        "hash": "small_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8",
+                        "mime": "image/jpeg",
+                        "name": "small_jvMW5X227Tfewx821OhWo3WsPv5idNkIeQ2WnPwo.jpg",
+                        "path": null,
+                        "size": 5.82,
+                        "width": 200,
+                        "height": 200
+                      },
+                      "medium": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8.jpg",
+                        "hash": "medium_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8",
+                        "mime": "image/jpeg",
+                        "name": "medium_jvMW5X227Tfewx821OhWo3WsPv5idNkIeQ2WnPwo.jpg",
+                        "path": null,
+                        "size": 24.62,
+                        "width": 480,
+                        "height": 480
+                      },
+                      "xsmall": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8.jpg",
+                        "hash": "xsmall_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8",
+                        "mime": "image/jpeg",
+                        "name": "xsmall_jvMW5X227Tfewx821OhWo3WsPv5idNkIeQ2WnPwo.jpg",
+                        "path": null,
+                        "size": 1.06,
+                        "width": 50,
+                        "height": 50
+                      },
+                      "thumbnail": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8.jpg",
+                        "hash": "thumbnail_jv_MW_5_X227_Tfewx821_Oh_Wo3_Ws_Pv5id_Nk_Ie_Q2_Wn_Pwo_272a1d4bc8",
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_jvMW5X227Tfewx821OhWo3WsPv5idNkIeQ2WnPwo.jpg",
+                        "path": null,
+                        "size": 4.09,
+                        "width": 156,
+                        "height": 156
+                      }
+                    }
+                  }
+                },
+                {
+                  "id": 7,
+                  "name": "Speaker 3",
+                  "linkedInProfileUrl": null,
+                  "type": "Speaker",
+                  "company": null,
+                  "image": {
+                    "id": 212,
+                    "name": "paul soegianto.jpg",
+                    "provider": "strapi-upload-azure-storage-extended",
+                    "formats": {
+                      "small": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/small_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "small_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "small_paul soegianto.jpg",
+                        "path": null,
+                        "size": 7.04,
+                        "width": 200,
+                        "height": 200
+                      },
+                      "medium": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/medium_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "medium_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "medium_paul soegianto.jpg",
+                        "path": null,
+                        "size": 32.46,
+                        "width": 480,
+                        "height": 480
+                      },
+                      "xsmall": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/xsmall_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "xsmall_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "xsmall_paul soegianto.jpg",
+                        "path": null,
+                        "size": 1.19,
+                        "width": 50,
+                        "height": 50
+                      },
+                      "thumbnail": {
+                        "ext": ".jpg",
+                        "url": "https://techcorpwebstdevsea.blob.core.windows.net/techcorpdev-be/assets/images/thumbnail_paul_soegianto_6b42f3fbe2.jpg",
+                        "hash": "thumbnail_paul_soegianto_6b42f3fbe2",
+                        "mime": "image/jpeg",
+                        "name": "thumbnail_paul soegianto.jpg",
+                        "path": null,
+                        "size": 4.94,
+                        "width": 156,
+                        "height": 156
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 50,
+        "pageCount": 1,
+        "total": 1
+      }
+    }
+  }
+}

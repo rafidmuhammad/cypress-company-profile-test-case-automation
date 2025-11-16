@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "id": 121,
+      "attributes": {
+        "name": "Speaker 2 2023",
+        "position": "2",
+        "type": "Speaker",
+        "createdAt": "2024-03-22T04:41:08.205Z",
+        "updatedAt": "2024-03-22T04:42:16.679Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2023,
+        "image": {
+          "id": 51,
+          "attributes": {
+            "name": "pexels-italo-melo-2379005.jpg",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/large_pexels_italo_melo_2379005_c9c1afc5df.jpg",
+                "hash": "large_pexels_italo_melo_2379005_c9c1afc5df",
+                "mime": "image/jpeg",
+                "name": "large_pexels-italo-melo-2379005.jpg",
+                "path": null,
+                "size": 138.76,
+                "width": 800,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_pexels_italo_melo_2379005_c9c1afc5df.jpg",
+                "hash": "small_pexels_italo_melo_2379005_c9c1afc5df",
+                "mime": "image/jpeg",
+                "name": "small_pexels-italo-melo-2379005.jpg",
+                "path": null,
+                "size": 34.79,
+                "width": 400,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/medium_pexels_italo_melo_2379005_c9c1afc5df.jpg",
+                "hash": "medium_pexels_italo_melo_2379005_c9c1afc5df",
+                "mime": "image/jpeg",
+                "name": "medium_pexels-italo-melo-2379005.jpg",
+                "path": null,
+                "size": 77.09,
+                "width": 600,
+                "height": 750
+              },
+              "xlarge": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xlarge_pexels_italo_melo_2379005_c9c1afc5df.jpg",
+                "hash": "xlarge_pexels_italo_melo_2379005_c9c1afc5df",
+                "mime": "image/jpeg",
+                "name": "xlarge_pexels-italo-melo-2379005.jpg",
+                "path": null,
+                "size": 646.96,
+                "width": 1536,
+                "height": 1920
+              },
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_pexels_italo_melo_2379005_c9c1afc5df.jpg",
+                "hash": "xsmall_pexels_italo_melo_2379005_c9c1afc5df",
+                "mime": "image/jpeg",
+                "name": "xsmall_pexels-italo-melo-2379005.jpg",
+                "path": null,
+                "size": 1.4,
+                "width": 51,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_pexels_italo_melo_2379005_c9c1afc5df.jpg",
+                "hash": "thumbnail_pexels_italo_melo_2379005_c9c1afc5df",
+                "mime": "image/jpeg",
+                "name": "thumbnail_pexels-italo-melo-2379005.jpg",
+                "path": null,
+                "size": 4.64,
+                "width": 125,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 122,
+      "attributes": {
+        "name": "Speaker 3 2023",
+        "position": "3",
+        "type": "Speaker",
+        "createdAt": "2024-03-22T04:41:39.091Z",
+        "updatedAt": "2024-03-22T04:42:21.399Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2023,
+        "image": {
+          "id": 46,
+          "attributes": {
+            "name": "2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "small": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                "hash": "small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                "mime": "image/webp",
+                "name": "small_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                "path": null,
+                "size": 8.67,
+                "width": 500,
+                "height": 500
+              },
+              "xsmall": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                "hash": "xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                "mime": "image/webp",
+                "name": "xsmall_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                "path": null,
+                "size": 0.67,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8.webp",
+                "hash": "thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000_f4396d9fc8",
+                "mime": "image/webp",
+                "name": "thumbnail_2afbdb4bef1bbfe0c0670596008af7f4e34c51bb_2000x2000.webp",
+                "path": null,
+                "size": 1.82,
+                "width": 156,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 118,
+      "attributes": {
+        "name": "Speaker 2023",
+        "position": "1",
+        "type": "Speaker",
+        "createdAt": "2024-03-21T02:35:02.498Z",
+        "updatedAt": "2024-03-22T07:41:33.598Z",
+        "linkedInProfileUrl": "https://www.linkedin.com/company/techcorp-digital-international/",
+        "company": null,
+        "year": 2023,
+        "image": {
+          "id": 45,
+          "attributes": {
+            "name": "2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+            "provider": "strapi-provider-upload-azure-storage",
+            "formats": {
+              "small": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                "hash": "small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                "mime": "image/webp",
+                "name": "small_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                "path": null,
+                "size": 12.62,
+                "width": 500,
+                "height": 500
+              },
+              "xsmall": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                "hash": "xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                "mime": "image/webp",
+                "name": "xsmall_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                "path": null,
+                "size": 0.95,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".webp",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c.webp",
+                "hash": "thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000_af0a44d87c",
+                "mime": "image/webp",
+                "name": "thumbnail_2c1ed28cb8ab7edf27f18c746b61a5357a3f517b_2000x2000.webp",
+                "path": null,
+                "size": 2.75,
+                "width": 156,
+                "height": 156
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

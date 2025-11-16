@@ -1,0 +1,116 @@
+{
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "attributes": {
+            "type": "object",
+            "properties": {
+              "date": {
+                "type": "string"
+              },
+              "agendaDetails": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "startTime": {
+                      "type": "string"
+                    },
+                    "id": {
+                      "type": "integer"
+                    },
+                    "title": {
+                      "type": "string"
+                    },
+                    "endTime": {
+                      "type": "string"
+                    },
+                    "estimatedTime": {
+                      "type": ["string", "null"]
+                    },
+                    "type": {
+                      "type": "string"
+                    },
+                    "speakers": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": {
+                            "type": "integer"
+                          },
+                          "name": {
+                            "type": "string"
+                          },
+                          "linkedInProfileUrl": {
+                            "type": ["string", "null"]
+                          },
+                          "type": {
+                            "type": "string"
+                          },
+                          "company": {
+                            "type": ["string", "null"]
+                          }
+                        },
+                        "required": [
+                          "id",
+                          "name",
+                          "linkedInProfileUrl",
+                          "type",
+                          "company"
+                        ]
+                      }
+                    }
+                  },
+                  "required": [
+                    "startTime",
+                    "id",
+                    "title",
+                    "endTime",
+                    "estimatedTime",
+                    "type",
+                    "speakers"
+                  ]
+                }
+              }
+            },
+            "required": ["date", "agendaDetails"]
+          }
+        },
+        "required": ["id", "attributes"]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "pagination": {
+          "type": "object",
+          "properties": {
+            "page": {
+              "type": "integer"
+            },
+            "pageSize": {
+              "type": "integer"
+            },
+            "pageCount": {
+              "type": "integer"
+            },
+            "total": {
+              "type": "integer"
+            }
+          },
+          "required": ["page", "pageSize", "pageCount", "total"]
+        }
+      },
+      "required": ["pagination"]
+    }
+  },
+  "required": ["data", "meta"]
+}

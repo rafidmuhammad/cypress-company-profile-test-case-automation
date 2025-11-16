@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "id": 55,
+      "attributes": {
+        "name": "Student UI",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 1,
+        "description": "finalis Student",
+        "logo": {
+          "id": 549,
+          "attributes": {
+            "name": "download (2).png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_2_cabe3c3c3c.png",
+                "hash": "xsmall_download_2_cabe3c3c3c",
+                "mime": "image/png",
+                "name": "xsmall_download (2).png",
+                "path": null,
+                "size": 4.99,
+                "width": 59,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_2_cabe3c3c3c.png",
+                "hash": "thumbnail_download_2_cabe3c3c3c",
+                "mime": "image/png",
+                "name": "thumbnail_download (2).png",
+                "path": null,
+                "size": 18.11,
+                "width": 144,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_2_cabe3c3c3c.png"
+          }
+        }
+      }
+    },
+    {
+      "id": 59,
+      "attributes": {
+        "name": "Student 3",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 3,
+        "description": "Finalis Student 3",
+        "logo": {
+          "id": 563,
+          "attributes": {
+            "name": "download (6).png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_6_338618f85c.png",
+                "hash": "xsmall_download_6_338618f85c",
+                "mime": "image/png",
+                "name": "xsmall_download (6).png",
+                "path": null,
+                "size": 2.37,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_6_338618f85c.png",
+                "hash": "thumbnail_download_6_338618f85c",
+                "mime": "image/png",
+                "name": "thumbnail_download (6).png",
+                "path": null,
+                "size": 7.03,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_6_338618f85c.png"
+          }
+        }
+      }
+    },
+    {
+      "id": 60,
+      "attributes": {
+        "name": "Student 4",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 4,
+        "description": "Finalis Student 4",
+        "logo": {
+          "id": 558,
+          "attributes": {
+            "name": "download (6).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_6_20745f4398.jpg",
+                "hash": "xsmall_download_6_20745f4398",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (6).jpg",
+                "path": null,
+                "size": 1.76,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_6_20745f4398.jpg",
+                "hash": "thumbnail_download_6_20745f4398",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (6).jpg",
+                "path": null,
+                "size": 6.09,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_6_20745f4398.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 61,
+      "attributes": {
+        "name": "Student 5",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 5,
+        "description": "Finalis Student 5",
+        "logo": {
+          "id": 559,
+          "attributes": {
+            "name": "download (7).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_7_2116456fd3.jpg",
+                "hash": "xsmall_download_7_2116456fd3",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (7).jpg",
+                "path": null,
+                "size": 0.94,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_7_2116456fd3.jpg",
+                "hash": "thumbnail_download_7_2116456fd3",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (7).jpg",
+                "path": null,
+                "size": 2.38,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_7_2116456fd3.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 62,
+      "attributes": {
+        "name": "Student 6",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 6,
+        "description": "Finalis Student 6",
+        "logo": {
+          "id": 551,
+          "attributes": {
+            "name": "download (5).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_5_87f895c585.jpg",
+                "hash": "xsmall_download_5_87f895c585",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (5).jpg",
+                "path": null,
+                "size": 1.66,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_5_87f895c585.jpg",
+                "hash": "thumbnail_download_5_87f895c585",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (5).jpg",
+                "path": null,
+                "size": 5.99,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_5_87f895c585.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 63,
+      "attributes": {
+        "name": "Student 7",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 7,
+        "description": "Finalis Student 7 ",
+        "logo": {
+          "id": 550,
+          "attributes": {
+            "name": "download (4).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_4_69d1fab492.jpg",
+                "hash": "xsmall_download_4_69d1fab492",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (4).jpg",
+                "path": null,
+                "size": 1.91,
+                "width": 64,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_4_69d1fab492.jpg",
+                "hash": "thumbnail_download_4_69d1fab492",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (4).jpg",
+                "path": null,
+                "size": 7.76,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_4_69d1fab492.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 64,
+      "attributes": {
+        "name": "Student 8",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 8,
+        "description": "Student finalis 8",
+        "logo": {
+          "id": 567,
+          "attributes": {
+            "name": "download (12).jpg",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_download_12_76e31c30fd.jpg",
+                "hash": "xsmall_download_12_76e31c30fd",
+                "mime": "image/jpeg",
+                "name": "xsmall_download (12).jpg",
+                "path": null,
+                "size": 1.52,
+                "width": 62,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_download_12_76e31c30fd.jpg",
+                "hash": "thumbnail_download_12_76e31c30fd",
+                "mime": "image/jpeg",
+                "name": "thumbnail_download (12).jpg",
+                "path": null,
+                "size": 5.15,
+                "width": 151,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/download_12_76e31c30fd.jpg"
+          }
+        }
+      }
+    },
+    {
+      "id": 65,
+      "attributes": {
+        "name": "Student 9",
+        "year": 2024,
+        "category": "Student Track",
+        "type": "Finalist",
+        "position": 9,
+        "description": "Finalis Student 9",
+        "logo": {
+          "id": 571,
+          "attributes": {
+            "name": "images (6).png",
+            "provider": "strapi-upload-azure-storage-extended",
+            "formats": {
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_images_6_1264a07a84.png",
+                "hash": "xsmall_images_6_1264a07a84",
+                "mime": "image/png",
+                "name": "xsmall_images (6).png",
+                "path": null,
+                "size": 4.37,
+                "width": 60,
+                "height": 64
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_images_6_1264a07a84.png",
+                "hash": "thumbnail_images_6_1264a07a84",
+                "mime": "image/png",
+                "name": "thumbnail_images (6).png",
+                "path": null,
+                "size": 16.47,
+                "width": 146,
+                "height": 156
+              }
+            },
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/images_6_1264a07a84.png"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 1,
+      "total": 8
+    }
+  }
+}

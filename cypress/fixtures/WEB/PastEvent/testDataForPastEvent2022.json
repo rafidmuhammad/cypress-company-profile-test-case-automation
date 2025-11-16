@@ -1,0 +1,112 @@
+{
+  "id": {
+    "data": [
+      {
+        "id": 2,
+        "attributes": {
+          "year": "2022",
+          "youtube_link": "https://www.youtube.com/watch?v=WG2tc0UaP_8",
+          "position": 2,
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TechSpace 2022 merupakan kompetisi inovasi digital dan teknologi pertama bagi startup dan mahasiswa yang diadakan oleh" TechCorp." TechSpace bertujuan untuk dapat melahirkan ide inovatif yang dapat menjawab tantangan bisnis dan juga dapat menciptakan ruang kolaborasi yang lebih erat lagi antara mahasiswa, startup, dan juga" TechCorp." Selain itu, program ini juga merupakan upaya memperkuat ekosistem startup" TechCorp," dan inisiatif-inisiatif dalam bidang digital serta teknologi.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Bertajuk TechSpace: Inspire, Innovate, CollaborateTerdapat 5 tema yang dikompetisikan yaitu Future of Mobility, Future of Finance, Industry 4.0, Sustainability, dan Emerging Technology. Baca selengkapnya ",
+                  "type": "text"
+                },
+                {
+                  "url": "https://techcorp.id/article/detail/techspaces-ajang-adu-inovasi-techpreneur-muda-tanah-air",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "di sini",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "locale": "id"
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 1
+      }
+    }
+  },
+  "en": {
+    "data": [
+      {
+        "id": 2,
+        "attributes": {
+          "year": "2022",
+          "youtube_link": "https://www.youtube.com/watch?v=WG2tc0UaP_8",
+          "position": 2,
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TechSpace 2022 is the first digital and technology innovation competition for startups and students held by" TechCorp." TechSpace aims to be able to produce innovative ideas that can answer business challenges and also create a space for closer collaboration between students, startups and" TechCorp." Apart from that, this program is also an effort to strengthen the TechCorp startup ecosystem, and initiatives in the digital and technology fields.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TechSpace: Inspire, Innovate, Collaborate, there are 5 competing themes, namely Future of Mobility, Future of Finance, Industry 4.0, Sustainability, and Emerging Technology. Read more ",
+                  "type": "text"
+                },
+                {
+                  "url": "https://techcorp.id/article/detail/techspaces-ajang-adu-inovasi-techpreneur-muda-tanah-air",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "here",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "locale": "en"
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 1
+      }
+    }
+  }
+}

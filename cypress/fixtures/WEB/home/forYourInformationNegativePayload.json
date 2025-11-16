@@ -1,0 +1,17 @@
+[
+    {
+            "email": "test@gmail.com",
+            "message": "This is a test without name attribute",
+            "notIncluded": "name"
+    },
+    {
+            "name": "John Doe",
+            "message": "This is a test without email attribute",
+            "notIncluded":"email"
+    },
+    {
+            "name": "John Doe",
+            "email": "test@gmail.com",
+            "notIncluded":"message"
+    }
+]

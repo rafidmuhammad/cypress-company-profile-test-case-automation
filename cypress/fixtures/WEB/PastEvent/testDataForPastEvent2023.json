@@ -1,0 +1,122 @@
+{
+  "id": {
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "year": "2023",
+          "youtube_link": "https://www.youtube.com/watch?v=IT2gxBZRhhQ",
+          "position": 1,
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TechSpace 2023 mengangkat tema \"Building A Sustainable Future Through Technology\". ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TechSpace 2023 berhasil mendapatkan lebih dari 900 ide inovasi dari 2.200 pendaftar. Setelah melewati tahap kurasi, terpilih 23 finalis yang terdiri dari 12 startup dan 11 mahasiswa. Pemenang TechSpace 2023 sendiri telah mencetuskan ide inovatif di bidang sustainability, edu-tech, emerging tech, health, agribusiness, mobility, fin-tech, logistic, serta new media.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Baca selengkapnya ",
+                  "type": "text"
+                },
+                {
+                  "url": "https://techcorp.id/article/detail/demo-day-awarding-techspaces-2023-banjir-ide-inovasi-teknologi-terbaru",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "di sini",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "locale": "id"
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 1
+      }
+    }
+  },
+  "en": {
+    "data": [
+      {
+        "id": 3,
+        "attributes": {
+          "year": "2023",
+          "youtube_link": "https://www.youtube.com/watch?v=IT2gxBZRhhQ",
+          "position": 1,
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TechSpace 2023 has the theme \"Building A Sustainable Future Through Technology\".",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "TechSpace 2023 succeeded in getting more than 900 innovation ideas from 2,200 applicants. After passing the curation stage, 23 finalists were selected consisting of 12 startups and 11 students. The 2023 TechSpace winners themselves have sparked innovative ideas in the fields of sustainability, edu-tech, emerging tech, health, agribusiness, mobility, fin-tech, logistics and new media.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Read more ",
+                  "type": "text"
+                },
+                {
+                  "url": "https://techcorp.id/article/detail/demo-day-awarding-techspaces-2023-banjir-ide-inovasi-teknologi-terbaru",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "here",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "locale": "en"
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1,
+        "total": 1
+      }
+    }
+  }
+}

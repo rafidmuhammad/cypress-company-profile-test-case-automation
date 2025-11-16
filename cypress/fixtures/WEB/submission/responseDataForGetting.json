@@ -1,0 +1,65 @@
+{
+  "data_1": {
+    "teamName": "Tim Palugada 1",
+    "teamLeadName": "Darussalam",
+    "teamLeadEmail": "darussalam@example.com",
+    "teamLeadWhatsappNumber": "081234567890",
+    "institution": "Universitas Jayajaya",
+    "major": "Teknik Informatika",
+    "gender": "laki - laki",
+    "summaryOfInnovation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "problemStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "solution": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "competitiveAnalysis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "uniqueValueProposition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "haveProductTraction": true,
+    "haveGetInvestments": true,
+    "productTractionInformation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "investmentInformation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "competitionTrack": "Student",
+    "year": "2024",
+    "status": "registered"
+  },
+  "innovationCategory": {
+    "id": 1,
+    "title": "Smart Agriculture",
+    "description": "Use of technology to optimize crop yields, promote sustainable practices, and simplify operations in the agricultural sector.",
+    "locale": "id",
+    "detailPageUrl": null
+  },
+  "referral": {
+    "id": 1,
+    "code": "TechinAsia"
+  },
+  "proposal": {
+    "alternativeText": null,
+    "caption": null,
+    "width": null,
+    "height": null,
+    "formats": null,
+    "ext": ".pdf",
+    "mime": "application/pdf",
+    "size": 4293.94,
+    "previewUrl": null,
+    "provider": "strapi-upload-azure-storage-extended",
+    "provider_metadata": null
+  },
+  "domicileCity": {
+    "id": 1,
+    "city_id": 1,
+    "province_id": 21,
+    "province": "Nanggroe Aceh Darussalam (NAD)",
+    "type": "Kabupaten",
+    "city_name": "Aceh Barat",
+    "postal_code": "23681"
+  },
+  "user": {
+    "id": 18,
+    "username": null,
+    "email": "tester@example.com",
+    "provider": "oauth",
+    "confirmed": true,
+    "blocked": false,
+    "name": "tester"
+  }
+}

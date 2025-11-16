@@ -1,0 +1,898 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "banner": {
+        "id": 1,
+        "pageTitle_id": "Siapa Kita",
+        "pageDescription_id": "PT TechCorp Digital Internasional (TechCorp Digital), yang didirikan pada tanggal 19 April 2018, merupakan lini bisnis yang berfokus pada digital dan strategi dari Grup" TechCorp." Tujuan utama dari TechCorp Digital adalah menjadi pelopor inovasi di bidang digital dan memberikan nilai tambah yang baru bagi pelanggan" TechCorp."\\n\\nDengan enam pilar digital utama yang meliputi Digital Ventures, Venture Building, Strategy & Consulting, Digital Marketing, Data Intelligence, dan Academy & Technology, TechCorp Digital berkomitmen untuk mendukung upaya digitalisasi Unit Bisnis" TechCorp." Selain itu, TechCorp Digital juga mengelola bisnis digital yang didukung sepenuhnya oleh Grup" TechCorp."\\n\\nKami Berinvestasi pada Profesional Terbaik untuk Mengubah Tujuan Bisnis Anda menjadi Hasil Terbaik dan Terdepan",
+        "pageTitle_en": "Who Are We",
+        "pageDescription_en": "TechCorp Digital (PT TechCorp Digital Internasional), was established on 19 April 2018 as a digital & strategy arm of TechCorp Group. TechCorp Digital aims to be at the forefront of digital innovation and delivers new value propositions to TechCorp customers.\\n\\nBy upholding 6 Digital Pillars, namely Digital Ventures, Venture Building, Strategy & Consulting, Digital Marketing, Data Intelligence, and Academy & Technology, we aim to support the digitalization efforts of TechCorp Business Units. In addition, we also operate digital ventures with full support from TechCorp Group businesses.\\n\\nWe Invest in Top Professionals  to Turn your Business Objectives into Achievable Results and In Top Performance",
+        "youtubeLink": "https://youtu.be/nTp2-pmjjkA",
+        "logo": {
+          "id": 618,
+          "attributes": {
+            "name": "f42c99cd84cca3a820f9ec34a93f4d2e.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 2702,
+            "height": 540,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "large_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "large_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 52.92,
+                "width": 1080,
+                "height": 216
+              },
+              "small": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "small_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "small_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 8.3,
+                "width": 200,
+                "height": 40
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "medium_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "medium_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 22.01,
+                "width": 480,
+                "height": 96
+              },
+              "xlarge": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "xlarge_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "xlarge_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 124.31,
+                "width": 2180,
+                "height": 436
+              },
+              "xsmall": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "xsmall_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "xsmall_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 1.42,
+                "width": 50,
+                "height": 10
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+                "hash": "thumbnail_f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+                "mime": "image/png",
+                "name": "thumbnail_f42c99cd84cca3a820f9ec34a93f4d2e.png",
+                "path": null,
+                "size": 10.32,
+                "width": 245,
+                "height": 49
+              }
+            },
+            "hash": "f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 24.18,
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/f42c99cd84cca3a820f9ec34a93f4d2e_b8b8e0a6a0.png",
+            "previewUrl": null,
+            "provider": "strapi-upload-azure-storage-extended",
+            "provider_metadata": null,
+            "createdAt": "2024-04-03T10:09:05.122Z",
+            "updatedAt": "2024-04-03T10:09:05.122Z"
+          }
+        },
+        "bannerVideo": {
+          "id": 617,
+          "attributes": {
+            "name": "TechCorp Digital.mp4",
+            "alternativeText": null,
+            "caption": null,
+            "width": null,
+            "height": null,
+            "formats": null,
+            "hash": "TechCorp_Digital_3da6074568",
+            "ext": ".mp4",
+            "mime": "video/mp4",
+            "size": 10993.55,
+            "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/videos/TechCorp_Digital_3da6074568.mp4",
+            "previewUrl": null,
+            "provider": "strapi-upload-azure-storage-extended",
+            "provider_metadata": null,
+            "createdAt": "2024-04-03T07:20:57.499Z",
+            "updatedAt": "2024-04-03T07:20:57.499Z"
+          }
+        }
+      },
+      "ourCoreValues": [
+        {
+          "id": 2,
+          "title_id": "Menghargai",
+          "description_id": "Kami memperlakukan setiap manusia dengan hormat. Kami percaya bahwa rasa hormat mendorong kerja sama dan memudahkan mencapai tujuan bersama.",
+          "title_en": "Respect",
+          "description_en": "We treat every human being with respect. We believe respect promotes cooperation and makes it easier for us to achieve our common goals.",
+          "icon": {
+            "id": 610,
+            "attributes": {
+              "name": "a97259769ec72574b3dccc4cd67296cb.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_a97259769ec72574b3dccc4cd67296cb_96d9a7665e.png",
+                  "hash": "large_a97259769ec72574b3dccc4cd67296cb_96d9a7665e",
+                  "mime": "image/png",
+                  "name": "large_a97259769ec72574b3dccc4cd67296cb.png",
+                  "path": null,
+                  "size": 239.97,
+                  "width": 1080,
+                  "height": 810
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_a97259769ec72574b3dccc4cd67296cb_96d9a7665e.png",
+                  "hash": "small_a97259769ec72574b3dccc4cd67296cb_96d9a7665e",
+                  "mime": "image/png",
+                  "name": "small_a97259769ec72574b3dccc4cd67296cb.png",
+                  "path": null,
+                  "size": 18.46,
+                  "width": 200,
+                  "height": 150
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_a97259769ec72574b3dccc4cd67296cb_96d9a7665e.png",
+                  "hash": "medium_a97259769ec72574b3dccc4cd67296cb_96d9a7665e",
+                  "mime": "image/png",
+                  "name": "medium_a97259769ec72574b3dccc4cd67296cb.png",
+                  "path": null,
+                  "size": 66.61,
+                  "width": 480,
+                  "height": 360
+                },
+                "xlarge": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_a97259769ec72574b3dccc4cd67296cb_96d9a7665e.png",
+                  "hash": "xlarge_a97259769ec72574b3dccc4cd67296cb_96d9a7665e",
+                  "mime": "image/png",
+                  "name": "xlarge_a97259769ec72574b3dccc4cd67296cb.png",
+                  "path": null,
+                  "size": 950.78,
+                  "width": 2180,
+                  "height": 1635
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_a97259769ec72574b3dccc4cd67296cb_96d9a7665e.png",
+                  "hash": "xsmall_a97259769ec72574b3dccc4cd67296cb_96d9a7665e",
+                  "mime": "image/png",
+                  "name": "xsmall_a97259769ec72574b3dccc4cd67296cb.png",
+                  "path": null,
+                  "size": 2.38,
+                  "width": 50,
+                  "height": 38
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_a97259769ec72574b3dccc4cd67296cb_96d9a7665e.png",
+                  "hash": "thumbnail_a97259769ec72574b3dccc4cd67296cb_96d9a7665e",
+                  "mime": "image/png",
+                  "name": "thumbnail_a97259769ec72574b3dccc4cd67296cb.png",
+                  "path": null,
+                  "size": 19.63,
+                  "width": 208,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "title_id": "Pemberdayaan",
+          "description_id": "Kami berinvestasi dengan pola pikir pemberdayaan, memastikan bahwa semua startup yang kami investasikan tumbuh secara berkelanjutan dengan membawa semangat kolaborasi.",
+          "title_en": "Empowerment",
+          "description_en": "We invest with an empowerment mindset, ensuring that all the startups we invest in grow sustainably by bringing a spirit of collaboration.",
+          "icon": {
+            "id": 609,
+            "attributes": {
+              "name": "5c7cb6db14cf452ca1287574832bd381.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_5c7cb6db14cf452ca1287574832bd381_f606496bde.png",
+                  "hash": "large_5c7cb6db14cf452ca1287574832bd381_f606496bde",
+                  "mime": "image/png",
+                  "name": "large_5c7cb6db14cf452ca1287574832bd381.png",
+                  "path": null,
+                  "size": 415.19,
+                  "width": 1080,
+                  "height": 1080
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_5c7cb6db14cf452ca1287574832bd381_f606496bde.png",
+                  "hash": "small_5c7cb6db14cf452ca1287574832bd381_f606496bde",
+                  "mime": "image/png",
+                  "name": "small_5c7cb6db14cf452ca1287574832bd381.png",
+                  "path": null,
+                  "size": 23.5,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_5c7cb6db14cf452ca1287574832bd381_f606496bde.png",
+                  "hash": "medium_5c7cb6db14cf452ca1287574832bd381_f606496bde",
+                  "mime": "image/png",
+                  "name": "medium_5c7cb6db14cf452ca1287574832bd381.png",
+                  "path": null,
+                  "size": 97.08,
+                  "width": 480,
+                  "height": 480
+                },
+                "xlarge": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_5c7cb6db14cf452ca1287574832bd381_f606496bde.png",
+                  "hash": "xlarge_5c7cb6db14cf452ca1287574832bd381_f606496bde",
+                  "mime": "image/png",
+                  "name": "xlarge_5c7cb6db14cf452ca1287574832bd381.png",
+                  "path": null,
+                  "size": 1764.41,
+                  "width": 2180,
+                  "height": 2180
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_5c7cb6db14cf452ca1287574832bd381_f606496bde.png",
+                  "hash": "xsmall_5c7cb6db14cf452ca1287574832bd381_f606496bde",
+                  "mime": "image/png",
+                  "name": "xsmall_5c7cb6db14cf452ca1287574832bd381.png",
+                  "path": null,
+                  "size": 3.35,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_5c7cb6db14cf452ca1287574832bd381_f606496bde.png",
+                  "hash": "thumbnail_5c7cb6db14cf452ca1287574832bd381_f606496bde",
+                  "mime": "image/png",
+                  "name": "thumbnail_5c7cb6db14cf452ca1287574832bd381.png",
+                  "path": null,
+                  "size": 16.4,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "title_id": "Komitment",
+          "description_id": "Tim kami berdedikasi untuk memberikan investasi berharga untuk memperkuat seluruh ekosistem.",
+          "title_en": "Commitment",
+          "description_en": "Our team is dedicated to providing valuable investments to strengthen the entire ecosystem.",
+          "icon": {
+            "id": 611,
+            "attributes": {
+              "name": "446098c37b9f11c818a80ca80e17bc1c.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "large_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "large_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 535.6,
+                  "width": 1080,
+                  "height": 1080
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "small_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "small_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 32.92,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "medium_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "medium_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 130.68,
+                  "width": 480,
+                  "height": 480
+                },
+                "xlarge": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "xlarge_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "xlarge_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 2325.76,
+                  "width": 2180,
+                  "height": 2180
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "xsmall_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "xsmall_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 4.04,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "thumbnail_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "thumbnail_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 22.83,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "title_id": "ini testing",
+          "description_id": "ini testing",
+          "title_en": "ini testing",
+          "description_en": "ini testing",
+          "icon": {
+            "id": 611,
+            "attributes": {
+              "name": "446098c37b9f11c818a80ca80e17bc1c.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/large_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "large_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "large_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 535.6,
+                  "width": 1080,
+                  "height": 1080
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "small_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "small_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 32.92,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "medium_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "medium_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 130.68,
+                  "width": 480,
+                  "height": 480
+                },
+                "xlarge": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xlarge_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "xlarge_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "xlarge_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 2325.76,
+                  "width": 2180,
+                  "height": 2180
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "xsmall_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "xsmall_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 4.04,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2.png",
+                  "hash": "thumbnail_446098c37b9f11c818a80ca80e17bc1c_3a11b4d7d2",
+                  "mime": "image/png",
+                  "name": "thumbnail_446098c37b9f11c818a80ca80e17bc1c.png",
+                  "path": null,
+                  "size": 22.83,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      ],
+      "boardOfDirectors": [
+        {
+          "id": 1,
+          "position": 1,
+          "name": "Paul Soegianto",
+          "jobPosition": "Chief of Group Digital Strategy",
+          "jobDescription_id": "Paul telah bekerja di lima benua dan di lebih dari 20 negara, termasuk sembilan tahun di Airbus dan lima tahun di McKinsey. Ia melayani lebih dari 10 perusahaan global Fortune 500 di berbagai industri, seperti Telekomunikasi, IT, dan Teknik.\n\nPada tahun 2019, Paul bergabung dengan Blue Bird sebagai Chief Strategy Officer, salah satu perusahaan transportasi terbesar di Indonesia. Ia berhasil mengubah Blue Bird dari perusahaan taksi tradisional menjadi pemain utama dalam layanan Mobility as a Service di Indonesia.\n\nAwal tahun 2022, ia bergabung dengan" TechCorp," konglomerat multinasional di Indonesia, sebagai Chief of Group Digital Strategy. Seperti perannya di Blue Bird, ia bertanggung jawab untuk mempercepat transformasi digital" TechCorp."",
+          "jobDescription_en": "Paul has worked on five different continents and in more than 20 countries. He spent nine years at Airbus, five years in McKinsey serving more than 10 Fortune 500 global companies. He has worked in different industries including Telecommunications, IT and Engineering.\n\nIn 2019 Paul joined Blue Bird, one of the largest transportation company in Indonesia, as Chief Strategy Officer. He successfully transform Blue Bird from a traditional taxi company to a major Mobility as a Service player in Indonesia.\n\nIn early 2022 he moved to" TechCorp," a multinational conglomerate in Indonesia, as Chief of Group Digital Strategy. Similar like his role in Blue Bird, he got the mandate to accelerate digital transformation at" TechCorp."",
+          "instagramUrl": "https://www.instagram.com/paulsoegianto",
+          "linkedinUrl": "https://www.linkedin.com/in/paul-soegianto",
+          "profileImage": {
+            "id": 614,
+            "attributes": {
+              "name": "18ace41a4a25f19a84e2676e53117763.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_18ace41a4a25f19a84e2676e53117763_77ff8a7506.png",
+                  "hash": "small_18ace41a4a25f19a84e2676e53117763_77ff8a7506",
+                  "mime": "image/png",
+                  "name": "small_18ace41a4a25f19a84e2676e53117763.png",
+                  "path": null,
+                  "size": 68.15,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_18ace41a4a25f19a84e2676e53117763_77ff8a7506.png",
+                  "hash": "medium_18ace41a4a25f19a84e2676e53117763_77ff8a7506",
+                  "mime": "image/png",
+                  "name": "medium_18ace41a4a25f19a84e2676e53117763.png",
+                  "path": null,
+                  "size": 352.61,
+                  "width": 480,
+                  "height": 480
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_18ace41a4a25f19a84e2676e53117763_77ff8a7506.png",
+                  "hash": "xsmall_18ace41a4a25f19a84e2676e53117763_77ff8a7506",
+                  "mime": "image/png",
+                  "name": "xsmall_18ace41a4a25f19a84e2676e53117763.png",
+                  "path": null,
+                  "size": 5.93,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_18ace41a4a25f19a84e2676e53117763_77ff8a7506.png",
+                  "hash": "thumbnail_18ace41a4a25f19a84e2676e53117763_77ff8a7506",
+                  "mime": "image/png",
+                  "name": "thumbnail_18ace41a4a25f19a84e2676e53117763.png",
+                  "path": null,
+                  "size": 44.37,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "position": 2,
+          "name": "Wiwie Yudiantyo",
+          "jobPosition": "Division Head of Digital Marketing",
+          "jobDescription_id": "Wiwie memulai karirnya sebagai SAP PM or SM Associate Consultant (Divisi TI) di TechCorp International Inc dan Project Manager & SAP Logistic Senior Consultant di PT TechCorp Graphia Tbk.",
+          "jobDescription_en": "Wiwie began his career as SAP PM or SM Associate Consultant (IT Division) at TechCorp International Inc and Project Manager & SAP Logistic Senior Consultant at PT TechCorp Graphia Tbk.",
+          "instagramUrl": "https://www.instagram.com/wiwieyudiantyo",
+          "linkedinUrl": "https://www.linkedin.com/in/wiwie-yudiantyo-66417b1",
+          "profileImage": {
+            "id": 612,
+            "attributes": {
+              "name": "401be120287f4618a776c3f53186ff46.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_401be120287f4618a776c3f53186ff46_5654c0fb40.png",
+                  "hash": "small_401be120287f4618a776c3f53186ff46_5654c0fb40",
+                  "mime": "image/png",
+                  "name": "small_401be120287f4618a776c3f53186ff46.png",
+                  "path": null,
+                  "size": 56.45,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_401be120287f4618a776c3f53186ff46_5654c0fb40.png",
+                  "hash": "medium_401be120287f4618a776c3f53186ff46_5654c0fb40",
+                  "mime": "image/png",
+                  "name": "medium_401be120287f4618a776c3f53186ff46.png",
+                  "path": null,
+                  "size": 264.35,
+                  "width": 480,
+                  "height": 480
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_401be120287f4618a776c3f53186ff46_5654c0fb40.png",
+                  "hash": "xsmall_401be120287f4618a776c3f53186ff46_5654c0fb40",
+                  "mime": "image/png",
+                  "name": "xsmall_401be120287f4618a776c3f53186ff46.png",
+                  "path": null,
+                  "size": 5.64,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_401be120287f4618a776c3f53186ff46_5654c0fb40.png",
+                  "hash": "thumbnail_401be120287f4618a776c3f53186ff46_5654c0fb40",
+                  "mime": "image/png",
+                  "name": "thumbnail_401be120287f4618a776c3f53186ff46.png",
+                  "path": null,
+                  "size": 37.47,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "position": 3,
+          "name": "Suwandi",
+          "jobPosition": "Division Head of Strategy & New Investment",
+          "jobDescription_id": "Suwandi memiliki pengalaman profesional selama 13 tahun dalam berbagai bidang, mulai dari Pengembangan Perusahaan, Konsultasi Strategi Transformasi TI, Kesepakatan M&A (Penstrukturan & Eksekusi), Penilaian Perusahaan, dan Transformasi Digital.",
+          "jobDescription_en": "Suwandi has 13 years of professional experience ranging from corporate development to IT transformation strategy consulting. He holds an expertise in M&A deals (structuring & execution), company valuation and digital transformation.",
+          "instagramUrl": "https://www.instagram.com/wan19wan",
+          "linkedinUrl": "https://www.linkedin.com/in/andi-suwandi-83ab966",
+          "profileImage": {
+            "id": 613,
+            "attributes": {
+              "name": "574885da378b10e08252b10242596fff.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "small_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "small_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 58.96,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "medium_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "medium_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 277.32,
+                  "width": 480,
+                  "height": 480
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "xsmall_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "xsmall_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 5.68,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "thumbnail_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "thumbnail_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 39.51,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "position": 4,
+          "name": "Febriandi Rahmatulloh",
+          "jobPosition": "Division Head of Data Intelligence",
+          "jobDescription_id": "Febri memiliki pengalaman selama 18 tahun di bidang Marketing, Data, dan Strategi yang mencakup wilayah Austria, Timur Tengah, Afrika, dan Asia Tenggara.",
+          "jobDescription_en": "Febri has extensive experience of 18 years in Marketing, Data, and Strategy across Austria, the Middle East, Africa, and Southeast Asia.",
+          "instagramUrl": "https://www.instagram.com/febriandirahmatulloh",
+          "linkedinUrl": "https://www.linkedin.com/in/febriandir",
+          "profileImage": {
+            "id": 615,
+            "attributes": {
+              "name": "xutdAWjBVPIbThv7lak5tF2FxUOFhPmu4aM4X8ml.jpg",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa.jpg",
+                  "hash": "small_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa",
+                  "mime": "image/jpeg",
+                  "name": "small_xutdAWjBVPIbThv7lak5tF2FxUOFhPmu4aM4X8ml.jpg",
+                  "path": null,
+                  "size": 6.46,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa.jpg",
+                  "hash": "medium_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa",
+                  "mime": "image/jpeg",
+                  "name": "medium_xutdAWjBVPIbThv7lak5tF2FxUOFhPmu4aM4X8ml.jpg",
+                  "path": null,
+                  "size": 26.64,
+                  "width": 480,
+                  "height": 480
+                },
+                "xsmall": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa.jpg",
+                  "hash": "xsmall_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa",
+                  "mime": "image/jpeg",
+                  "name": "xsmall_xutdAWjBVPIbThv7lak5tF2FxUOFhPmu4aM4X8ml.jpg",
+                  "path": null,
+                  "size": 1.17,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa.jpg",
+                  "hash": "thumbnail_xutd_A_Wj_BVP_Ib_Thv7lak5t_F2_Fx_UO_Fh_Pmu4a_M4_X8ml_1d07181ffa",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_xutdAWjBVPIbThv7lak5tF2FxUOFhPmu4aM4X8ml.jpg",
+                  "path": null,
+                  "size": 4.64,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 5,
+          "position": 5,
+          "name": "I Wayan Wisnu A.",
+          "jobPosition": "Division Head of Academy & Venture Building",
+          "jobDescription_id": "Wisnu memiliki pengalaman 13 tahun dalam menggunakan Data untuk meningkatkan kinerja organisasi dan bisnis di Amerika Serikat, Asia Timur, dan Asia Tenggara.",
+          "jobDescription_en": "Wisnu has 13 years of experience using data to improve organizational and business performance in the United States, East Asia, and Southeast Asia.",
+          "instagramUrl": "https://www.instagram.com/kolong.senja",
+          "linkedinUrl": "https://www.linkedin.com/in/wisnuanantawijaya",
+          "profileImage": {
+            "id": 616,
+            "attributes": {
+              "name": "UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "small_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "small_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 6.11,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "medium_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "medium_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 27.11,
+                  "width": 480,
+                  "height": 480
+                },
+                "xsmall": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "xsmall_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "xsmall_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 1.09,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "thumbnail_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 4.26,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 6,
+          "position": 6,
+          "name": "ini testing",
+          "jobPosition": "ini testing",
+          "jobDescription_id": "ini testing",
+          "jobDescription_en": "ini testing",
+          "instagramUrl": "ini testing",
+          "linkedinUrl": "ini testing",
+          "profileImage": {
+            "id": 616,
+            "attributes": {
+              "name": "UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "small_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "small_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 6.11,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "medium_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "medium_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 27.11,
+                  "width": 480,
+                  "height": 480
+                },
+                "xsmall": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "xsmall_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "xsmall_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 1.09,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7.jpg",
+                  "hash": "thumbnail_U_Dq_Ilv1fka3_T5x6_Zu7_Dnr0_F_Sxatw_Wj_Dl_D7gy_X_Xb_K_f6810b3ad7",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_UDqIlv1fka3T5x6Zu7Dnr0FSxatwWjDlD7gyXXbK.jpg",
+                  "path": null,
+                  "size": 4.26,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 7,
+          "position": 7,
+          "name": "ini testing 2",
+          "jobPosition": "ini testing 2",
+          "jobDescription_id": "ini testing 2",
+          "jobDescription_en": "ini testing 2",
+          "instagramUrl": "ini testing 2",
+          "linkedinUrl": "ini testing 2",
+          "profileImage": {
+            "id": 613,
+            "attributes": {
+              "name": "574885da378b10e08252b10242596fff.png",
+              "provider": "strapi-upload-azure-storage-extended",
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/small_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "small_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "small_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 58.96,
+                  "width": 200,
+                  "height": 200
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/medium_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "medium_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "medium_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 277.32,
+                  "width": 480,
+                  "height": 480
+                },
+                "xsmall": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/xsmall_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "xsmall_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "xsmall_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 5.68,
+                  "width": 50,
+                  "height": 50
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "https://techcorp.blob.core.windows.net/techcorp-be/assets/images/thumbnail_574885da378b10e08252b10242596fff_103648337c.png",
+                  "hash": "thumbnail_574885da378b10e08252b10242596fff_103648337c",
+                  "mime": "image/png",
+                  "name": "thumbnail_574885da378b10e08252b10242596fff.png",
+                  "path": null,
+                  "size": 39.51,
+                  "width": 156,
+                  "height": 156
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "meta": {}
+}
